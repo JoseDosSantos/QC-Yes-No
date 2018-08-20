@@ -55,11 +55,15 @@ def remove_link(tweet):
 def remove_rt(tweet):
     return re.sub(r'RT\s@\w+:\s', '', tweet)
 
-def tokenize_sentences(tweet):
-    return nltk.sent_tokenize(tweet, 'german')
-
 def remove_at(tweet):
     return re.sub(r'@[\w\d]+', '', tweet)
+
+def tokenize_sentences(tweet):
+    tokenizer = nltk.data.load('file://C:/Users/Josef/PycharmProjects/QC-Yes-No/nltk_data/tokenizers/punkt/german.pickle')
+    return tokenizer.tokenize(tweet)
+
+
+
 def clean_tweet(original_tweet):
     tweet = remove_link(original_tweet)
     tweet = remove_rt(tweet)
@@ -69,15 +73,13 @@ def clean_tweet(original_tweet):
 
 
 
-
-
 def get_tweets():
     tweetCount = 0
     sinceId = None
     max_id = -1
     valid_questions = 0
     with open(get_file_name(), 'w') as output_file:
-        writer = csv.writer(output_file, delimiter='\t')
+        writer = csv.writer(output_file, delimiter=';')
         while tweetCount < maxTweets:
             try:
                 if (max_id <= 0):
@@ -98,7 +100,7 @@ def get_tweets():
                         if '?' in sent:
                             valid_questions += 1
                             try:
-                                writer.writerow(sent)
+                                writer.writerow([sent])
                             except UnicodeEncodeError:
                                 writer.writerow(sent.encode('utf-8'))
 
@@ -113,7 +115,7 @@ def get_tweets():
 
 
 
-
+get_tweets()
 
 
 
