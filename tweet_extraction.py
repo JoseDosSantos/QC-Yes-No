@@ -58,6 +58,9 @@ def remove_rt(tweet):
 def remove_at(tweet):
     return re.sub(r'@[\w\d]+', '', tweet)
 
+def remove_semicolon(tweet):
+    return re.sub(r';', '', tweet)
+
 def tokenize_sentences(tweet):
     tokenizer = nltk.data.load('file://C:/Users/Josef/PycharmProjects/QC-Yes-No/nltk_data/tokenizers/punkt/german.pickle')
     return tokenizer.tokenize(tweet)
@@ -68,6 +71,7 @@ def clean_tweet(original_tweet):
     tweet = remove_link(original_tweet)
     tweet = remove_rt(tweet)
     tweet = remove_at(tweet)
+    tweet = remove_semicolon(tweet)
     tweet = tokenize_sentences(tweet)
     return tweet
 
@@ -78,7 +82,7 @@ def get_tweets():
     sinceId = None
     max_id = -1
     valid_questions = 0
-    with open(get_file_name(), 'w') as output_file:
+    with open(get_file_name(), 'w', newline='') as output_file:
         writer = csv.writer(output_file, delimiter=';')
         while tweetCount < maxTweets:
             try:
@@ -100,9 +104,10 @@ def get_tweets():
                         if '?' in sent:
                             valid_questions += 1
                             try:
-                                writer.writerow([sent])
+                                writer.writerow([sent.strip()])
                             except UnicodeEncodeError:
-                                writer.writerow(sent.encode('utf-8'))
+                                print('Skipped tweet due to unicode error on tweet {}'.format(valid_questions))
+
 
                 tweetCount += len(new_tweets)
                 print("Downloaded {0} tweets".format(tweetCount))
@@ -112,10 +117,5 @@ def get_tweets():
                 print("some error : " + str(e))
                 break
         print('Valid questions: ' + str(valid_questions))
-
-
-
-get_tweets()
-
 
 

@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f075749e-cf9b-488d-ab6b-1fbfce09b6a4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/classification_tool.py" afterPath="$PROJECT_DIR$/classification_tool.py" />
       <change beforePath="$PROJECT_DIR$/tweet_extraction.py" afterPath="$PROJECT_DIR$/tweet_extraction.py" />
-      <change beforePath="$PROJECT_DIR$/tweets/1000_tweets_2018-08-20_16-34-44.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tweets/1000_tweets_2018-08-20_16-36-39.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tweets/1000_tweets_2018-08-20_16-39-22.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tweets/1000_tweets_2018-08-20_16-39-31.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tweets/10_tweets_2018-08-20_16-08-03.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tweets/10_tweets_2018-08-20_16-11-32.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tweets/10_tweets_2018-08-20_16-11-38.csv" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tweet_extraction.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tweet_extraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tweet_extraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-191">
-              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="314">
+              <caret line="106" column="63" lean-forward="false" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="63" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -47,7 +39,7 @@
       <file leaf-file-name="get_tweets.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/get_tweets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="238">
               <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -56,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="classification_tool.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="classification_tool.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/classification_tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="106" column="61" lean-forward="false" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
+            <state relative-caret-position="307">
+              <caret line="204" column="27" lean-forward="true" selection-start-line="204" selection-start-column="27" selection-end-line="204" selection-end-column="27" />
               <folding>
                 <element signature="e#0#137#0" expanded="true" />
               </folding>
@@ -77,6 +69,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>total_quest</find>
+      <find>self.remaining_questions</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -86,8 +84,8 @@
         <option value="$PROJECT_DIR$/tweet extraction.py" />
         <option value="$PROJECT_DIR$/tokenize_test.py" />
         <option value="$PROJECT_DIR$/get_tweets.py" />
-        <option value="$PROJECT_DIR$/classification_tool.py" />
         <option value="$PROJECT_DIR$/tweet_extraction.py" />
+        <option value="$PROJECT_DIR$/classification_tool.py" />
       </list>
     </option>
   </component>
@@ -143,7 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tweet_extraction">
+  <component name="RunManager" selected="Python.classification_tool">
     <configuration name="classification_tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,8 +222,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.tweet_extraction" />
-        <item index="1" class="java.lang.String" itemvalue="Python.classification_tool" />
+        <item index="0" class="java.lang.String" itemvalue="Python.classification_tool" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tweet_extraction" />
         <item index="2" class="java.lang.String" itemvalue="Python.get_tweets" />
         <item index="3" class="java.lang.String" itemvalue="Python.tokenize_test" />
       </list>
@@ -301,14 +299,9 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tweet_extraction.py</url>
-          <line>98</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tweet_extraction.py</url>
-          <line>99</line>
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/classification_tool.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -318,7 +311,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -326,11 +319,19 @@
         <watch expression="tweet._json['text']" />
         <watch expression="self.file_name.text()" />
         <watch expression="tweet" />
+        <watch expression="sent.encode('utf-8')" />
+        <watch expression="self.raw_questions" />
+        <watch expression="self.raw_questions[0]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>self.raw_questions[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>datetime.datetime.now().date()</expression-string>
         <language-id>Python</language-id>
@@ -558,26 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/get_tweets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classification_tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="106" column="61" lean-forward="false" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#137#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tokenize_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -618,12 +599,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/get_tweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tweet_extraction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state relative-caret-position="314">
+          <caret line="106" column="63" lean-forward="false" selection-start-line="106" selection-start-column="32" selection-end-line="106" selection-end-column="63" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="204" column="27" lean-forward="true" selection-start-line="204" selection-start-column="27" selection-end-line="204" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
