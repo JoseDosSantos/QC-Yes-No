@@ -6,7 +6,7 @@ from sklearn.svm import LinearSVC
 
 # Read data from all input files
 data_set = []
-for file in config.FULL_SET:
+for file in config.ALL_FILES:
     reader = csv.reader(open(file, 'r'), delimiter=';')
     for line in reader:
         data_set.append([line[0].lower(), line[1]])
@@ -22,21 +22,21 @@ training_percentage = 0.9
 train_set, test_set = feature_sets[:int(total * training_percentage)], feature_sets[int(total * training_percentage):]
 
 # Naive Bayes Classifier
-naive_bayes_enabled = False
+naive_bayes_enabled = True
 if naive_bayes_enabled:
     classifier = nltk.NaiveBayesClassifier.train(train_set)
     classifier.show_most_informative_features()
-    print(nltk.classify.accuracy(classifier, test_set))
+    print('Naive Bayes: \n', nltk.classify.accuracy(classifier, test_set))
 
 # Support Vector Machine
-support_vector_enabled = False
+support_vector_enabled = True
 if support_vector_enabled:
     classifier = nltk.classify.SklearnClassifier(LinearSVC())
     classifier.train(train_set)
-    print(nltk.classify.accuracy(classifier, test_set))
+    print('Support Vector: \n', nltk.classify.accuracy(classifier, test_set))
 
 # Decision Tree
 decision_tree_enabled = True
 if decision_tree_enabled:
     classifier = nltk.DecisionTreeClassifier.train(train_set)
-    print(nltk.classify.accuracy(classifier, test_set))
+    print('Decision Tree', nltk.classify.accuracy(classifier, test_set))

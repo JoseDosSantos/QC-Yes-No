@@ -82,41 +82,43 @@ def get_tweets():
     sinceId = None
     max_id = -1
     valid_questions = 0
+    tweets= []
+
+    while tweetCount < maxTweets:
+        try:
+            if (max_id <= 0):
+                if (not sinceId):
+                    new_tweets = api.search(q=query, count=tweetsPerQry, lang=language)
+                else:
+                    new_tweets = api.search(q=query, count=tweetsPerQry, lang=language, since_id=sinceId)
+            else:
+                if (not sinceId):
+                    new_tweets = api.search(q=query, count=tweetsPerQry, lang=language, max_id=str(max_id - 1))
+                else:
+                    new_tweets = api.search(q=query, count=tweetsPerQry, lang=language, max_id=str(max_id - 1), since_id=sinceId)
+            if not new_tweets:
+                print("No more tweets found")
+                break
+            for tweet in new_tweets:
+                for sent in clean_tweet(tweet._json['text']):
+                    if '?' in sent:
+                        if len(sent) > 10:
+                            valid_questions += 1
+                            tweets.append(sent)
+            tweetCount += len(new_tweets)
+            print("Downloaded {0} tweets".format(tweetCount))
+            max_id = new_tweets[-1].id
+        except tweepy.TweepError as e:
+            # Just exit if any error
+            print("some error : " + str(e))
+            break
+    print('Valid questions: ' + str(valid_questions))
+    print('Found {0} unique questions.'.format(len(set(tweets))))
     with open(get_file_name(), 'w', newline='') as output_file:
         writer = csv.writer(output_file, delimiter=';')
-        while tweetCount < maxTweets:
+        for i, line in enumerate(set(tweets)):
             try:
-                if (max_id <= 0):
-                    if (not sinceId):
-                        new_tweets = api.search(q=query, count=tweetsPerQry, lang=language)
-                    else:
-                        new_tweets = api.search(q=query, count=tweetsPerQry, lang=language, since_id=sinceId)
-                else:
-                    if (not sinceId):
-                        new_tweets = api.search(q=query, count=tweetsPerQry, lang=language, max_id=str(max_id - 1))
-                    else:
-                        new_tweets = api.search(q=query, count=tweetsPerQry, lang=language, max_id=str(max_id - 1), since_id=sinceId)
-                if not new_tweets:
-                    print("No more tweets found")
-                    break
-                for tweet in new_tweets:
-                    for sent in clean_tweet(tweet._json['text']):
-                        if '?' in sent:
-                            valid_questions += 1
-                            if len(sent) > 10:
-                                try:
-                                    writer.writerow([sent.strip()])
-                                except UnicodeEncodeError:
-                                    print('Skipped tweet due to unicode error on tweet {}'.format(valid_questions))
-
-
-                tweetCount += len(new_tweets)
-                print("Downloaded {0} tweets".format(tweetCount))
-                max_id = new_tweets[-1].id
-            except tweepy.TweepError as e:
-                # Just exit if any error
-                print("some error : " + str(e))
-                break
-        print('Valid questions: ' + str(valid_questions))
-
-
+                writer.writerow([line.strip()])
+            except UnicodeEncodeError:
+                print('Skipped question {} due to unicode error.'.format(i))
+get_tweets()

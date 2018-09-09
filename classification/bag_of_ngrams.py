@@ -8,7 +8,7 @@ from sklearn.svm import LinearSVC
 
 # Read data from all input files
 data_set = []
-for file in config.FULL_SET:
+for file in config.ALL_FILES:
     reader = csv.reader(open(file, 'r'), delimiter=';')
     for line in reader:
         data_set.append([line[0].lower(), line[1]])
@@ -23,7 +23,7 @@ random.shuffle(feature_set)
 train_set, test_set = feature_set[:int(total * training_percentage)], feature_set[int(total * training_percentage):]
 
 # Naive Bayes Classifier
-naive_bayes_enabled = False
+naive_bayes_enabled = True
 if naive_bayes_enabled:
     bon_classifier = nltk.NaiveBayesClassifier.train(train_set)
     bon_classifier.show_most_informative_features()
@@ -37,7 +37,7 @@ if support_vector_enabled:
     print(nltk.classify.accuracy(classifier, test_set))
 
 # Decision Tree
-decision_tree_enabled = True
+decision_tree_enabled = False
 if decision_tree_enabled:
     classifier = nltk.DecisionTreeClassifier.train(train_set)
     print(nltk.classify.accuracy(classifier, test_set))
