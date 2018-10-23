@@ -1,12 +1,12 @@
 import nltk
 import csv
 import random
-import config
+import Classification.config as cfg
 from sklearn.svm import LinearSVC
 
 # Read data from all input files
 data_set = []
-for file in config.ALL_FILES:
+for file in cfg.ALL_FILES:
     reader = csv.reader(open(file, 'r'), delimiter=';')
     for line in reader:
         data_set.append([line[0].lower(), line[1]])

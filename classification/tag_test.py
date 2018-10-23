@@ -10,7 +10,7 @@ def bag_of_words(words):
     return dict([(word, True) for word in words])
 
 import csv
-reader = csv.reader(open('classified.csv', 'r'), delimiter=';')
+reader = csv.reader(open('..\\Corpus\\Amazon\\questions\\output_products_part_0\\classified.csv', 'r'), delimiter=';')
 for line in reader:
     sent = nltk.tokenize.WordPunctTokenizer().tokenize(line[0])
     print(tagger.tag(sent))
