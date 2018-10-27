@@ -3,28 +3,38 @@
   <component name="ChangeListManager">
     <list default="true" id="f075749e-cf9b-488d-ab6b-1fbfce09b6a4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_10.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_11.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_12.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_13.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_14.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_15.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_16.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_17.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_5.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_6.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_7.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_9.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/1000_tweets_2018-08-21_16-25-20completed.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_16-25-20/classified.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_16-25-20/deleted.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_17-02-43/classified.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_17-02-43/classified.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-09-06_17-46-02/classified.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-09-06_17-46-02/classified.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Word2Vec.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/bag_of_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/bag_of_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/1000_tweets_2018-08-21_17-02-43completed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/1000_tweets_2018-08-21_21-35-57completed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/1000_tweets_2018-08-22_16-25-32completed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/1000_tweets_2018-08-23_09-37-19completed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/1000_tweets_2018-09-05_13-26-32completed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/1000_tweets_2018-09-06_17-46-02completed.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_17-02-43/classified.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_17-02-43/deleted.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_21-35-57/classified.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-21_21-35-57/deleted.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-22_16-25-32/classified.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-22_16-25-32/deleted.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-23_09-37-19/classified.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-08-23_09-37-19/deleted.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-09-05_13-26-32/classified.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-09-05_13-26-32/deleted.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-09-06_17-46-02/classified.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Tweets/data/output_1000_tweets_2018-09-06_17-46-02/deleted.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBOOST.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost10.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost6.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost7.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost8.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XGBoost/Scores param xgboost9.PNG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/classification/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/tag_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/tag_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classification_tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,24 +46,26 @@
     <session id="-2076662076">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="4" />
-          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="32" />
+          <entry key="ipynb" value="3" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="32" />
+          <entry key="IPNB" value="3" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -74,19 +86,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classification/pos_tagging.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="340">
+              <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="38" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -94,13 +97,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classification/tag_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="34">
+              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="27" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/dependency parsing.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/tokenize_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,23 +158,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classification_tool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
-              <folding>
-                <element signature="e#0#137#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classification/bag_of_words.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="28" selection-end-column="74" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -214,16 +221,16 @@
         <option value="$PROJECT_DIR$/Corpus/Tweets/tweet_extraction.py" />
         <option value="$PROJECT_DIR$/Classification/bag_of_words.py" />
         <option value="$PROJECT_DIR$/Classification/test.py" />
-        <option value="$PROJECT_DIR$/Classification/config.py" />
         <option value="$PROJECT_DIR$/Classification/tag_test.py" />
+        <option value="$PROJECT_DIR$/Classification/config.py" />
+        <option value="$PROJECT_DIR$/XGBOOST.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-221" />
-    <option name="y" value="-21" />
-    <option name="width" value="1924" />
-    <option name="height" value="836" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -431,7 +438,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2170706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21548998" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -442,7 +449,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5032051" side_tool="true" weight="0.35596934" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.164859" />
+      <window_info anchor="bottom" id="Python Console" order="8" visible="true" weight="0.12472885" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286334" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -456,11 +463,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/classification_tool.py</url>
-          <line>135</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Classification/tag_test.py</url>
           <line>16</line>
@@ -616,15 +618,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/ClassifierBasedGermanTagger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XGBOOST.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/pos_tagging.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/tag_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/dependency parsing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/tokenize_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -670,20 +704,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/bag_of_words.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="28" selection-end-column="74" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/tag_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
