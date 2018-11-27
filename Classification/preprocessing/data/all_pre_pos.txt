@@ -262,8 +262,8 @@ Hat
 vielleicht
 noch
 irgendwer
-Zahl
-Tickets
+Unit
+ickets
 für
 den
 GC
@@ -545,7 +545,6 @@ Samstag
 ?
 
 61
-Hey
 wollt
 ihr
 uns
@@ -1189,8 +1188,8 @@ weg
 Sind
 das
 die
-Zahl
-guten
+Unit
+uten
 Würfe
 in
 Folge
@@ -1354,10 +1353,11 @@ ihr
 schon
 mal
 bei
-Zahl
-Grad
+Unit
+rad
 ein
-ZahlZahl
+Zahl
+Zahl
 qm
 großes
 Maislabyrinth
@@ -1646,7 +1646,8 @@ Radweg
 Wofür
 geht
 man
-ZahlZahl
+Zahl
+Zahl
 Jahre
 studieren
 wenn
@@ -1702,8 +1703,8 @@ Wie
 sieht
 das
 ab
-Zahl
-März
+Unit
+ärz
 aus
 ?
 
@@ -1803,7 +1804,8 @@ nicht
 schon
 in
 den
-Zahlern
+Zahl
+ern
 beschlossen
 worden
 ?
@@ -2115,8 +2117,8 @@ darf
 Oh
 haben
 sich
-Zahl
-gefunden
+Unit
+efunden
 ?
 
 232
@@ -2291,7 +2293,8 @@ ist
 das
 Ziel
 der
-AktionStandesamtZahl
+AktionStandesamt
+Zahl
 ?
 
 251
@@ -3070,7 +3073,6 @@ sein
 ?
 
 337
-Hey
 da
 waren
 wir
@@ -4129,7 +4131,8 @@ Kennst
 Du
 schon
 meinen
-Podcast
+Pod
+circast
 ?
 
 455
@@ -5525,7 +5528,8 @@ von
 der
 Idee
 in
-coZahl
+co
+Zahl
 Kompensation
 von
 Flügen
@@ -5731,7 +5735,6 @@ mit
 ?
 
 629
-Hallo
 kann
 man
 das
@@ -5854,7 +5857,7 @@ bekommen
 Hast
 du
 schon
-Call
+circall
 of
 Cthulhu
 gesehen
@@ -6418,7 +6421,6 @@ Kaffeeflatrate
 ?
 
 702
-Hi
 kannst
 Du
 mir
@@ -7172,7 +7174,8 @@ Welt
 Was
 taugen
 die
-ZahlEuroTrachten
+Zahl
+EuroTrachten
 ?
 
 783
@@ -7421,7 +7424,7 @@ Eier
 Wer
 bringt
 mir
-ne
+eine
 Axt
 ?
 
@@ -7604,7 +7607,8 @@ Wie
 spreche
 ich
 zum
-Beispieleinen
+Beispiel
+einen
 Wunschkontakt
 in
 BusinessNetzwerken
@@ -8735,7 +8739,7 @@ Hitzewelle
 Können
 wir
 mal
-ne
+eine
 Runde
 zusammen
 spielen
@@ -9208,7 +9212,7 @@ darauf
 
 997
 Gibts
-ne
+eine
 Aufnahme
 wie
 er
@@ -9269,8 +9273,8 @@ eine
 Umfrage
 an
 der
-Zahl
-Leute
+Unit
+eute
 teilnehmen
 Zahl
 Zahl
@@ -9302,7 +9306,8 @@ gesehen
 Sind
 das
 die
-Wildcards
+Wild
+circards
 ?
 
 1008
@@ -10365,8 +10370,8 @@ Heißt
 das
 er
 will
-Zahl
-gehen
+Unit
+ehen
 ?
 
 1122
@@ -10487,7 +10492,6 @@ die
 Spieltage
 Zahl
 bis
-x
 terminiert
 ?
 
@@ -10705,7 +10709,8 @@ Doktorarbeit
 1159
 Was
 macht
-Wirecard
+Wire
+circard
 eigentlich
 genau
 ?
@@ -10764,7 +10769,9 @@ wünscht
 ihr
 euch
 vor
-ZahlZahlUhr
+Zahl
+Zahl
+Uhr
 ?
 
 1165
@@ -11083,7 +11090,6 @@ aufgerufen
 ?
 
 1199
-Hallo
 können
 sie
 eine
@@ -11141,7 +11147,7 @@ ist
 denn
 das
 für
-ne
+eine
 Stimmung
 hier
 ?
@@ -12004,7 +12010,8 @@ du
 auch
 auf
 der
-PSZahl
+PS
+Zahl
 ?
 
 1292
@@ -12671,7 +12678,8 @@ noch
 mal
 zwei
 Mamas
-Oscar
+Os
+circar
 ?
 
 1362
@@ -12749,7 +12757,8 @@ der
 Stadt
 dass
 zum
-ZahlZahl
+Zahl
+Zahl
 frei
 wäre
 ?
@@ -14344,7 +14353,7 @@ anderes
 
 1528
 Gibts
-ne
+eine
 Haftpflicht
 ?
 
@@ -14737,7 +14746,8 @@ ist
 das
 Herzversagen
 eines
-ZahlJährigen
+Zahl
+Jährigen
 eine
 Zeitungsmeldung
 wert
@@ -16108,7 +16118,6 @@ absolviert
 1714
 Hat
 jede
-r
 ein
 Recht
 zu
@@ -18344,7 +18353,7 @@ Twitter
 Account
 für
 das
-Academy
+circademy
 Team
 ?
 
@@ -20545,7 +20554,8 @@ Und
 was
 macht
 der
-Zahljährige
+Zahl
+jährige
 Erstklässler
 dann
 ?
@@ -20597,7 +20607,8 @@ Was
 ist
 wirklich
 mit
-MHZahl
+MH
+Zahl
 passiert
 ?
 
@@ -20971,7 +20982,6 @@ Waffen
 ?
 
 2229
-Hallo
 warum
 hast
 du
@@ -21015,7 +21025,6 @@ Friedenspreis
 ?
 
 2233
-Hey
 wird
 man
 die
@@ -21897,7 +21906,6 @@ erfunden
 ?
 
 2323
-Hallo
 um
 welche
 Fritzbox
@@ -23626,7 +23634,10 @@ Was
 kann
 Ruwi
 das
-ZahlinZahlMultifunktionswerkzeug
+Zahl
+in
+Zahl
+Multifunktionswerkzeug
 für
 den
 Garten
@@ -23872,7 +23883,6 @@ falsch
 ?
 
 2530
-Hey
 war
 das
 etwa
@@ -23967,7 +23977,8 @@ hast
 du
 dann
 deinen
-Podcast
+Pod
+circast
 gemacht
 ?
 
@@ -24449,8 +24460,8 @@ meine
 Mutter
 nicht
 noch
-Zahl
-Tage
+Unit
+age
 warten
 mit
 der
@@ -27548,8 +27559,8 @@ Nürnberger
 ein
 Trikot
 von
-HZahl
-trägt
+Unit
+rägt
 ?
 
 2906
@@ -27696,7 +27707,8 @@ nicht
 die
 PIN
 der
-Mastercard
+Master
+circard
 auf
 eine
 Wunschpin
@@ -27773,7 +27785,6 @@ Ohrwurm
 ?
 
 2927
-Hey
 wird
 der
 Friday
@@ -27928,7 +27939,8 @@ einen
 Verteidiger
 wenn
 man
-ZahlZahl
+Zahl
+Zahl
 hinten
 liegt
 ?
@@ -28069,8 +28081,8 @@ kommt
 man
 auf
 Zahl
-Zahl
-Mio
+Unit
+io
 neue
 Wohnungen
 ?
@@ -28335,7 +28347,7 @@ dass
 er
 sich
 jetzt
-ne
+eine
 Stunde
 erholen
 darf
@@ -28505,7 +28517,8 @@ Ist
 das
 schon
 ein
-BoZahl
+Bo
+Zahl
 ?
 
 3003
@@ -28586,7 +28599,8 @@ handelt
 es
 sich
 im
-Zahlten
+Unit
+en
 Bild
 ?
 
@@ -28613,9 +28627,11 @@ Einigen
 wir
 uns
 auf
+cir
 circa
-ZahlZahl
-Minuten
+Zahl
+Unit
+inuten
 zu
 Anfang
 ?
@@ -28784,7 +28800,6 @@ Gerät
 ?
 
 3031
-Hallo
 hat
 jemand
 Erfahrung
@@ -29028,7 +29043,6 @@ werden
 ?
 
 3054
-Hallo
 sind
 die
 Farben
@@ -29235,7 +29249,7 @@ für
 Benzin
 super
 oder
-eZahl
+Zahl
 ?
 
 3074
@@ -29380,7 +29394,9 @@ geeignet
 für
 eine
 siemens
-wmZahlwZahl
+wm
+Zahl
+Zahl
 Waschmaschine
 ?
 
@@ -29581,7 +29597,7 @@ Kann
 das
 Gerät
 farbig
-scannen
+circannen
 ?
 
 3109
@@ -29615,7 +29631,7 @@ Wie
 wird
 der
 Universalhalter
-Zahlmm
+Unit
 benutzt
 ?
 
@@ -29686,7 +29702,7 @@ Drucker
 auch
 das
 beidseitige
-Scannen
+circannen
 in
 einem
 Schritt
@@ -29708,14 +29724,14 @@ Saugt
 er
 Wasser
 zum
-Beispielaus
+Beispiel
+aus
 einer
 Regentonne
 an
 ?
 
 3121
-Hallo
 ist
 hier
 eine
@@ -29946,7 +29962,6 @@ lustig
 ?
 
 3142
-Hallo
 handelt
 es
 sich
@@ -30152,7 +30167,6 @@ Duschkopf
 ?
 
 3162
-Hallo
 welchen
 Durchmesser
 und
@@ -30272,7 +30286,8 @@ gefüllt
 3173
 Sind
 die
-COZahl
+CO
+Zahl
 Zylinder
 für
 alle
@@ -30405,7 +30420,6 @@ Absenkungautomatik
 ?
 
 3187
-Hallo
 sind
 die
 Bettlaken
@@ -30423,10 +30437,11 @@ brauche
 ich
 für
 eine
-ZahlxZahl
-große
+Zahl
+Unit
+roße
 und
-Zahlcm
+Unit
 hohe
 Matratze
 ?
@@ -30472,10 +30487,12 @@ das
 Packmass
 für
 das
-ZahlxZahlcm
+Zahl
+Unit
 und
 das
-ZahlxZahlcm
+Zahl
+Unit
 Handtuch
 ?
 
@@ -30542,10 +30559,10 @@ Wieso
 hat
 das
 Wbei
-Zahlg
+Unit
 nur
 Zahl
-Zahlg
+Unit
 protein
 ?
 
@@ -30567,10 +30584,12 @@ der
 unterschied
 zwichen
 der
-MxZahl
+Mx
+Zahl
 und
 der
-MxZahl
+Mx
+Zahl
 ?
 
 3203
@@ -30629,7 +30648,7 @@ Schuhgröße
 Ist
 das
 ein
-SZahl
+Zahl
 Sicherheitsschuh
 ?
 
@@ -30729,7 +30748,6 @@ spielen
 ?
 
 3216
-Hallo
 ist
 die
 Schaumeinlage
@@ -30945,7 +30963,6 @@ geschützt
 ?
 
 3234
-Hallo
 könnte
 man
 auch
@@ -31167,7 +31184,9 @@ von
 einer
 Festplatte
 mit
-MPZahlDateien
+MP
+Zahl
+Dateien
 die
 am
 Router
@@ -31217,10 +31236,10 @@ sein
 Hat
 das
 Notebook
-Zahlgb
+Unit
 Speicher
 oder
-ZahlT
+Unit
 ?
 
 3260
@@ -31251,8 +31270,8 @@ der
 im
 Gerät
 verbauten
-Zahl
-Gigabyte
+Unit
+igabyte
 HDD
 eine
 SDD
@@ -31267,7 +31286,6 @@ Unterschied
 zwischen
 DeLongECAM
 Zahl
-B
 und
 SB
 ?
@@ -31344,7 +31362,6 @@ Klicksystem
 ?
 
 3272
-Hallo
 wie
 hoch
 ist
@@ -31486,7 +31503,7 @@ Seitentaschen
 je
 eine
 Zahl
-Zahll
+Unit
 Flasche
 Platz
 ?
@@ -31511,7 +31528,6 @@ Kabel
 ?
 
 3287
-Hallo
 wie
 hoch
 ist
@@ -31551,12 +31567,12 @@ Annahme
 des
 Paketes
 als
-üZahl
+ü
+Zahl
 ausweisen
 ?
 
 3291
-Hallo
 lässt
 sich
 das
@@ -31601,7 +31617,8 @@ ist
 man
 an
 Android
-Zahlx
+Zahl
+x
 gebunden
 ?
 
@@ -31753,8 +31770,7 @@ Mikrowelle
 auch
 Teller
 mit
-Zahl
-cm
+Unit
 Durchmesser
 ?
 
@@ -31863,7 +31879,8 @@ er
 gegenüber
 dem
 brother
-mfclZahl
+mfcl
+Zahl
 ?
 
 3318
@@ -31875,8 +31892,8 @@ andere
 Formate
 bedrucken
 wie
-aZahl
-aZahl
+Zahl
+Zahl
 ?
 
 3319
@@ -32024,7 +32041,8 @@ habe
 Warum
 wird
 Ron
-Zacapa
+Za
+circapa
 nicht
 nach
 Österreich
@@ -32135,7 +32153,7 @@ viel
 Luftfeuchtigkeit
 man
 pro
-mZahl
+Zahl
 haben
 will
 ?
@@ -32189,9 +32207,11 @@ ist
 der
 Unterschied
 zwischen
-lrZahl
+lr
+Zahl
 und
-lrZahl
+lr
+Zahl
 ?
 
 3349
@@ -32214,12 +32234,12 @@ essen
 Sind
 das
 jetzt
-Zahl
-Monate
+Unit
+onate
 oder
 insgesamt
-Zahl
-Monate
+Unit
+onate
 ?
 
 3351
@@ -32532,7 +32552,6 @@ Kamera
 ?
 
 3382
-Hallo
 ist
 in
 der
@@ -32572,7 +32591,7 @@ denn
 3385
 Wie
 lange
-ca
+circa
 halten
 die
 Batterien
@@ -32611,7 +32630,6 @@ Laptop
 ?
 
 3389
-Hallo
 können
 mit
 dem
@@ -32683,7 +32701,8 @@ Sind
 das
 auch
 wirklich
-Zahlgb
+Unit
+b
 ?
 
 3396
@@ -32732,8 +32751,8 @@ der
 Furbo
 auch
 mit
-Zahl
-Ghz
+Unit
+hz
 ?
 
 3401
@@ -32792,7 +32811,6 @@ genau
 ?
 
 3406
-Hallo
 ist
 die
 Batterie
@@ -32851,7 +32869,6 @@ verwenden
 ?
 
 3412
-Hallo
 ist
 dieses
 Tablet
@@ -32867,7 +32884,8 @@ sich
 Android
 auf
 Version
-ZahlZahl
+Zahl
+Zahl
 aktualisieren
 ?
 
@@ -32908,8 +32926,8 @@ auch
 für
 Säuglinge
 von
-Zahl
-Monaten
+Unit
+onaten
 geeignet
 ?
 
@@ -32920,7 +32938,6 @@ ich
 das
 Thermometer
 auf
-C
 Grad
 umstellen
 ?
@@ -32975,7 +32992,8 @@ Platz
 3424
 Passt
 der
-Thermoscan
+Thermos
+circan
 Zahl
 auch
 mit
@@ -32995,14 +33013,14 @@ die
 Version
 die
 auch
-ZahlZahlmm
+Zahl
+Unit
 Hülsen
 pressen
 kann
 ?
 
 3426
-Hallo
 welche
 maximale
 Hülsenlänge
@@ -33013,7 +33031,6 @@ crimpen
 ?
 
 3427
-Hallo
 welche
 maximale
 Hülsenlänge
@@ -33066,7 +33083,6 @@ Kindergitarre
 ?
 
 3433
-Hallo
 kann
 man
 die
@@ -33175,7 +33191,6 @@ aus
 ?
 
 3442
-Hallo
 sind
 im
 Zweierpack
@@ -33333,9 +33348,9 @@ denn
 der
 Unterschied
 zwischen
-aZahl
-aZahl
-aZahl
+Zahl
+Zahl
+Zahl
 ?
 
 3456
@@ -33411,7 +33426,8 @@ Art
 Chip
 wie
 bei
-ZahlDS
+Zahl
+DS
 ?
 
 3463
@@ -33700,7 +33716,7 @@ von
 SimKarte
 braucht
 das
-sZahl
+Zahl
 ?
 
 3489
@@ -33720,7 +33736,8 @@ außerhalb
 Deutschlands
 verwendbar
 das
-heißtkompatibel
+heißt
+kompatibel
 mit
 einer
 irischen
@@ -33790,7 +33807,8 @@ Adapter
 auch
 mit
 einer
-PSZahl
+PS
+Zahl
 ?
 
 3497
@@ -34167,7 +34185,8 @@ wird
 mein
 Monitor
 nur
-ZahlHz
+Zahl
+Hz
 zeigen
 ?
 
@@ -34179,7 +34198,7 @@ auch
 für
 das
 mediapad
-mZahl
+Zahl
 von
 huawei
 ?
@@ -34243,7 +34262,8 @@ ist
 die
 Flasche
 bei
-Zahlml
+Unit
+l
 ?
 
 3537
@@ -34267,7 +34287,6 @@ kaufen
 ?
 
 3539
-Hallo
 wie
 kann
 ich
@@ -34457,8 +34476,8 @@ auch
 für
 die
 Vivoactive
-Zahl
-Musik
+Unit
+usik
 ?
 
 3557
@@ -34469,7 +34488,7 @@ dass
 der
 Schlauch
 nur
-Zahlcm
+Unit
 lang
 ist
 ?
@@ -34606,12 +34625,12 @@ ein
 extra
 Papierfach
 für
-AZahl
+Zahl
 und
 extra
 eines
 für
-AZahl
+Zahl
 ?
 
 3568
@@ -34624,7 +34643,8 @@ passen
 Wie
 funktioniert
 der
-Duplexscann
+Duplexs
+circann
 ?
 
 3570
@@ -34805,7 +34825,6 @@ Wirkung
 ?
 
 3587
-Hallo
 ist
 die
 Verpackung
@@ -34935,7 +34954,8 @@ auch
 noch
 was
 für
-Zahljährige
+Zahl
+jährige
 Mädchen
 ?
 
@@ -35086,8 +35106,9 @@ die
 Steuer
 für
 zum
-BeispielZahl
-machen
+Beispiel
+Unit
+achen
 ?
 
 3614
@@ -35194,8 +35215,6 @@ sein
 ?
 
 3625
-Guten
-Tag
 welche
 Maße
 haben
@@ -35261,7 +35280,7 @@ das
 Filmen
 auch
 auf
-ZahlGB
+Unit
 pro
 Aufnahme
 beschränkt
@@ -35274,7 +35293,7 @@ ich
 bei
 der
 EOS
-Zahld
+Zahl
 die
 Auflösungen
 auslesen
@@ -35706,8 +35725,8 @@ Welchen
 Durchmesser
 haben
 die
-Zahl
-Löcher
+Unit
+öcher
 der
 Wandbefestigung
 ?
@@ -35835,13 +35854,11 @@ nem
 Umfang
 von
 Zahl
-Zahl
-cm
+Unit
 nehmen
 ?
 
 3686
-Hallo
 wann
 sind
 die
@@ -35927,7 +35944,7 @@ und
 Dichtungen
 bei
 einem
-Cabrio
+circabrio
 mit
 Stahldach
 verwenden
@@ -36217,7 +36234,6 @@ Matratze
 ?
 
 3721
-Hallo
 ist
 die
 Matratze
@@ -36231,7 +36247,6 @@ Schaumstoff
 ?
 
 3722
-Hallo
 könnten
 sie
 mir
@@ -36320,7 +36335,6 @@ empfangen
 ?
 
 3730
-Hallo
 ist
 diese
 Maschine
@@ -36359,7 +36373,8 @@ auch
 Tintenpatronen
 von
 zum
-BeispielPearl
+Beispiel
+Pearl
 verwendet
 werden
 ?
@@ -36443,7 +36458,8 @@ auch
 demnächst
 noch
 die
-PSZahl
+PS
+Zahl
 Deluxe
 Version
 als
@@ -36492,7 +36508,6 @@ Phone
 ?
 
 3745
-Hallo
 was
 mache
 ich
@@ -36555,14 +36570,12 @@ machen
 ?
 
 3750
-Hallo
 ist
 das
 Kissen
 wirklich
 nur
-Zahl
-cm
+Unit
 lang
 ?
 
@@ -36582,7 +36595,6 @@ waschbar
 ?
 
 3753
-Hallo
 gibt
 es
 einen
@@ -36591,7 +36603,6 @@ Bezug
 ?
 
 3754
-Hallo
 ist
 dieses
 Kissen
@@ -36647,7 +36658,7 @@ angenäht
 Würden
 sie
 auch
-Zahlm
+Unit
 Länge
 herstellen
 ?
@@ -37037,7 +37048,6 @@ Langhantel
 ?
 
 3796
-Hallo
 ist
 es
 möglich
@@ -37246,7 +37256,6 @@ PC
 ?
 
 3814
-Hallo
 kann
 man
 die
@@ -37316,7 +37325,6 @@ ist
 ?
 
 3821
-Hallo
 ist
 die
 Hose
@@ -37328,7 +37336,6 @@ geschnitten
 ?
 
 3822
-Hallo
 ich
 wart
 seit
@@ -37403,7 +37410,6 @@ sammelt
 ?
 
 3829
-Hallo
 ist
 es
 üblich
@@ -37507,7 +37513,8 @@ Kann
 man
 damit
 einen
-ZahlTageBart
+Zahl
+TageBart
 schneiden
 ohne
 ihn
@@ -37890,15 +37897,14 @@ denn
 ?
 
 3875
-Hallo
 wie
 kann
 ich
 denn
 innerhalb
 der
-Zahl
-Tage
+Unit
+age
 mein
 Geld
 zurückbekommen
@@ -37958,7 +37964,6 @@ hart
 ?
 
 3881
-Hallo
 was
 für
 Härtegrad
@@ -37989,7 +37994,6 @@ kleinerem
 Kopf
 für
 Oral
-B
 Pulsonic
 ?
 
@@ -37999,7 +38003,8 @@ möchte
 den
 Strauß
 am
-ZahlZahl
+Zahl
+Zahl
 liefern
 lassen
 wie
@@ -38008,7 +38013,6 @@ das
 ?
 
 3885
-Hallo
 kann
 man
 die
@@ -38128,7 +38132,8 @@ der
 Liefertag
 erst
 am
-ZahlZahl
+Zahl
+Zahl
 ?
 
 3896
@@ -38391,7 +38396,7 @@ Uhr
 mit
 dem
 Samsung
-JZahl
+Zahl
 ?
 
 3920
@@ -38475,7 +38480,7 @@ Playstation
 Zahl
 pro
 in
-Zahlk
+Zahl
 spielen
 können
 ?
@@ -38939,7 +38944,6 @@ austauschen
 ?
 
 3972
-Hallo
 ist
 diese
 Lampe
@@ -39132,7 +39136,6 @@ wirklich
 ?
 
 3990
-Hallo
 kann
 man
 damit
@@ -39230,7 +39233,6 @@ bestellen
 ?
 
 4000
-Hallo
 wie
 viel
 Papier
@@ -39351,7 +39353,7 @@ bei
 Speicherkarten
 die
 Bezeichnung
-UZahl
+Zahl
 ?
 
 4010
@@ -39416,10 +39418,8 @@ die
 temperatur
 anzeige
 von
-f
 Grad
 auf
-c
 Grad
 umstellen
 ?
@@ -39461,7 +39461,6 @@ verbinden
 ?
 
 4018
-Hallo
 muss
 ich
 für
@@ -39542,7 +39541,6 @@ ist
 ?
 
 4026
-Hallo
 gibt
 es
 zu
@@ -39670,7 +39668,6 @@ EURichtlininen
 ?
 
 4038
-Hallo
 für
 wieviele
 Kindergesichster
@@ -39682,7 +39679,6 @@ Vollbemalung
 ?
 
 4039
-Hallo
 ist
 die
 Farbe
@@ -39712,7 +39708,6 @@ Gerät
 ?
 
 4042
-Hallo
 kann
 das
 sein
@@ -39915,14 +39910,16 @@ Trick
 4059
 Kann
 der
-MFCZahlCDN
+MFC
+Zahl
+CDN
 auch
 über
 den
 automatischen
 Dokumenteneinzug
 zweiseitig
-scannen
+circannen
 ?
 
 4060
@@ -39948,7 +39945,8 @@ AirPrint
 4062
 Passt
 ein
-ZahlEuro
+Zahl
+Euro
 Schein
 gut
 rein
@@ -40014,7 +40012,6 @@ Uhr
 ?
 
 4069
-Hallo
 leuchtet
 die
 Uhr
@@ -40130,12 +40127,11 @@ Kann
 die
 Kamera
 einen
-Camcorder
+circamcorder
 ersetzten
 ?
 
 4081
-Hallo
 hat
 die
 Kamera
@@ -40532,7 +40528,6 @@ laden
 ?
 
 4117
-Hallo
 welches
 Blinkrelais
 kann
@@ -40715,7 +40710,6 @@ auszuwählen
 ?
 
 4133
-Hallo
 wann
 wird
 die
@@ -40893,7 +40887,6 @@ Desgin
 ?
 
 4150
-Hallo
 welchen
 Innendurchmesser
 hat
@@ -40974,7 +40967,6 @@ Lieferzeit
 ?
 
 4158
-Hallo
 handelt
 es
 sich
@@ -41158,7 +41150,7 @@ wasserdicht
 4175
 Passt
 ein
-SZahl
+Zahl
 in
 die
 Tasche
@@ -41189,7 +41181,8 @@ sich
 die
 Flasche
 zum
-Beispieldurch
+Beispiel
+durch
 Magnesium
 ?
 
@@ -41364,8 +41357,8 @@ Dieselmotoren
 mit
 Baujahren
 vor
-Zahl
-mit
+Unit
+it
 Dieselpartikelfilter
 geeignet
 ?
@@ -41376,7 +41369,8 @@ es
 mittlerweile
 Erfahrungen
 zum
-Beispielmit
+Beispiel
+mit
 Digital
 Revolution
 ?
@@ -41456,7 +41450,6 @@ Leder
 
 4204
 Wieviel
-A
 hat
 dieser
 Stecker
@@ -41519,7 +41512,7 @@ Regenschutz
 auch
 auf
 einen
-ZahlL
+Unit
 Rucksack
 ?
 
@@ -41741,7 +41734,6 @@ leicht
 ?
 
 4228
-Hallo
 hätte
 gerne
 gewusst
@@ -41780,7 +41772,7 @@ von
 SimKarte
 braucht
 das
-SZahl
+Zahl
 ?
 
 4232
@@ -41795,7 +41787,7 @@ Gerät
 4233
 Hat
 das
-SZahl
+Zahl
 ein
 Aux
 Anschluss
@@ -41809,7 +41801,8 @@ außerhalb
 Deutschlands
 verwendbar
 das
-heißtkompatibel
+heißt
+kompatibel
 mit
 einer
 irischen
@@ -41943,7 +41936,8 @@ Hält
 die
 auch
 beim
-ZahlZylinder
+Zahl
+Zylinder
 mit
 starken
 Vibrationen
@@ -42189,7 +42183,7 @@ ablesen
 Wie
 viel
 Zahl
-ZahlV
+Zahl
 Batterien
 müssen
 eingelegt
@@ -42340,7 +42334,6 @@ benutzt
 ?
 
 4284
-Hallo
 wo
 werden
 die
@@ -42355,7 +42348,8 @@ das
 jemand
 schon
 bei
-ZahlGrad
+Unit
+rad
 gewaschen
 ?
 
@@ -42490,7 +42484,6 @@ Kunststoff
 ?
 
 4297
-Hallo
 sind
 es
 zwei
@@ -42522,7 +42515,6 @@ Bettzeug
 ?
 
 4299
-Hallo
 wie
 ist
 die
@@ -42723,7 +42715,6 @@ verwenden
 ?
 
 4320
-Hallo
 was
 ist
 der
@@ -42740,7 +42731,8 @@ weißen
 4321
 Können
 auch
-ZahlKSender
+Zahl
+KSender
 empfangen
 werden
 ?
@@ -42887,7 +42879,8 @@ wirklich
 eine
 Leerlaufdrezahl
 von
-ZahlZahlu
+Zahl
+Zahl
 min
 ?
 
@@ -42921,7 +42914,8 @@ spielen
 Kann
 ich
 mein
-PsZahl
+Ps
+Zahl
 Speichstand
 mit
 auf
@@ -42984,8 +42978,9 @@ der
 Temperaturbereich
 wirklich
 zwischen
-ZahlZahl
-Grad
+Zahl
+Unit
+rad
 ?
 
 4343
@@ -42994,7 +42989,8 @@ Regenhaube
 passt
 für
 den
-Skullcap
+Skull
+circap
 ?
 
 4344
@@ -43048,8 +43044,8 @@ Warum
 gibt
 Amazon
 nur
-Zahl
-Monate
+Unit
+onate
 Herstellergarantie
 ?
 
@@ -43060,8 +43056,7 @@ Speicher
 ist
 von
 den
-Zahl
-GB
+Unit
 belegt
 ?
 
@@ -43149,7 +43144,6 @@ Waage
 ?
 
 4356
-Hallo
 ich
 habe
 versehentlich
@@ -43174,7 +43168,7 @@ möglich
 4357
 Funktioniert
 der
-ZahlD
+Zahl
 Touch
 noch
 wie
@@ -43310,7 +43304,7 @@ sich
 hier
 um
 den
-Zahll
+Unit
 Rucksack
 ?
 
@@ -43376,7 +43370,6 @@ Dampfreiniger
 ?
 
 4376
-Hallo
 ist
 dieses
 Autoladekabel
@@ -43490,7 +43483,7 @@ Sind
 die
 Schuhe
 für
-Canyoning
+circanyoning
 geeignet
 ?
 
@@ -43567,8 +43560,6 @@ richtig
 ?
 
 4393
-Guten
-Tag
 hat
 der
 TV
@@ -43686,7 +43677,8 @@ das
 Mikro
 an
 die
-PSZahl
+PS
+Zahl
 anschließen
 ?
 
@@ -43719,7 +43711,6 @@ belastbar
 ?
 
 4406
-Hallo
 wenn
 das
 mitgelieferte
@@ -43782,13 +43773,12 @@ Kann
 man
 eine
 Akaso
-VZahl
+Zahl
 Pro
 verwenden
 ?
 
 4412
-Hallo
 kann
 ein
 Google
@@ -43952,8 +43942,7 @@ groß
 ist
 denn
 die
-Zahl
-ml
+Unit
 Flasche
 ?
 
@@ -44043,7 +44032,7 @@ Kann
 jemand
 der
 das
-Case
+circase
 seit
 mehren
 Wochen
@@ -44059,7 +44048,7 @@ berichten
 4436
 Bedeckt
 das
-Case
+circase
 die
 komplette
 Kamera
@@ -44089,8 +44078,8 @@ Sierra
 4439
 Welche
 der
-Zahl
-Moeglichkeiten
+Unit
+oeglichkeiten
 muss
 man
 waehlen
@@ -44170,7 +44159,8 @@ außerhalb
 Deutschlands
 verwendbar
 das
-heißtkompatibel
+heißt
+kompatibel
 mit
 einer
 irischen
@@ -44206,7 +44196,8 @@ Blätter
 über
 den
 Einzug
-gescannt
+ges
+circannt
 werden
 oder
 muß
@@ -44353,7 +44344,6 @@ aus
 ?
 
 4461
-Hallo
 sind
 die
 Kabel
@@ -44437,8 +44427,8 @@ wie
 alles
 andere
 nach
-Zahl
-Monaten
+Unit
+onaten
 durch
 ?
 
@@ -44455,8 +44445,8 @@ Garantie
 4469
 Ist
 das
-PZahl
-Lite
+Unit
+ite
 Staub
 und
 Wasserdicht
@@ -44525,7 +44515,6 @@ Bose
 ?
 
 4476
-Hallo
 kann
 ich
 mit
@@ -44730,7 +44719,6 @@ fährt
 ?
 
 4494
-Hi
 kann
 es
 sein
@@ -44840,10 +44828,11 @@ der
 Unterschied
 zwischen
 der
-BZahl
+Zahl
 und
 der
-AloeZahl
+Aloe
+Zahl
 ?
 
 4504
@@ -44856,7 +44845,6 @@ Bonus
 ?
 
 4505
-Hallo
 ist
 in
 der
@@ -45107,7 +45095,8 @@ Videospeicher
 hat
 diese
 Geforce
-mxZahl
+mx
+Zahl
 ?
 
 4529
@@ -45123,7 +45112,7 @@ Glas
 Passen
 dort
 wirklich
-Zahlml
+Unit
 rein
 ?
 
@@ -45163,7 +45152,6 @@ vor
 ?
 
 4535
-Hallo
 kann
 ich
 auch
@@ -45182,8 +45170,8 @@ groß
 Warum
 Zahl
 bis
-Zahl
-Monate
+Unit
+onate
 für
 Versand
 ?
@@ -45198,7 +45186,6 @@ reinmachen
 ?
 
 4539
-Hi
 kann
 mir
 jemand
@@ -45214,7 +45201,7 @@ riecht
 4540
 Ist
 der
-Capo
+circapo
 für
 ein
 gerades
@@ -45320,7 +45307,8 @@ ich
 für
 mein
 Bett
-ZahlxZahl
+Zahl
+Zahl
 bestellen
 ?
 
@@ -45331,10 +45319,10 @@ Bettlaken
 auch
 für
 ein
-Zahl
-mal
-Zahl
-Meter
+Unit
+al
+Unit
+eter
 Boxspringbett
 geeignet
 ?
@@ -45347,8 +45335,8 @@ bestelle
 brauche
 ich
 nur
-Zahl
-mal
+Unit
+al
 Versand
 zahlen
 ?
@@ -45439,7 +45427,6 @@ Steel
 ?
 
 4560
-Hallo
 ist
 der
 Lüfter
@@ -45634,7 +45621,7 @@ er
 noch
 wenn
 sich
-ne
+eine
 Katze
 drauf
 setzt
@@ -45651,7 +45638,6 @@ Kabeln
 ?
 
 4580
-Hallo
 ist
 es
 eigentlich
@@ -45690,7 +45676,8 @@ auch
 für
 die
 Größe
-ZahlxZahl
+Zahl
+Zahl
 ?
 
 4583
@@ -45701,7 +45688,7 @@ bei
 einer
 Matraze
 mit
-Zahlcm
+Unit
 Steghöhe
 ?
 
@@ -45743,13 +45730,15 @@ Alarmsignal
 
 4587
 Die
-Zahler
+Zahl
+er
 Version
 soll
 erst
 in
-ZahlZahl
-Monaten
+Zahl
+Unit
+onaten
 versandfertig
 sein
 ist
@@ -45758,7 +45747,6 @@ richtig
 ?
 
 4588
-Hallo
 ist
 die
 Matte
@@ -45888,7 +45876,6 @@ Abbildung
 ?
 
 4601
-Hallo
 kann
 man
 den
@@ -45914,8 +45901,9 @@ es
 irgendwo
 auch
 eine
-ca
-ZahlcmVersion
+circa
+Unit
+Version
 ohne
 Stöpsel
 ?
@@ -45936,9 +45924,7 @@ große
 Rolle
 mit
 Zahl
-x
-Zahl
-cm
+Unit
 relativ
 kurz
 ist
@@ -46027,8 +46013,9 @@ verstellbar
 Ist
 die
 Sonnenbrille
-CatZahl
-geschützt
+circat
+Unit
+eschützt
 ?
 
 4614
@@ -46099,7 +46086,7 @@ Riegel
 in
 ein
 Asus
-gZahls
+Zahl
 Notebook
 ?
 
@@ -46131,8 +46118,7 @@ Ist
 die
 Platte
 für
-Zahl
-Zahl
+immer
 geeignet
 ?
 
@@ -46259,7 +46245,8 @@ Türöffner
 bedient
 werden
 zum
-Beispielüber
+Beispiel
+über
 die
 Fritzbox
 ?
@@ -46462,7 +46449,6 @@ Wochen
 ?
 
 4653
-Hallo
 zeigt
 diese
 Uhr
@@ -46486,7 +46472,6 @@ einstellt
 ?
 
 4654
-Hallo
 wie
 werden
 denn
@@ -46544,10 +46529,10 @@ arbeiten
 ?
 
 4660
-Hallo
 hat
 der
-etZahl
+et
+Zahl
 auch
 Einzelblattpapier
 Zufuhr
@@ -46591,7 +46576,6 @@ verfügbar
 ?
 
 4664
-Hallo
 hat
 der
 Laptop
@@ -46625,7 +46609,7 @@ Wand
 4667
 ist
 ein
-ZahlV
+Zahl
 Betrieb
 möglich
 ohne
@@ -46654,7 +46638,7 @@ Wimpel
 sind
 an
 der
-Zahlcm
+Unit
 Kette
 ?
 
@@ -46665,7 +46649,8 @@ das
 Etui
 auch
 mit
-ZahlZahl
+Zahl
+Zahl
 Karten
 nutzen
 ohne
@@ -46700,7 +46685,6 @@ Unterteilung
 ?
 
 4674
-Hallo
 welche
 Schriftnummer
 aus
@@ -46819,7 +46803,8 @@ wieviel
 Rechnern
 kann
 ich
-pdfZahl
+pdf
+Zahl
 pemium
 installieren
 ?
@@ -47091,7 +47076,8 @@ ist
 der
 Unterschied
 zum
-cmZahl
+cm
+Zahl
 ?
 
 4711
@@ -47100,7 +47086,8 @@ ist
 der
 Unterschied
 zum
-cmZahl
+cm
+Zahl
 ?
 
 4712
@@ -47152,7 +47139,6 @@ gültig
 Hat
 sie
 Zahl
-h
 Anzeige
 ?
 
@@ -47231,7 +47217,8 @@ Decke
 unten
 offen
 das
-heißtdie
+heißt
+die
 Füße
 gucken
 raus
@@ -47402,8 +47389,8 @@ Explorist
 mit
 dem
 Huawei
-pZahl
-lite
+Unit
+ite
 ?
 
 4737
@@ -47554,7 +47541,6 @@ ist
 ?
 
 4750
-Hallo
 ist
 die
 Oberfläche
@@ -47613,8 +47599,7 @@ Grafikkarte
 von
 anderen
 gtx
-Zahl
-ti
+Unit
 custom
 Designs
 ?
@@ -47642,8 +47627,8 @@ Maschine
 
 4758
 Alle
-Zahl
-Monate
+Unit
+onate
 oder
 öfters
 ?
@@ -47661,8 +47646,8 @@ Kann
 ich
 dann
 insgesamt
-Zahl
-Geräte
+Unit
+eräte
 schützen
 ?
 
@@ -47690,7 +47675,6 @@ werden
 4763
 Wie
 viele
-U
 Min
 hat
 diese
@@ -47738,7 +47722,8 @@ Kochwäsche
 mit
 Vollwaschmittel
 alle
-ZahlZahl
+Zahl
+Zahl
 Wochen
 außer
 dass
@@ -47775,8 +47760,9 @@ deaktivieren
 4771
 Was
 heißt
-ZahlZahl
-Geräte
+Zahl
+Unit
+eräte
 ?
 
 4772
@@ -47826,7 +47812,6 @@ werden
 4775
 Wie
 viele
-U
 Min
 hat
 diese
@@ -47839,13 +47824,14 @@ Gibt
 es
 innerhalb
 der
-Zahl
-Minuten
+Unit
+inuten
 auch
 Impulse
 nach
 allen
-Zahlsek
+Zahl
+sek
 ?
 
 4777
@@ -47864,7 +47850,6 @@ Kosten
 ?
 
 4779
-Hallo
 kann
 die
 Klingel
@@ -47989,11 +47974,11 @@ Angebot
 Ist
 diese
 Halterung
-Zahl
-Grad
+Unit
+rad
 oder
-Zahl
-Grad
+Unit
+rad
 nach
 unten
 neigbar
@@ -48075,8 +48060,8 @@ ausprobiert
 ob
 das
 iPhone
-Zahl
-mit
+Unit
+it
 einer
 dünnen
 Schutzhülle
@@ -48101,7 +48086,7 @@ der
 Kopfhöreranschluss
 beim
 iPhone
-Zahls
+Zahl
 bedeckt
 ?
 
@@ -48761,8 +48746,7 @@ auf
 eine
 Matratze
 mit
-Zahl
-cm
+Unit
 Höhe
 ?
 
@@ -48775,7 +48759,6 @@ ich
 denselben
 Ledger
 nano
-s
 nutzen
 ?
 
@@ -48913,7 +48896,7 @@ plus
 4870
 Passen
 auch
-Zahlm
+Unit
 Kabel
 drauf
 ?
@@ -48984,7 +48967,8 @@ Ladekabel
 4877
 Hat
 es
-Webcam
+Web
+circam
 ?
 
 4878
@@ -49118,7 +49102,6 @@ TV
 ?
 
 4892
-Hallo
 wie
 breit
 und
@@ -49259,7 +49242,8 @@ man
 an
 den
 Bosch
-ZahlZahl
+Zahl
+Zahl
 statt
 der
 Messer
@@ -49302,7 +49286,6 @@ vernetzen
 ?
 
 4910
-Hallo
 warum
 sind
 Zahl
@@ -49436,7 +49419,8 @@ finde
 ich
 die
 vorinstallierten
-Geocaches
+Geo
+circaches
 ?
 
 4922
@@ -49696,7 +49680,8 @@ auch
 wenn
 es
 zum
-Beispielregnet
+Beispiel
+regnet
 ?
 
 4944
@@ -49860,7 +49845,7 @@ lange
 reicht
 dieser
 Vorteilspack
-ca
+circa
 aus
 ?
 
@@ -49872,12 +49857,10 @@ bitte
 sagen
 was
 Warnhinweis
-N
 heißt
 ?
 
 4962
-Hallo
 bleiben
 die
 Tücher
@@ -49914,7 +49897,6 @@ streamen
 ?
 
 4965
-Hallo
 wird
 die
 Uhr
@@ -50085,8 +50067,8 @@ diese
 Handschuhe
 der
 Größe
-Zahl
-geeignet
+Unit
+eeignet
 ?
 
 4981
@@ -50298,7 +50280,6 @@ wird
 ?
 
 4999
-Hallo
 wie
 soll
 das

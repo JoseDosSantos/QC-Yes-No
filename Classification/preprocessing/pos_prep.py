@@ -1,8 +1,8 @@
 import csv
 
-def main():
-    with open('data/' + 'all_pre_pos.txt', 'w', newline='') as a:
-        reader = csv.reader(open('data/' + 'all_cleaned.csv', 'r'), delimiter=';')
+def main(path='data/'):
+    with open(path + 'all_pre_pos.txt', 'w', newline='') as a:
+        reader = csv.reader(open(path + 'all_cleaned.csv', 'r'), delimiter=';')
         for i, line in enumerate(reader):
             for word in [str(i)] + (line[0].split('?')[0].split()) + ['?']:
                 a.write(word + '\n')
@@ -10,9 +10,9 @@ def main():
         a.flush()
         a.close()
 
-    with open('data/' + 'labels.csv', 'w', newline='') as a:
+    with open(path + 'labels.csv', 'w', newline='') as a:
         writer = csv.writer(a, delimiter=';')
-        reader = csv.reader(open('data/' + 'all_cleaned.csv', 'r'), delimiter=';')
+        reader = csv.reader(open(path + 'all_cleaned.csv', 'r'), delimiter=';')
         for i, line in enumerate(reader):
             writer.writerow([i, line[1]])
         a.flush()

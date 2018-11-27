@@ -262,8 +262,8 @@ Hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 vielleicht	ADV	ADV	vielleicht
 noch	ADV	ADV	noch
 irgendwer	PRO.Indef.Subst.Nom.Sg.*	PIS	irgendwer
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Tickets	N.Reg.Acc.Pl.Neut	NN	Ticket
+Unit	FM	FM	<unknown>
+ickets	FM	FM	<unknown>
 für	APPR	APPR	für
 den	ART.Def.Acc.Sg.Masc	ART	die
 GC	ADJA.Pos.*.*.*	ADJA	<unknown>
@@ -545,7 +545,6 @@ Samstag	N.Reg.Dat.Sg.Masc	NN	Samstag
 ?	SYM.Pun.Sent	$.	?
 
 61	CARD	CARD	61
-Hey	N.Reg.Acc.Sg.Neut	NN	<unknown>
 wollt	VFIN.Mod.2.Pl.Pres.Ind	VMFIN	wollen
 ihr	PRO.Pers.Subst.2.Nom.Pl.*	PPER	sie
 uns	PRO.Pers.Subst.1.Acc.Pl.*	PPER	sie
@@ -1188,10 +1187,10 @@ weg	PART.Verb	PTKVZ	weg
 132	CARD	CARD	<card>
 Sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
-die	ART.Def.Nom.Sg.Fem	ART	die
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-guten	ADJA.Pos.Gen.Pl.Masc	ADJA	gut
-Würfe	N.Reg.Gen.Pl.Masc	NN	Wurf
+die	ART.Def.Nom.Pl.Masc	ART	die
+Unit	FM	FM	<unknown>
+uten	ADJA.Pos.Nom.Pl.Masc	ADJA	<unknown>
+Würfe	N.Reg.Nom.Pl.Masc	NN	Wurf
 in	APPR	APPR	in
 Folge	N.Reg.Dat.Sg.Fem	NN	Folge
 an	APZR	APZR	an
@@ -1354,10 +1353,11 @@ ihr	PRO.Pers.Subst.2.Nom.Pl.*	PPER	sie
 schon	ADV	ADV	schon
 mal	ADV	ADV	mal
 bei	APPR	APPR	bei
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Grad	N.Reg.*.*.Masc	NN	<unknown>
-ein	ART.Indef.Acc.Sg.Neut	ART	eine
-ZahlZahl	N.Reg.Acc.Sg.Neut	NN	<unknown>
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+rad	PART.Verb	PTKVZ	rad
+ein	ART.Indef.Nom.Sg.*	ART	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 qm	N.Reg.*.*.*	NN	qm
 großes	ADJA.Pos.Acc.Sg.Neut	ADJA	groß
 Maislabyrinth	N.Reg.Acc.Sg.Neut	NN	Maislabyrinth
@@ -1646,7 +1646,8 @@ Radweg	N.Reg.Nom.Sg.Masc	NN	Radweg
 Wofür	N.Reg.Acc.Sg.Fem	NN	<unknown>
 geht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	gehen
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
-ZahlZahl	N.Reg.Acc.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 Jahre	N.Reg.Acc.Pl.Neut	NN	Jahr
 studieren	VINF.Full	VVINF	studieren
 wenn	CONJ.SubFin	KOUS	wenn
@@ -1701,9 +1702,9 @@ mehr	ADV	ADV	mehr
 Wie	PROADV.Inter	PWAV	wie
 sieht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	sehen
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
-ab	ADV	ADV	<unknown>
-Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
-März	N.Reg.*.Sg.Masc	NN	<unknown>
+ab	PART.Verb	PTKVZ	ab
+Unit	FM	FM	<unknown>
+ärz	FM	FM	<unknown>
 aus	PART.Verb	PTKVZ	aus
 ?	SYM.Pun.Sent	$.	?
 
@@ -1802,8 +1803,9 @@ Abschiebung	N.Reg.Nom.Sg.Fem	NN	Abschiebung
 nicht	PART.Neg	PTKNEG	nicht
 schon	ADV	ADV	schon
 in	APPR	APPR	in
-den	ART.Def.Dat.Pl.Masc	ART	die
-Zahlern	N.Reg.Dat.Pl.Masc	NN	Zahler
+den	ART.Def.Dat.Pl.Fem	ART	die
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
+ern	ADJD.Pos	ADJD	<unknown>
 beschlossen	VPP.Full.Psp	VVPP	beschließen
 worden	VPP.Aux.Psp	VAPP	werden
 ?	SYM.Pun.Sent	$.	?
@@ -2115,8 +2117,8 @@ darf	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	dürfen
 Oh	ITJ	ITJ	oh
 haben	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	haben
 sich	PRO.Refl.Subst.3.Acc.Pl.*	PRF	sie
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-gefunden	VPP.Full.Psp	VVPP	finden
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+efunden	VPP.Full.Psp	VVPP	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 232	CARD	CARD	<card>
@@ -2291,7 +2293,8 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 das	ART.Def.Nom.Sg.Neut	ART	die
 Ziel	N.Reg.Nom.Sg.Neut	NN	Ziel
 der	ART.Def.Gen.Sg.Fem	ART	die
-AktionStandesamtZahl	N.Reg.Gen.Sg.Fem	NN	<unknown>
+AktionStandesamt	TRUNC.Noun	TRUNC	<unknown>
+Zahl	N.Reg.Gen.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 251	CARD	CARD	<card>
@@ -3070,7 +3073,6 @@ sein	VINF.Aux	VAINF	sein
 ?	SYM.Pun.Sent	$.	?
 
 337	CARD	CARD	<card>
-Hey	N.Reg.Nom.Sg.Masc	NN	<unknown>
 da	ADV	ADV	da
 waren	VFIN.Aux.1.Pl.Past.Ind	VAFIN	sein
 wir	PRO.Pers.Subst.1.Nom.Pl.*	PPER	sie
@@ -4129,7 +4131,8 @@ Kennst	VFIN.Full.2.Sg.Pres.Ind	VVFIN	kennen
 Du	PRO.Pers.Subst.2.Nom.Sg.*	PPER	sie
 schon	ADV	ADV	schon
 meinen	PRO.Poss.Attr.Acc.Sg.Masc	PPOSAT	meine
-Podcast	N.Reg.Acc.Sg.Masc	NN	<unknown>
+Pod	N.Reg.Acc.Sg.Masc	NN	<unknown>
+circast	VPP.Full.Psp	VVPP	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 455	CARD	CARD	<card>
@@ -5525,8 +5528,9 @@ von	APPR	APPR	von
 der	ART.Def.Dat.Sg.Fem	ART	die
 Idee	N.Reg.Dat.Sg.Fem	NN	Idee
 in	APPR	APPR	in
-coZahl	ADJD.Pos	ADJD	<unknown>
-Kompensation	N.Reg.Dat.Sg.Fem	NN	Kompensation
+co	N.Name.Dat.Sg.Neut	NE	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Kompensation	N.Reg.Nom.Sg.Fem	NN	Kompensation
 von	APPR	APPR	von
 Flügen	N.Reg.Dat.Pl.Masc	NN	Flug
 zu	PART.Zu	PTKZU	zu
@@ -5731,10 +5735,9 @@ mit	PART.Verb	PTKVZ	mit
 ?	SYM.Pun.Sent	$.	?
 
 629	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
-das	PRO.Dem.Subst.Acc.Sg.Neut	PDS	die
+das	ART.Def.Acc.Sg.Neut	ART	die
 bei	APPR	APPR	bei
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	PPER	sie
 auch	ADV	ADV	auch
@@ -5854,7 +5857,7 @@ bekommen	VPP.Full.Psp	VVPP	bekommen
 Hast	VFIN.Aux.2.Sg.Pres.Ind	VAFIN	haben
 du	PRO.Pers.Subst.2.Nom.Sg.*	PPER	sie
 schon	ADV	ADV	schon
-Call	FM	FM	<unknown>
+circall	FM	FM	<unknown>
 of	FM	FM	<unknown>
 Cthulhu	FM	FM	<unknown>
 gesehen	VPP.Full.Psp	VVPP	sehen
@@ -6418,7 +6421,6 @@ Kaffeeflatrate	N.Reg.Acc.Pl.Neut	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 702	CARD	CARD	<card>
-Hi	N.Reg.*.*.Neut	NN	<unknown>
 kannst	VFIN.Mod.2.Sg.Pres.Ind	VMFIN	können
 Du	PRO.Pers.Subst.2.Nom.Sg.*	PPER	sie
 mir	PRO.Pers.Subst.1.Dat.Sg.*	PPER	sie
@@ -7169,10 +7171,11 @@ Welt	N.Reg.Dat.Sg.Fem	NN	Welt
 ?	SYM.Pun.Sent	$.	?
 
 782	CARD	CARD	<card>
-Was	PRO.Inter.Subst.Acc.Sg.Neut	PWS	was
+Was	PRO.Indef.Subst.*.*.*	PIS	was
 taugen	VFIN.Full.3.Pl.Pres.Ind	VVFIN	taugen
-die	ART.Def.Nom.Pl.Fem	ART	die
-ZahlEuroTrachten	N.Reg.Nom.Pl.Fem	NN	Tracht
+die	ART.Def.Nom.Sg.Fem	ART	die
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+EuroTrachten	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 783	CARD	CARD	<card>
@@ -7418,10 +7421,10 @@ Eier	N.Reg.Acc.Pl.Neut	NN	Ei
 ?	SYM.Pun.Sent	$.	?
 
 811	CARD	CARD	<card>
-Wer	PRO.Inter.Subst.Nom.Sg.*	PWS	<unknown>
+Wer	PRO.Inter.Subst.Nom.Sg.Masc	PWS	wer
 bringt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	bringen
 mir	PRO.Pers.Subst.1.Dat.Sg.*	PPER	sie
-ne	PART.Ans	PTKANT	ne
+eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Axt	N.Reg.Acc.Sg.Fem	NN	Axt
 ?	SYM.Pun.Sent	$.	?
 
@@ -7603,9 +7606,10 @@ Wartezimmer	N.Reg.Acc.Sg.Neut	NN	Wartezimmer
 Wie	PROADV.Inter	PWAV	wie
 spreche	VFIN.Full.1.Sg.Pres.Ind	VVFIN	sprechen
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
-zum	APPRART.Dat.Sg.Masc	APPRART	zu
-Beispieleinen	ADJA.Pos.Dat.Sg.Masc	ADJA	<unknown>
-Wunschkontakt	N.Reg.Dat.Sg.Masc	NN	Wunschkontakt
+zum	APPRART.Dat.Sg.Neut	APPRART	zu
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+einen	ART.Indef.Acc.Sg.Masc	ART	eine
+Wunschkontakt	N.Reg.Acc.Sg.Masc	NN	Wunschkontakt
 in	APPR	APPR	in
 BusinessNetzwerken	N.Reg.Dat.Pl.Neut	NN	Netzwerk
 an	PART.Verb	PTKVZ	an
@@ -8735,7 +8739,7 @@ Hitzewelle	N.Reg.Dat.Sg.Fem	NN	Hitzewelle
 Können	VFIN.Mod.1.Pl.Pres.Ind	VMFIN	können
 wir	PRO.Pers.Subst.1.Nom.Pl.*	PPER	sie
 mal	ADV	ADV	mal
-ne	PART.Ans	PTKANT	ne
+eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Runde	N.Reg.Acc.Sg.Fem	NN	Runde
 zusammen	ADV	ADV	zusammen
 spielen	VINF.Full	VVINF	spielen
@@ -9207,10 +9211,10 @@ darauf	PROADV.Dem	PROP	darauf
 ?	SYM.Pun.Sent	$.	?
 
 997	CARD	CARD	<card>
-Gibts	N.Reg.Acc.Pl.Neut	NN	<unknown>
-ne	PART.Ans	PTKANT	ne
+Gibts	N.Reg.Nom.Pl.Neut	NN	<unknown>
+eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Aufnahme	N.Reg.Acc.Sg.Fem	NN	Aufnahme
-wie	PROADV.Inter	PWAV	wie
+wie	CONJ.Comp	KOUS	wie
 er	PRO.Pers.Subst.3.Nom.Sg.Masc	PPER	sie
 auf	APPR	APPR	auf
 den	ART.Def.Acc.Sg.Masc	ART	die
@@ -9269,11 +9273,11 @@ eine	ART.Indef.Nom.Sg.Fem	ART	eine
 Umfrage	N.Reg.Nom.Sg.Fem	NN	Umfrage
 an	APPR	APPR	an
 der	ART.Def.Dat.Sg.Fem	ART	die
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Leute	N.Reg.Nom.Pl.*	NN	Leute
-teilnehmen	VFIN.Full.3.Pl.Pres.Ind	VVFIN	teilnehmen
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+eute	VFIN.Full.3.Sg.Pres.Subj	VVFIN	<unknown>
+teilnehmen	VINF.Full	VVINF	teilnehmen
 Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ausgehen	VINF.Full	VVINF	ausgehen
 ?	SYM.Pun.Sent	$.	?
 
@@ -9301,8 +9305,9 @@ gesehen	VPP.Full.Psp	VVPP	sehen
 1007	CARD	CARD	<card>
 Sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
-die	ART.Def.Nom.Pl.Fem	ART	die
-Wildcards	N.Reg.Nom.Pl.Fem	NN	Wildcard
+die	ART.Def.Nom.Pl.Masc	ART	die
+Wild	ADJD.Pos	ADJD	wild
+circards	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 1008	CARD	CARD	<card>
@@ -10362,11 +10367,11 @@ sowas	PRO.Indef.Subst.*.*.*	PIS	sowas
 
 1121	CARD	CARD	<card>
 Heißt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	heißen
-das	PRO.Dem.Subst.Acc.Sg.Neut	PDS	die
-er	PRO.Pers.Subst.3.Nom.Sg.Masc	PPER	sie
-will	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	wollen
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-gehen	VINF.Full	VVINF	gehen
+das	ART.Def.Nom.Sg.Neut	ART	die
+er	FM	FM	<unknown>
+will	FM	FM	<unknown>
+Unit	FM	FM	<unknown>
+ehen	VINF.Full	VVINF	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 1122	CARD	CARD	<card>
@@ -10487,7 +10492,6 @@ die	ART.Def.Nom.Pl.Masc	ART	die
 Spieltage	N.Reg.Nom.Pl.Masc	NN	Spieltag
 Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 bis	ADV	ADV	bis
-x	ADJD.Pos	ADJD	<unknown>
 terminiert	VPP.Full.Psp	VVPP	terminieren
 ?	SYM.Pun.Sent	$.	?
 
@@ -10703,9 +10707,10 @@ Doktorarbeit	N.Reg.Nom.Sg.Fem	NN	Doktorarbeit
 ?	SYM.Pun.Sent	$.	?
 
 1159	CARD	CARD	<card>
-Was	PRO.Inter.Subst.Acc.Sg.Neut	PWS	was
+Was	PRO.Inter.Subst.Nom.Sg.Neut	PWS	was
 macht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	machen
-Wirecard	N.Name.Nom.Sg.*	NE	<unknown>
+Wire	FM	FM	<unknown>
+circard	FM	FM	<unknown>
 eigentlich	ADV	ADV	eigentlich
 genau	ADJD.Pos	ADJD	genau
 ?	SYM.Pun.Sent	$.	?
@@ -10764,7 +10769,9 @@ wünscht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	wünschen
 ihr	PRO.Pers.Subst.3.Dat.Sg.Fem	PPER	sie
 euch	PRO.Pers.Subst.2.Dat.Pl.*	PPER	sie
 vor	APPR	APPR	vor
-ZahlZahlUhr	N.Reg.Dat.Sg.Neut	NN	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Uhr	N.Reg.*.*.Fem	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 1165	CARD	CARD	<card>
@@ -11083,7 +11090,6 @@ aufgerufen	VPP.Full.Psp	VVPP	aufrufen
 ?	SYM.Pun.Sent	$.	?
 
 1199	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 können	VFIN.Mod.3.Pl.Pres.Ind	VMFIN	können
 sie	PRO.Pers.Subst.3.Nom.Pl.*	PPER	sie
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
@@ -11141,7 +11147,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 denn	ADV	ADV	denn
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 für	APPR	APPR	für
-ne	PART.Ans	PTKANT	ne
+eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Stimmung	N.Reg.Acc.Sg.Fem	NN	Stimmung
 hier	ADV	ADV	hier
 ?	SYM.Pun.Sent	$.	?
@@ -12004,7 +12010,8 @@ du	PRO.Pers.Subst.2.Nom.Sg.*	PPER	sie
 auch	ADV	ADV	auch
 auf	APPR	APPR	auf
 der	ART.Def.Dat.Sg.Fem	ART	die
-PSZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
+PS	N.Reg.Dat.Pl.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 1292	CARD	CARD	<card>
@@ -12671,7 +12678,8 @@ noch	ADV	ADV	noch
 mal	ADV	ADV	mal
 zwei	CARD	CARD	zwei
 Mamas	N.Reg.Acc.Pl.Fem	NN	Mama
-Oscar	N.Reg.Nom.Sg.Masc	NN	produktionsästhetisch
+Os	N.Reg.Acc.Pl.Neut	NN	<unknown>
+circar	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 1362	CARD	CARD	<card>
@@ -12748,8 +12756,9 @@ in	APPR	APPR	in
 der	ART.Def.Dat.Sg.Fem	ART	die
 Stadt	N.Reg.Dat.Sg.Fem	NN	Stadt
 dass	CONJ.SubFin	KOUS	dass
-zum	APPRART.Dat.Sg.Masc	APPRART	zu
-ZahlZahl	N.Reg.Dat.Sg.Masc	NN	<unknown>
+zum	APPRART.Dat.Sg.*	APPRART	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 frei	ADJD.Pos	ADJD	frei
 wäre	VFIN.Aux.3.Sg.Past.Subj	VAFIN	sein
 ?	SYM.Pun.Sent	$.	?
@@ -14343,8 +14352,8 @@ anderes	PRO.Indef.Subst.Nom.Sg.Neut	PIS	andere
 ?	SYM.Pun.Sent	$.	?
 
 1528	CARD	CARD	<card>
-Gibts	N.Reg.Acc.Pl.Neut	NN	<unknown>
-ne	PART.Ans	PTKANT	ne
+Gibts	N.Reg.Nom.Pl.Neut	NN	<unknown>
+eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Haftpflicht	N.Reg.Acc.Sg.Fem	NN	Haftpflicht
 ?	SYM.Pun.Sent	$.	?
 
@@ -14736,8 +14745,9 @@ wann	PROADV.Inter	PWAV	wann
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 das	ART.Def.Nom.Sg.Neut	ART	die
 Herzversagen	N.Reg.Nom.Sg.Neut	NN	Herzversagen
-eines	ART.Indef.Gen.Sg.Masc	ART	eine
-ZahlJährigen	N.Reg.Gen.Sg.Masc	NN	Jährig
+eines	PRO.Indef.Subst.Gen.Sg.Masc	PIS	eine
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Jährigen	N.Reg.Gen.Sg.Neut	NN	Jährig
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Zeitungsmeldung	N.Reg.Acc.Sg.Fem	NN	Zeitungsmeldung
 wert	ADJD.Pos	ADJD	wert
@@ -16108,11 +16118,10 @@ absolviert	VPP.Full.Psp	VVPP	absolvieren
 1714	CARD	CARD	<card>
 Hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 jede	PRO.Indef.Subst.Nom.Sg.Fem	PIS	jede
-r	N.Name.Dat.Sg.Neut	NE	R
 ein	ART.Indef.Acc.Sg.Neut	ART	eine
 Recht	N.Reg.Acc.Sg.Neut	NN	Recht
-zu	PART.Zu	PTKZU	zu
-Leben	VINF.Full	VVINF	leben
+zu	APPR	APPR	zu
+Leben	N.Reg.Dat.Sg.Neut	NN	Leben
 ?	SYM.Pun.Sent	$.	?
 
 1715	CARD	CARD	<card>
@@ -18344,8 +18353,8 @@ Twitter	N.Reg.Acc.Sg.Masc	NN	<unknown>
 Account	N.Reg.Nom.Sg.Masc	NN	Account
 für	APPR	APPR	für
 das	ART.Def.Acc.Sg.Neut	ART	die
-Academy	N.Name.*.*.*	NE	<unknown>
-Team	N.Reg.Acc.Sg.Neut	NN	Team
+circademy	FM	FM	<unknown>
+Team	FM	FM	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 1952	CARD	CARD	<card>
@@ -20542,11 +20551,12 @@ Klausur	N.Reg.Dat.Sg.Fem	NN	Klausur
 
 2182	CARD	CARD	<card>
 Und	CONJ.Coord	KON	und
-was	PRO.Inter.Subst.Acc.Sg.Neut	PWS	was
+was	PRO.Inter.Subst.Nom.Sg.Neut	PWS	was
 macht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	machen
-der	ART.Def.Nom.Sg.Masc	ART	die
-Zahljährige	ADJA.Pos.Nom.Sg.Masc	ADJA	jährig
-Erstklässler	N.Reg.Nom.Sg.Masc	NN	Erstklässler
+der	ART.Def.Dat.Sg.Fem	ART	die
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+jährige	ADJA.Pos.Acc.Pl.Masc	ADJA	jährig
+Erstklässler	N.Reg.Acc.Pl.Masc	NN	Erstklässler
 dann	ADV	ADV	dann
 ?	SYM.Pun.Sent	$.	?
 
@@ -20597,7 +20607,8 @@ Was	PRO.Inter.Subst.Nom.Sg.Neut	PWS	was
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 wirklich	ADJD.Pos	ADJD	wirklich
 mit	APPR	APPR	mit
-MHZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
+MH	N.Name.Dat.Sg.*	NE	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 passiert	VPP.Full.Psp	VVPP	passieren
 ?	SYM.Pun.Sent	$.	?
 
@@ -20971,7 +20982,6 @@ Waffen	N.Reg.Nom.Pl.Fem	NN	Waffe
 ?	SYM.Pun.Sent	$.	?
 
 2229	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 warum	PROADV.Inter	PWAV	warum
 hast	VFIN.Aux.2.Sg.Pres.Ind	VAFIN	haben
 du	PRO.Pers.Subst.2.Nom.Sg.*	PPER	sie
@@ -21015,7 +21025,6 @@ Friedenspreis	N.Reg.Nom.Sg.Masc	NN	Friedenspreis
 ?	SYM.Pun.Sent	$.	?
 
 2233	CARD	CARD	<card>
-Hey	FM	FM	<unknown>
 wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 die	ART.Def.Acc.Pl.Neut	ART	die
@@ -21897,7 +21906,6 @@ erfunden	VPP.Full.Psp	VVPP	erfinden
 ?	SYM.Pun.Sent	$.	?
 
 2323	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 um	APPR	APPR	um
 welche	PRO.Inter.Attr.Acc.Sg.Fem	PWAT	<unknown>
 Fritzbox	N.Reg.Acc.Sg.Fem	NN	<unknown>
@@ -23626,7 +23634,10 @@ Was	PRO.Indef.Subst.*.*.*	PIS	was
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 Ruwi	N.Name.Nom.Sg.*	NE	<unknown>
 das	ART.Def.Acc.Sg.Neut	ART	die
-ZahlinZahlMultifunktionswerkzeug	N.Reg.Acc.Sg.Neut	NN	ZahlinZahlMultifunktionswerkzeug
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+in	APPR	APPR	in
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Multifunktionswerkzeug	N.Reg.Nom.Sg.Neut	NN	Multifunktionswerkzeug
 für	APPR	APPR	für
 den	ART.Def.Acc.Sg.Masc	ART	die
 Garten	N.Reg.Acc.Sg.Masc	NN	Garten
@@ -23872,7 +23883,6 @@ falsch	ADJD.Pos	ADJD	falsch
 ?	SYM.Pun.Sent	$.	?
 
 2530	CARD	CARD	<card>
-Hey	N.Reg.Nom.Sg.Masc	NN	<unknown>
 war	VFIN.Aux.3.Sg.Past.Ind	VAFIN	sein
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 etwa	ADV	ADV	etwa
@@ -23967,7 +23977,8 @@ hast	VFIN.Aux.2.Sg.Pres.Ind	VAFIN	haben
 du	PRO.Pers.Subst.2.Nom.Sg.*	PPER	sie
 dann	ADV	ADV	dann
 deinen	PRO.Poss.Attr.Acc.Sg.Masc	PPOSAT	deine
-Podcast	N.Reg.Acc.Sg.Masc	NN	<unknown>
+Pod	N.Reg.Acc.Sg.Masc	NN	<unknown>
+circast	VPP.Full.Psp	VVPP	<unknown>
 gemacht	VPP.Full.Psp	VVPP	machen
 ?	SYM.Pun.Sent	$.	?
 
@@ -24449,9 +24460,9 @@ meine	PRO.Poss.Attr.Nom.Sg.Fem	PPOSAT	meine
 Mutter	N.Reg.Nom.Sg.Fem	NN	Mutter
 nicht	PART.Neg	PTKNEG	nicht
 noch	ADV	ADV	noch
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Tage	N.Reg.Acc.Pl.Masc	NN	Tag
-warten	VINF.Full	VVINF	warten
+Unit	FM	FM	<unknown>
+age	FM	FM	<unknown>
+warten	VFIN.Full.3.Pl.Pres.Ind	VVFIN	warten
 mit	APPR	APPR	mit
 der	ART.Def.Dat.Sg.Fem	ART	die
 Geburt	N.Reg.Dat.Sg.Fem	NN	Geburt
@@ -27548,8 +27559,8 @@ Nürnberger	N.Reg.Gen.Pl.Masc	NN	Nürnberger
 ein	ART.Indef.Acc.Sg.Neut	ART	eine
 Trikot	N.Reg.Acc.Sg.Neut	NN	Trikot
 von	APPR	APPR	von
-HZahl	N.Name.Dat.Sg.Neut	NE	<unknown>
-trägt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	tragen
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+rägt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 2906	CARD	CARD	<card>
@@ -27696,7 +27707,8 @@ nicht	PART.Neg	PTKNEG	nicht
 die	ART.Def.Acc.Sg.Fem	ART	die
 PIN	N.Reg.Acc.Sg.Fem	NN	Pin
 der	ART.Def.Gen.Sg.Fem	ART	die
-Mastercard	N.Reg.Gen.Sg.Fem	NN	Mastercard
+Master	N.Name.*.*.*	NE	<unknown>
+circard	N.Name.*.*.*	NE	<unknown>
 auf	APPR	APPR	auf
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Wunschpin	N.Reg.Acc.Sg.Fem	NN	<unknown>
@@ -27773,11 +27785,10 @@ Ohrwurm	N.Reg.Acc.Sg.Masc	NN	Ohrwurm
 ?	SYM.Pun.Sent	$.	?
 
 2927	CARD	CARD	<card>
-Hey	N.Reg.Nom.Sg.Masc	NN	<unknown>
 wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
-der	ART.Def.Gen.Sg.Fem	ART	die
-Friday	N.Name.Gen.Sg.Fem	NE	<unknown>
-Night	N.Reg.Nom.Sg.Fem	NN	Night
+der	ART.Def.Nom.Sg.Masc	ART	die
+Friday	N.Name.Nom.Sg.Masc	NE	<unknown>
+Night	N.Reg.Acc.Sg.Fem	NN	Night
 Stream	N.Reg.Nom.Sg.Masc	NN	Stream
 noch	ADV	ADV	noch
 hochgeladen	VPP.Full.Psp	VVPP	hochladen
@@ -27928,7 +27939,8 @@ einen	ART.Indef.Acc.Sg.Masc	ART	eine
 Verteidiger	N.Reg.Acc.Sg.Masc	NN	Verteidiger
 wenn	CONJ.SubFin	KOUS	wenn
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
-ZahlZahl	N.Reg.Acc.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 hinten	ADV	ADV	hinten
 liegt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	liegen
 ?	SYM.Pun.Sent	$.	?
@@ -28069,8 +28081,8 @@ kommt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	kommen
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 auf	APPR	APPR	auf
 Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Mio	N.Name.Nom.Sg.*	NE	Mio
+Unit	FM	FM	<unknown>
+io	FM	FM	<unknown>
 neue	ADJA.Pos.Acc.Pl.Fem	ADJA	neu
 Wohnungen	N.Reg.Acc.Pl.Fem	NN	Wohnung
 ?	SYM.Pun.Sent	$.	?
@@ -28335,8 +28347,8 @@ dass	CONJ.SubFin	KOUS	dass
 er	PRO.Pers.Subst.3.Nom.Sg.Masc	PPER	sie
 sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
 jetzt	ADV	ADV	jetzt
-ne	PART.Ans	PTKANT	ne
-Stunde	VIMP.Full.2.Sg	VVIMP	stunden
+eine	ART.Indef.Acc.Sg.Fem	ART	eine
+Stunde	N.Reg.Acc.Sg.Fem	NN	Stunde
 erholen	VINF.Full	VVINF	erholen
 darf	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	dürfen
 und	CONJ.Coord	KON	und
@@ -28505,7 +28517,8 @@ Ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 schon	ADV	ADV	schon
 ein	ART.Indef.Nom.Sg.Masc	ART	eine
-BoZahl	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Bo	N.Name.Nom.Sg.Masc	NE	Bo
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3003	CARD	CARD	<card>
@@ -28583,11 +28596,12 @@ Um	APPR	APPR	um
 welches	PRO.Inter.Attr.Acc.Sg.Neut	PWAT	<unknown>
 Modell	N.Reg.Acc.Sg.Neut	NN	Modell
 handelt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	handeln
-es	PRO.Pers.Subst.3.Acc.Sg.Neut	PPER	sie
-sich	PRO.Refl.Subst.3.Dat.Sg.*	PRF	sie
+es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
+sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
 im	APPRART.Dat.Sg.Neut	APPRART	in
-Zahlten	VFIN.Full.3.Pl.Past.Ind	VVFIN	zahlen
-Bild	N.Reg.Acc.Sg.Neut	NN	Bild
+Unit	FM	FM	<unknown>
+en	FM	FM	<unknown>
+Bild	N.Reg.Dat.Sg.Neut	NN	Bild
 ?	SYM.Pun.Sent	$.	?
 
 3011	CARD	CARD	<card>
@@ -28613,9 +28627,11 @@ Einigen	VFIN.Full.1.Pl.Pres.Ind	VVFIN	einigen
 wir	PRO.Pers.Subst.1.Nom.Pl.*	PPER	sie
 uns	PRO.Refl.Subst.1.Acc.Pl.*	PRF	sie
 auf	APPR	APPR	auf
+cir	ADJD.Pos	ADJD	<unknown>
 circa	ADV	ADV	circa
-ZahlZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
-Minuten	N.Reg.Acc.Pl.Fem	NN	Minute
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+inuten	VFIN.Full.3.Pl.Past.Ind	VVFIN	<unknown>
 zu	APPR	APPR	zu
 Anfang	N.Reg.Dat.Sg.Masc	NN	Anfang
 ?	SYM.Pun.Sent	$.	?
@@ -28784,7 +28800,6 @@ Gerät	N.Reg.Nom.Sg.Neut	NN	Gerät
 ?	SYM.Pun.Sent	$.	?
 
 3031	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 jemand	PRO.Indef.Subst.Nom.Sg.Masc	PIS	<unknown>
 Erfahrung	N.Reg.Acc.Sg.Fem	NN	Erfahrung
@@ -29028,7 +29043,6 @@ werden	VINF.Aux	VAINF	werden
 ?	SYM.Pun.Sent	$.	?
 
 3054	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Pl.Fem	ART	die
 Farben	N.Reg.Nom.Pl.Fem	NN	Farbe
@@ -29235,7 +29249,7 @@ für	APPR	APPR	für
 Benzin	N.Reg.Acc.Sg.Neut	NN	Benzin
 super	ADJD.Pos	ADJD	super
 oder	CONJ.Coord	KON	oder
-eZahl	ADJD.Pos	ADJD	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3074	CARD	CARD	<card>
@@ -29380,8 +29394,10 @@ geeignet	ADJD.Pos	ADJD	geeignet
 für	APPR	APPR	für
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
 siemens	FM	FM	<unknown>
-wmZahlwZahl	FM	FM	<unknown>
-Waschmaschine	N.Reg.Acc.Sg.Fem	NN	Waschmaschine
+wm	FM	FM	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Waschmaschine	N.Reg.Nom.Sg.Fem	NN	Waschmaschine
 ?	SYM.Pun.Sent	$.	?
 
 3088	CARD	CARD	<card>
@@ -29581,7 +29597,7 @@ Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 das	ART.Def.Nom.Sg.Neut	ART	die
 Gerät	N.Reg.Nom.Sg.Neut	NN	Gerät
 farbig	ADJD.Pos	ADJD	farbig
-scannen	VINF.Full	VVINF	scannen
+circannen	VINF.Full	VVINF	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3109	CARD	CARD	<card>
@@ -29615,7 +29631,7 @@ Wie	PROADV.Inter	PWAV	wie
 wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
 der	ART.Def.Nom.Sg.Masc	ART	die
 Universalhalter	N.Reg.Nom.Sg.Masc	NN	Universalhalter
-Zahlmm	N.Name.Nom.Sg.*	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 benutzt	VPP.Full.Psp	VVPP	benutzen
 ?	SYM.Pun.Sent	$.	?
 
@@ -29686,7 +29702,7 @@ Drucker	N.Reg.Nom.Sg.Masc	NN	Drucker
 auch	ADV	ADV	auch
 das	ART.Def.Acc.Sg.Neut	ART	die
 beidseitige	ADJA.Pos.Acc.Sg.Neut	ADJA	beidseitig
-Scannen	N.Reg.Acc.Sg.Neut	NN	Scannen
+circannen	N.Reg.Acc.Sg.Neut	NN	<unknown>
 in	APPR	APPR	in
 einem	ART.Indef.Dat.Sg.Masc	ART	eine
 Schritt	N.Reg.Dat.Sg.Masc	NN	Schritt
@@ -29707,15 +29723,15 @@ Stromkabel	N.Reg.Nom.Sg.Neut	NN	Stromkabel
 Saugt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	saugen
 er	PRO.Pers.Subst.3.Nom.Sg.Masc	PPER	sie
 Wasser	N.Reg.Acc.Sg.Neut	NN	Wasser
-zum	APPRART.Dat.Sg.Masc	APPRART	zu
-Beispielaus	N.Reg.Dat.Sg.Masc	NN	<unknown>
-einer	ART.Indef.Gen.Sg.Fem	ART	eine
-Regentonne	N.Reg.Gen.Sg.Fem	NN	Regentonne
+zum	APPRART.Dat.Sg.Neut	APPRART	zu
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+aus	APPR	APPR	aus
+einer	ART.Indef.Dat.Sg.Fem	ART	eine
+Regentonne	N.Reg.Dat.Sg.Fem	NN	Regentonne
 an	PART.Verb	PTKVZ	an
 ?	SYM.Pun.Sent	$.	?
 
 3121	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 hier	ADV	ADV	hier
 eine	ART.Indef.Nom.Sg.Fem	ART	eine
@@ -29946,7 +29962,6 @@ lustig	ADJD.Pos	ADJD	lustig
 ?	SYM.Pun.Sent	$.	?
 
 3142	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 handelt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	handeln
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
@@ -30152,7 +30167,6 @@ Duschkopf	N.Reg.Nom.Sg.Masc	NN	Duschkopf
 ?	SYM.Pun.Sent	$.	?
 
 3162	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
 welchen	PRO.Inter.Attr.Acc.Sg.Masc	PWAT	<unknown>
 Durchmesser	N.Reg.Acc.Sg.Masc	NN	Durchmesser
 und	CONJ.Coord	KON	und
@@ -30271,8 +30285,9 @@ gefüllt	VPP.Full.Psp	VVPP	füllen
 
 3173	CARD	CARD	<card>
 Sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
-die	ART.Def.Nom.Sg.Fem	ART	die
-COZahl	N.Reg.Nom.Sg.Fem	NN	<unknown>
+die	ART.Def.Nom.Pl.Neut	ART	die
+CO	N.Reg.Nom.Pl.Neut	NN	<unknown>
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
 Zylinder	N.Reg.Nom.Sg.Masc	NN	Zylinder
 für	APPR	APPR	für
 alle	PRO.Indef.Attr.Acc.Pl.Masc	PIAT	<unknown>
@@ -30405,7 +30420,6 @@ Absenkungautomatik	N.Reg.Acc.Sg.Fem	NN	Absenkungautomatik
 ?	SYM.Pun.Sent	$.	?
 
 3187	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Pl.Fem	ART	die
 Bettlaken	N.Reg.Nom.Pl.Fem	NN	Bettlake
@@ -30423,10 +30437,11 @@ brauche	VFIN.Full.1.Sg.Pres.Ind	VVFIN	brauchen
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 für	APPR	APPR	für
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
-ZahlxZahl	N.Reg.Acc.Sg.Fem	NN	<unknown>
-große	ADJA.Pos.Nom.Sg.Fem	ADJA	groß
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Unit	FM	FM	<unknown>
+roße	FM	FM	<unknown>
 und	CONJ.Coord	KON	und
-Zahlcm	N.Reg.Acc.Sg.Neut	NN	<unknown>
+Unit	FM	FM	<unknown>
 hohe	ADJA.Pos.Nom.Sg.Fem	ADJA	hoch
 Matratze	N.Reg.Nom.Sg.Fem	NN	Matratze
 ?	SYM.Pun.Sent	$.	?
@@ -30472,10 +30487,12 @@ das	ART.Def.Nom.Sg.Neut	ART	die
 Packmass	N.Reg.Nom.Sg.Neut	NN	<unknown>
 für	APPR	APPR	für
 das	ART.Def.Acc.Sg.Neut	ART	die
-ZahlxZahlcm	N.Reg.Acc.Sg.Neut	NN	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 und	CONJ.Coord	KON	und
-das	ART.Def.Acc.Sg.Neut	ART	die
-ZahlxZahlcm	N.Reg.Acc.Sg.Neut	NN	<unknown>
+das	ART.Def.Nom.Sg.Neut	ART	die
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 Handtuch	N.Reg.Acc.Sg.Neut	NN	Handtuch
 ?	SYM.Pun.Sent	$.	?
 
@@ -30541,11 +30558,11 @@ lactosefrei	ADJD.Pos	ADJD	<unknown>
 Wieso	PROADV.Inter	PWAV	wieso
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 das	ART.Def.Nom.Sg.Neut	ART	die
-Wbei	N.Name.Nom.Sg.Neut	NE	<unknown>
-Zahlg	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Wbei	N.Name.*.*.*	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 nur	ADV	ADV	nur
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Zahlg	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 protein	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
@@ -30566,11 +30583,13 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	PRO.Dem.Subst.Nom.Sg.Masc	PDS	die
 unterschied	VFIN.Full.3.Sg.Past.Ind	VVFIN	unterscheiden
 zwichen	ADJD.Pos	ADJD	<unknown>
-der	ART.Def.Dat.Sg.Fem	ART	die
-MxZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
+der	ART.Def.Nom.Sg.Masc	ART	die
+Mx	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 und	CONJ.Coord	KON	und
-der	ART.Def.Dat.Sg.Fem	ART	die
-MxZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
+der	ART.Def.Nom.Sg.Masc	ART	die
+Mx	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3203	CARD	CARD	<card>
@@ -30629,7 +30648,7 @@ Schuhgröße	N.Reg.Nom.Sg.Fem	NN	Schuhgröße
 Ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 ein	ART.Indef.Nom.Sg.Masc	ART	eine
-SZahl	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 Sicherheitsschuh	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
@@ -30729,7 +30748,6 @@ spielen	VFIN.Full.3.Pl.Pres.Ind	VVFIN	spielen
 ?	SYM.Pun.Sent	$.	?
 
 3216	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Schaumeinlage	N.Reg.Nom.Sg.Fem	NN	Schaumeinlage
@@ -30945,7 +30963,6 @@ geschützt	VPP.Full.Psp	VVPP	schützen
 ?	SYM.Pun.Sent	$.	?
 
 3234	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 könnte	VFIN.Mod.3.Sg.Past.Subj	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 auch	ADV	ADV	auch
@@ -31167,8 +31184,10 @@ von	APPR	APPR	von
 einer	ART.Indef.Dat.Sg.Fem	ART	eine
 Festplatte	N.Reg.Dat.Sg.Fem	NN	kriegsverwundet
 mit	APPR	APPR	mit
-MPZahlDateien	N.Reg.Dat.Pl.Fem	NN	Datei
-die	ART.Def.Acc.Sg.Fem	ART	die
+MP	N.Name.*.*.*	NE	<unknown>
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
+Dateien	N.Reg.Nom.Pl.Fem	NN	Datei
+die	ART.Def.Nom.Sg.Fem	ART	die
 am	APPRART.Dat.Sg.Masc	APPRART	an
 Router	N.Reg.Dat.Sg.Masc	NN	Router
 hängt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	hängen
@@ -31217,10 +31236,10 @@ sein	VINF.Aux	VAINF	sein
 Hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 das	ART.Def.Nom.Sg.Neut	ART	die
 Notebook	N.Reg.Nom.Sg.Neut	NN	Notebook
-Zahlgb	N.Name.Nom.Sg.*	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 Speicher	N.Reg.Acc.Sg.Masc	NN	Speicher
 oder	CONJ.Coord	KON	oder
-ZahlT	N.Name.Nom.Sg.*	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3260	CARD	CARD	<card>
@@ -31251,8 +31270,8 @@ der	ART.Def.Dat.Sg.Fem	ART	die
 im	APPRART.Dat.Sg.Neut	APPRART	in
 Gerät	N.Reg.Dat.Sg.Neut	NN	Gerät
 verbauten	ADJA.Pos.Dat.Sg.Fem	ADJA	verbaut
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Gigabyte	N.Reg.Nom.Sg.Neut	NN	Gigabyte
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+igabyte	VFIN.Full.3.Sg.Past.Ind	VVFIN	<unknown>
 HDD	N.Name.Nom.Sg.*	NE	<unknown>
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
 SDD	N.Reg.Acc.Sg.Fem	NN	<unknown>
@@ -31265,9 +31284,8 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
 Unterschied	N.Reg.Nom.Sg.Masc	NN	Unterschied
 zwischen	APPR	APPR	zwischen
-DeLongECAM	N.Name.Dat.Sg.*	NE	<unknown>
+DeLongECAM	N.Name.Gen.Sg.*	NE	<unknown>
 Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-B	N.Reg.Dat.Sg.Fem	NN	<unknown>
 und	CONJ.Coord	KON	und
 SB	N.Name.Dat.Sg.*	NE	<unknown>
 ?	SYM.Pun.Sent	$.	?
@@ -31344,7 +31362,6 @@ Klicksystem	N.Reg.Dat.Sg.Neut	NN	Klicksystem
 ?	SYM.Pun.Sent	$.	?
 
 3272	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 wie	PROADV.Inter	PWAV	wie
 hoch	ADJD.Pos	ADJD	hoch
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
@@ -31486,9 +31503,9 @@ Seitentaschen	N.Reg.Dat.Pl.Fem	NN	Seitentasche
 je	ADV	ADV	je
 eine	ART.Indef.Nom.Sg.Fem	ART	eine
 Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Zahll	N.Reg.Nom.Sg.Masc	NN	<unknown>
-Flasche	N.Reg.Acc.Sg.Fem	NN	Flasche
-Platz	PART.Verb	PTKVZ	platz
+Unit	FM	FM	<unknown>
+Flasche	N.Reg.Nom.Sg.Fem	NN	Flasche
+Platz	N.Reg.Acc.Sg.Masc	NN	Platz
 ?	SYM.Pun.Sent	$.	?
 
 3285	CARD	CARD	<card>
@@ -31511,7 +31528,6 @@ Kabel	N.Reg.Nom.Sg.Neut	NN	Kabel
 ?	SYM.Pun.Sent	$.	?
 
 3287	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 wie	PROADV.Inter	PWAV	wie
 hoch	ADJD.Pos	ADJD	hoch
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
@@ -31551,12 +31567,12 @@ Annahme	N.Reg.Dat.Sg.Fem	NN	Annahme
 des	ART.Def.Gen.Sg.Neut	ART	die
 Paketes	N.Reg.Gen.Sg.Neut	NN	Paket
 als	APPR	APPR	als
-üZahl	ADJD.Pos	ADJD	<unknown>
+ü	ADJA.Pos.Acc.Sg.Fem	ADJA	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 ausweisen	VINF.Full	VVINF	ausweisen
 ?	SYM.Pun.Sent	$.	?
 
 3291	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 lässt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	lassen
 sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
 das	ART.Def.Nom.Sg.Neut	ART	die
@@ -31600,8 +31616,9 @@ oder	CONJ.Coord	KON	oder
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 an	APPR	APPR	an
-Android	N.Name.Nom.Sg.Masc	NE	<unknown>
-Zahlx	N.Name.Acc.Sg.Masc	NE	<unknown>
+Android	N.Name.Gen.Sg.*	NE	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+x	ADJD.Pos	ADJD	<unknown>
 gebunden	VPP.Full.Psp	VVPP	binden
 ?	SYM.Pun.Sent	$.	?
 
@@ -31751,11 +31768,10 @@ in	APPR	APPR	in
 die	ART.Def.Acc.Sg.Fem	ART	die
 Mikrowelle	N.Reg.Acc.Sg.Fem	NN	Mikrowelle
 auch	ADV	ADV	auch
-Teller	N.Reg.Nom.Sg.Masc	NN	Teller
+Teller	N.Reg.Nom.Pl.Masc	NN	Teller
 mit	APPR	APPR	mit
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-cm	N.Reg.*.*.*	NN	cm
-Durchmesser	N.Reg.Nom.Sg.Masc	NN	Durchmesser
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+Durchmesser	N.Reg.Acc.Sg.Masc	NN	Durchmesser
 ?	SYM.Pun.Sent	$.	?
 
 3309	CARD	CARD	<card>
@@ -31863,7 +31879,8 @@ er	PRO.Pers.Subst.3.Nom.Sg.Masc	PPER	sie
 gegenüber	APPR	APPR	gegenüber
 dem	ART.Def.Dat.Sg.Masc	ART	die
 brother	ADJD.Comp	ADJD	<unknown>
-mfclZahl	ADJD.Pos	ADJD	<unknown>
+mfcl	ADJD.Pos	ADJD	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3318	CARD	CARD	<card>
@@ -31875,8 +31892,8 @@ andere	ADJA.Pos.Acc.Pl.Neut	ADJA	ander
 Formate	N.Reg.Acc.Pl.Neut	NN	Format
 bedrucken	VINF.Full	VVINF	bedrucken
 wie	CONJ.Comp	KOUS	wie
-aZahl	ADJD.Pos	ADJD	<unknown>
-aZahl	ADJD.Pos	ADJD	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3319	CARD	CARD	<card>
@@ -32024,7 +32041,8 @@ habe	VFIN.Aux.1.Sg.Pres.Ind	VAFIN	haben
 Warum	PROADV.Inter	PWAV	warum
 wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
 Ron	N.Name.Nom.Sg.Masc	NE	Ron
-Zacapa	N.Name.Nom.Sg.Masc	NE	<unknown>
+Za	N.Name.Nom.Sg.Masc	NE	<unknown>
+circapa	N.Name.Nom.Sg.Masc	NE	<unknown>
 nicht	PART.Neg	PTKNEG	nicht
 nach	APPR	APPR	nach
 Österreich	N.Name.Dat.Sg.Neut	NE	Österreich
@@ -32135,7 +32153,7 @@ viel	PRO.Indef.Attr.*.*.*	PIAT	viel
 Luftfeuchtigkeit	N.Reg.Acc.Sg.Fem	NN	Luftfeuchtigkeit
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 pro	APPR	APPR	pro
-mZahl	FM	FM	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 haben	VINF.Aux	VAINF	haben
 will	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	wollen
 ?	SYM.Pun.Sent	$.	?
@@ -32189,9 +32207,11 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
 Unterschied	N.Reg.Nom.Sg.Masc	NN	Unterschied
 zwischen	APPR	APPR	zwischen
-lrZahl	ADJD.Pos	ADJD	<unknown>
+lr	ADJA.Pos.Dat.Sg.Fem	ADJA	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
 und	CONJ.Coord	KON	und
-lrZahl	ADJD.Pos	ADJD	<unknown>
+lr	ADJA.Pos.Dat.Sg.Fem	ADJA	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3349	CARD	CARD	<card>
@@ -32214,12 +32234,12 @@ essen	VINF.Full	VVINF	essen
 Sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 jetzt	ADV	ADV	jetzt
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Monate	N.Reg.Acc.Pl.Masc	NN	Monat
+Unit	FM	FM	<unknown>
+onate	FM	FM	<unknown>
 oder	CONJ.Coord	KON	oder
 insgesamt	ADV	ADV	insgesamt
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Monate	N.Reg.Acc.Pl.Masc	NN	Monat
+Unit	FM	FM	<unknown>
+onate	FM	FM	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3351	CARD	CARD	<card>
@@ -32532,7 +32552,6 @@ Kamera	N.Reg.Acc.Sg.Fem	NN	Kamera
 ?	SYM.Pun.Sent	$.	?
 
 3382	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 in	APPR	APPR	in
 der	ART.Def.Dat.Sg.Fem	ART	die
@@ -32572,7 +32591,7 @@ denn	ADV	ADV	denn
 3385	CARD	CARD	<card>
 Wie	PROADV.Inter	PWAV	wie
 lange	ADV	ADV	lange
-ca	FM	FM	<unknown>
+circa	ADV	ADV	circa
 halten	VFIN.Full.3.Pl.Pres.Ind	VVFIN	halten
 die	ART.Def.Nom.Pl.Fem	ART	die
 Batterien	N.Reg.Nom.Pl.Fem	NN	Batterie
@@ -32611,7 +32630,6 @@ Laptop	N.Reg.Nom.Sg.Masc	NN	Laptop
 ?	SYM.Pun.Sent	$.	?
 
 3389	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 können	VFIN.Mod.3.Pl.Pres.Ind	VMFIN	können
 mit	APPR	APPR	mit
 dem	ART.Def.Dat.Sg.Neut	ART	die
@@ -32683,7 +32701,8 @@ Sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 auch	ADV	ADV	auch
 wirklich	ADJD.Pos	ADJD	wirklich
-Zahlgb	N.Reg.Acc.Sg.Masc	NN	<unknown>
+Unit	FM	FM	<unknown>
+b	SYM.Other.XY	$(	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3396	CARD	CARD	<card>
@@ -32732,8 +32751,8 @@ der	ART.Def.Nom.Sg.Masc	ART	die
 Furbo	N.Reg.Nom.Sg.Masc	NN	<unknown>
 auch	ADV	ADV	auch
 mit	APPR	APPR	mit
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Ghz	N.Name.Dat.Sg.*	NE	<unknown>
+Unit	FM	FM	<unknown>
+hz	FM	FM	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3401	CARD	CARD	<card>
@@ -32792,7 +32811,6 @@ genau	ADJD.Pos	ADJD	genau
 ?	SYM.Pun.Sent	$.	?
 
 3406	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Batterie	N.Reg.Nom.Sg.Fem	NN	Batterie
@@ -32851,7 +32869,6 @@ verwenden	VINF.Full	VVINF	verwenden
 ?	SYM.Pun.Sent	$.	?
 
 3412	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 dieses	PRO.Dem.Attr.Nom.Sg.Neut	PDAT	diese
 Tablet	N.Reg.Nom.Sg.Neut	NN	<unknown>
@@ -32867,7 +32884,8 @@ sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
 Android	N.Name.Nom.Sg.*	NE	<unknown>
 auf	APPR	APPR	auf
 Version	N.Reg.Acc.Sg.Fem	NN	Version
-ZahlZahl	N.Name.Nom.Sg.*	NE	<unknown>
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 aktualisieren	VINF.Full	VVINF	aktualisieren
 ?	SYM.Pun.Sent	$.	?
 
@@ -32908,9 +32926,9 @@ auch	ADV	ADV	auch
 für	APPR	APPR	für
 Säuglinge	N.Reg.Acc.Pl.Masc	NN	Säugling
 von	APPR	APPR	von
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Monaten	N.Reg.Dat.Pl.Masc	NN	Monat
-geeignet	VPP.Full.Psp	VVPP	eignen
+Unit	FM	FM	<unknown>
+onaten	VFIN.Full.3.Pl.Past.Ind	VVFIN	<unknown>
+geeignet	ADJD.Pos	ADJD	geeignet
 ?	SYM.Pun.Sent	$.	?
 
 3418	CARD	CARD	<card>
@@ -32920,8 +32938,7 @@ ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 das	ART.Def.Acc.Sg.Neut	ART	die
 Thermometer	N.Reg.Acc.Sg.Neut	NN	Thermometer
 auf	APPR	APPR	auf
-C	CARD	CARD	C
-Grad	N.Reg.*.*.Neut	NN	<unknown>
+Grad	N.Reg.Acc.Sg.Masc	NN	Grad
 umstellen	VINF.Full	VVINF	umstellen
 ?	SYM.Pun.Sent	$.	?
 
@@ -32975,7 +32992,8 @@ Platz	N.Reg.Acc.Sg.Masc	NN	Platz
 3424	CARD	CARD	<card>
 Passt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	passen
 der	ART.Def.Nom.Sg.Masc	ART	die
-Thermoscan	N.Name.*.*.*	NE	<unknown>
+Thermos	N.Name.*.*.*	NE	<unknown>
+circan	N.Name.*.*.*	NE	<unknown>
 Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 auch	ADV	ADV	auch
 mit	APPR	APPR	mit
@@ -32993,31 +33011,30 @@ Artikel	N.Reg.Nom.Sg.Masc	NN	Artikel
 die	ART.Def.Acc.Sg.Fem	ART	die
 überarbeitete	ADJA.Pos.Acc.Sg.Fem	ADJA	überarbeitet
 Version	N.Reg.Acc.Sg.Fem	NN	Version
-die	ART.Def.Acc.Sg.Fem	ART	die
+die	ART.Def.Nom.Sg.Fem	ART	die
 auch	ADV	ADV	auch
-ZahlZahlmm	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 Hülsen	N.Reg.Acc.Pl.Fem	NN	Hülse
 pressen	VINF.Full	VVINF	pressen
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 ?	SYM.Pun.Sent	$.	?
 
 3426	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
-welche	PRO.Inter.Attr.Nom.Sg.Fem	PWAT	<unknown>
-maximale	ADJA.Pos.Nom.Sg.Fem	ADJA	maximal
-Hülsenlänge	N.Reg.Nom.Sg.Fem	NN	Hülsenlänge
-kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
+welche	PRO.Indef.Subst.Nom.Pl.Masc	PIS	<unknown>
+maximale	ADJA.Pos.Acc.Pl.Masc	ADJA	maximal
+Hülsenlänge	N.Reg.Acc.Pl.Masc	NN	<unknown>
+kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 damit	PROADV.Dem	PROP	damit
 crimpen	VINF.Full	VVINF	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3427	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
-welche	PRO.Inter.Attr.Nom.Sg.Fem	PWAT	<unknown>
-maximale	ADJA.Pos.Nom.Sg.Fem	ADJA	maximal
-Hülsenlänge	N.Reg.Nom.Sg.Fem	NN	Hülsenlänge
-kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
+welche	PRO.Indef.Subst.Nom.Pl.Masc	PIS	<unknown>
+maximale	ADJA.Pos.Acc.Pl.Masc	ADJA	maximal
+Hülsenlänge	N.Reg.Acc.Pl.Masc	NN	<unknown>
+kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 damit	PROADV.Dem	PROP	damit
 crimpen	VINF.Full	VVINF	<unknown>
@@ -33066,7 +33083,6 @@ Kindergitarre	N.Reg.Acc.Sg.Fem	NN	Kindergitarre
 ?	SYM.Pun.Sent	$.	?
 
 3433	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 die	ART.Def.Acc.Pl.Fem	ART	die
@@ -33175,7 +33191,6 @@ aus	PART.Verb	PTKVZ	aus
 ?	SYM.Pun.Sent	$.	?
 
 3442	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 im	APPRART.Dat.Sg.Masc	APPRART	in
 Zweierpack	N.Name.Dat.Sg.Masc	NE	<unknown>
@@ -33333,9 +33348,9 @@ denn	ADV	ADV	denn
 der	ART.Def.Nom.Sg.Masc	ART	die
 Unterschied	N.Reg.Nom.Sg.Masc	NN	Unterschied
 zwischen	APPR	APPR	zwischen
-aZahl	ADJD.Pos	ADJD	<unknown>
-aZahl	ADJD.Pos	ADJD	<unknown>
-aZahl	VFIN.Full.3.Sg.Past.Ind	VVFIN	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3456	CARD	CARD	<card>
@@ -33411,7 +33426,8 @@ Art	N.Reg.Nom.Sg.Fem	NN	Art
 Chip	N.Reg.Nom.Sg.Masc	NN	Chip
 wie	CONJ.Comp	KOUS	wie
 bei	APPR	APPR	bei
-ZahlDS	N.Name.Dat.Sg.*	NE	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+DS	N.Name.Dat.Sg.Fem	NE	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3463	CARD	CARD	<card>
@@ -33699,8 +33715,8 @@ Art	N.Reg.Nom.Sg.Fem	NN	Art
 von	APPR	APPR	von
 SimKarte	N.Reg.Dat.Sg.Fem	NN	Karte
 braucht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	brauchen
-das	PRO.Dem.Subst.Acc.Sg.Neut	PDS	die
-sZahl	ADJD.Pos	ADJD	<unknown>
+das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3489	CARD	CARD	<card>
@@ -33719,8 +33735,9 @@ Telefon	N.Reg.Nom.Sg.Neut	NN	Telefon
 außerhalb	APPR	APPR	außerhalb
 Deutschlands	N.Name.Gen.Sg.Neut	NE	Deutschland
 verwendbar	ADJD.Pos	ADJD	verwendbar
-das	ART.Def.Acc.Sg.Neut	ART	die
-heißtkompatibel	ADJD.Pos	ADJD	kompatibel
+das	PRO.Dem.Subst.Acc.Sg.Neut	PDS	die
+heißt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	heißen
+kompatibel	ADJD.Pos	ADJD	kompatibel
 mit	APPR	APPR	mit
 einer	ART.Indef.Dat.Sg.Fem	ART	eine
 irischen	ADJA.Pos.Dat.Sg.Fem	ADJA	irisch
@@ -33790,7 +33807,8 @@ Adapter	N.Reg.Nom.Sg.Masc	NN	Adapter
 auch	ADV	ADV	auch
 mit	APPR	APPR	mit
 einer	ART.Indef.Dat.Sg.Fem	ART	eine
-PSZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
+PS	N.Reg.Dat.Pl.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3497	CARD	CARD	<card>
@@ -34167,7 +34185,8 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
 mein	PRO.Poss.Attr.Nom.Sg.Masc	PPOSAT	meine
 Monitor	N.Reg.Nom.Sg.Masc	NN	Monitor
 nur	ADV	ADV	nur
-ZahlHz	ADJD.Pos	ADJD	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Hz	N.Reg.Acc.Sg.Neut	NN	Hz
 zeigen	VINF.Full	VVINF	zeigen
 ?	SYM.Pun.Sent	$.	?
 
@@ -34179,7 +34198,7 @@ auch	ADV	ADV	auch
 für	APPR	APPR	für
 das	ART.Def.Acc.Sg.Neut	ART	die
 mediapad	FM	FM	<unknown>
-mZahl	FM	FM	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 von	APPR	APPR	von
 huawei	CARD	CARD	<card>
 ?	SYM.Pun.Sent	$.	?
@@ -34243,7 +34262,8 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Flasche	N.Reg.Nom.Sg.Fem	NN	Flasche
 bei	APPR	APPR	bei
-Zahlml	N.Name.Dat.Sg.*	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+l	N.Reg.*.*.*	NN	l
 ?	SYM.Pun.Sent	$.	?
 
 3537	CARD	CARD	<card>
@@ -34267,8 +34287,7 @@ kaufen	VINF.Full	VVINF	kaufen
 ?	SYM.Pun.Sent	$.	?
 
 3539	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
-wie	CONJ.Coord	KON	wie
+wie	PROADV.Inter	PWAV	wie
 kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 die	ART.Def.Acc.Sg.Fem	ART	die
@@ -34456,9 +34475,9 @@ Schutz	N.Reg.Nom.Sg.Masc	NN	Schutz
 auch	ADV	ADV	auch
 für	APPR	APPR	für
 die	ART.Def.Acc.Sg.Fem	ART	die
-Vivoactive	ADJA.Pos.Acc.Sg.Fem	ADJA	<unknown>
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Musik	N.Reg.Nom.Sg.Fem	NN	Musik
+Vivoactive	FM	FM	<unknown>
+Unit	FM	FM	<unknown>
+usik	FM	FM	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3557	CARD	CARD	<card>
@@ -34469,7 +34488,7 @@ dass	CONJ.SubFin	KOUS	dass
 der	ART.Def.Nom.Sg.Masc	ART	die
 Schlauch	N.Reg.Nom.Sg.Masc	NN	Schlauch
 nur	ADV	ADV	nur
-Zahlcm	N.Reg.Acc.Sg.Neut	NN	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 lang	ADJD.Pos	ADJD	lang
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 ?	SYM.Pun.Sent	$.	?
@@ -34606,12 +34625,12 @@ ein	ART.Indef.Acc.Sg.Neut	ART	eine
 extra	ADV	ADV	<unknown>
 Papierfach	N.Reg.Nom.Sg.Neut	NN	<unknown>
 für	APPR	APPR	für
-AZahl	N.Reg.Acc.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 und	CONJ.Coord	KON	und
 extra	ADV	ADV	<unknown>
 eines	PRO.Indef.Subst.Acc.Sg.Neut	PIS	eine
 für	APPR	APPR	für
-AZahl	N.Reg.Acc.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3568	CARD	CARD	<card>
@@ -34624,7 +34643,8 @@ passen	VFIN.Full.3.Pl.Pres.Ind	VVFIN	passen
 Wie	PROADV.Inter	PWAV	wie
 funktioniert	VFIN.Full.3.Sg.Pres.Ind	VVFIN	funktionieren
 der	ART.Def.Nom.Sg.Masc	ART	die
-Duplexscann	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Duplexs	N.Reg.Nom.Sg.Masc	NN	<unknown>
+circann	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3570	CARD	CARD	<card>
@@ -34805,7 +34825,6 @@ Wirkung	N.Reg.Acc.Sg.Fem	NN	Wirkung
 ?	SYM.Pun.Sent	$.	?
 
 3587	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Verpackung	N.Reg.Nom.Sg.Fem	NN	Verpackung
@@ -34935,8 +34954,9 @@ auch	ADV	ADV	auch
 noch	ADV	ADV	noch
 was	PRO.Indef.Subst.*.*.Neut	PIS	<unknown>
 für	APPR	APPR	für
-Zahljährige	ADJA.Pos.Acc.Pl.Neut	ADJA	jährig
-Mädchen	N.Reg.Acc.Pl.Neut	NN	Mädchen
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+jährige	ADJA.Pos.Nom.Pl.Neut	ADJA	jährig
+Mädchen	N.Reg.Nom.Pl.Neut	NN	Mädchen
 ?	SYM.Pun.Sent	$.	?
 
 3601	CARD	CARD	<card>
@@ -35085,9 +35105,10 @@ auch	ADV	ADV	auch
 die	ART.Def.Acc.Sg.Fem	ART	die
 Steuer	N.Reg.Acc.Sg.Fem	NN	Steuer
 für	APPR	APPR	für
-zum	APPRART.Dat.Sg.Masc	APPRART	zu
-BeispielZahl	N.Reg.Dat.Sg.Masc	NN	<unknown>
-machen	VINF.Full	VVINF	machen
+zum	APPRART.Dat.Sg.Neut	APPRART	zu
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+achen	VPP.Full.Psp	VVPP	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3614	CARD	CARD	<card>
@@ -35194,10 +35215,8 @@ sein	VINF.Aux	VAINF	sein
 ?	SYM.Pun.Sent	$.	?
 
 3625	CARD	CARD	<card>
-Guten	N.Reg.Nom.Pl.*	NN	Gute
-Tag	N.Reg.*.Sg.Masc	NN	<unknown>
-welche	PRO.Indef.Subst.Acc.Pl.Masc	PIS	<unknown>
-Maße	N.Reg.Dat.Sg.Neut	NN	Maß
+welche	PRO.Indef.Subst.Nom.Pl.Masc	PIS	<unknown>
+Maße	N.Reg.Acc.Pl.Neut	NN	Maß
 haben	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	haben
 die	ART.Def.Acc.Sg.Fem	ART	die
 Rakel	N.Reg.Acc.Sg.Fem	NN	Rakel
@@ -35261,7 +35280,7 @@ das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 Filmen	N.Reg.Dat.Pl.Masc	NN	Film
 auch	ADV	ADV	auch
 auf	APPR	APPR	auf
-ZahlGB	N.Reg.*.*.*	NN	<unknown>
+Unit	FM	FM	<unknown>
 pro	APPR	APPR	pro
 Aufnahme	N.Reg.Acc.Sg.Fem	NN	Aufnahme
 beschränkt	VPP.Full.Psp	VVPP	beschränken
@@ -35273,8 +35292,8 @@ kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 bei	APPR	APPR	bei
 der	ART.Def.Dat.Sg.Fem	ART	die
-EOS	N.Reg.Dat.Sg.Fem	NN	<unknown>
-Zahld	N.Name.Nom.Sg.*	NE	<unknown>
+EOS	ADJA.Pos.*.*.*	ADJA	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
 die	ART.Def.Acc.Pl.Fem	ART	die
 Auflösungen	N.Reg.Acc.Pl.Fem	NN	Auflösung
 auslesen	VINF.Full	VVINF	auslesen
@@ -35703,13 +35722,13 @@ verwenden	VINF.Full	VVINF	verwenden
 
 3674	CARD	CARD	<card>
 Welchen	PRO.Indef.Subst.Dat.Pl.*	PIS	welche
-Durchmesser	N.Reg.Nom.Pl.Masc	NN	Durchmesser
+Durchmesser	N.Reg.Acc.Sg.Masc	NN	Durchmesser
 haben	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	haben
-die	ART.Def.Acc.Sg.Fem	ART	die
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Löcher	N.Reg.Nom.Pl.Neut	NN	Loch
-der	ART.Def.Gen.Sg.Fem	ART	die
-Wandbefestigung	N.Reg.Gen.Sg.Fem	NN	Wandbefestigung
+die	ART.Def.Nom.Pl.*	ART	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+öcher	ADJD.Comp	ADJD	<unknown>
+der	ART.Def.Dat.Sg.Fem	ART	die
+Wandbefestigung	N.Reg.Dat.Sg.Fem	NN	Wandbefestigung
 ?	SYM.Pun.Sent	$.	?
 
 3675	CARD	CARD	<card>
@@ -35834,14 +35853,12 @@ bei	APPR	APPR	bei
 nem	ART.Indef.Dat.Sg.Masc	ART	<unknown>
 Umfang	N.Reg.Dat.Sg.Masc	NN	Umfang
 von	APPR	APPR	von
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
-cm	N.Reg.*.*.*	NN	cm
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
 nehmen	VINF.Full	VVINF	nehmen
 ?	SYM.Pun.Sent	$.	?
 
 3686	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 wann	PROADV.Inter	PWAV	wann
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Pl.Masc	ART	die
@@ -35926,8 +35943,8 @@ Gummi	N.Reg.Acc.Sg.Neut	NN	Gummi
 und	CONJ.Coord	KON	und
 Dichtungen	N.Reg.Acc.Pl.Fem	NN	Dichtung
 bei	APPR	APPR	bei
-einem	ART.Indef.Dat.Sg.Neut	ART	eine
-Cabrio	N.Reg.Dat.Sg.Neut	NN	Cabrio
+einem	ART.Indef.Dat.Sg.Masc	ART	eine
+circabrio	N.Reg.Dat.Sg.Masc	NN	<unknown>
 mit	APPR	APPR	mit
 Stahldach	N.Name.Dat.Sg.Neut	NE	<unknown>
 verwenden	VINF.Full	VVINF	verwenden
@@ -36217,7 +36234,6 @@ Matratze	N.Reg.Nom.Sg.Fem	NN	Matratze
 ?	SYM.Pun.Sent	$.	?
 
 3721	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Matratze	N.Reg.Nom.Sg.Fem	NN	Matratze
@@ -36231,7 +36247,6 @@ Schaumstoff	N.Reg.Dat.Sg.Masc	NN	Schaumstoff
 ?	SYM.Pun.Sent	$.	?
 
 3722	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 könnten	VFIN.Mod.3.Pl.Past.Subj	VMFIN	können
 sie	PRO.Pers.Subst.3.Nom.Pl.*	PPER	sie
 mir	PRO.Pers.Subst.1.Dat.Sg.*	PPER	sie
@@ -36320,7 +36335,6 @@ empfangen	VINF.Full	VVINF	empfangen
 ?	SYM.Pun.Sent	$.	?
 
 3730	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 diese	PRO.Dem.Attr.Nom.Sg.Fem	PDAT	diese
 Maschine	N.Reg.Nom.Sg.Fem	NN	Maschine
@@ -36356,10 +36370,11 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 3733	CARD	CARD	<card>
 Können	VFIN.Mod.3.Pl.Pres.Ind	VMFIN	können
 auch	ADV	ADV	auch
-Tintenpatronen	N.Reg.Nom.Pl.Fem	NN	Tintenpatrone
+Tintenpatronen	N.Reg.Acc.Pl.Fem	NN	Tintenpatrone
 von	APPR	APPR	von
 zum	APPRART.Dat.Sg.Neut	APPRART	zu
-BeispielPearl	N.Reg.Dat.Sg.Neut	NN	<unknown>
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+Pearl	N.Name.Nom.Sg.Neut	NE	<unknown>
 verwendet	VPP.Full.Psp	VVPP	verwenden
 werden	VINF.Aux	VAINF	werden
 ?	SYM.Pun.Sent	$.	?
@@ -36443,7 +36458,8 @@ auch	ADV	ADV	auch
 demnächst	ADV	ADV	demnächst
 noch	ADV	ADV	noch
 die	ART.Def.Nom.Sg.Fem	ART	die
-PSZahl	N.Reg.Nom.Sg.Fem	NN	<unknown>
+PS	N.Reg.Nom.Sg.Neut	NN	PS
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 Deluxe	ADJA.Pos.Nom.Sg.Fem	ADJA	<unknown>
 Version	N.Reg.Nom.Sg.Fem	NN	Version
 als	APPR	APPR	als
@@ -36492,8 +36508,7 @@ Phone	FM	FM	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3745	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
-was	PRO.Inter.Subst.Acc.Sg.Neut	PWS	was
+was	PRO.Indef.Subst.*.*.Neut	PIS	<unknown>
 mache	VFIN.Full.1.Sg.Pres.Ind	VVFIN	machen
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 wenn	CONJ.SubFin	KOUS	wenn
@@ -36555,14 +36570,12 @@ machen	VINF.Full	VVINF	machen
 ?	SYM.Pun.Sent	$.	?
 
 3750	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 das	ART.Def.Nom.Sg.Neut	ART	die
 Kissen	N.Reg.Nom.Sg.Neut	NN	Kissen
 wirklich	ADJD.Pos	ADJD	wirklich
 nur	ADV	ADV	nur
-Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
-cm	N.Reg.*.*.*	NN	cm
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 lang	ADJD.Pos	ADJD	lang
 ?	SYM.Pun.Sent	$.	?
 
@@ -36582,7 +36595,6 @@ waschbar	ADJD.Pos	ADJD	waschbar
 ?	SYM.Pun.Sent	$.	?
 
 3753	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 gibt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	geben
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 einen	ART.Indef.Acc.Sg.Masc	ART	eine
@@ -36591,7 +36603,6 @@ Bezug	N.Reg.Acc.Sg.Masc	NN	Bezug
 ?	SYM.Pun.Sent	$.	?
 
 3754	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 dieses	PRO.Dem.Attr.Nom.Sg.Neut	PDAT	diese
 Kissen	N.Reg.Nom.Sg.Neut	NN	Kissen
@@ -36647,7 +36658,7 @@ angenäht	VPP.Full.Psp	VVPP	annähen
 Würden	VFIN.Aux.3.Pl.Past.Subj	VAFIN	werden
 sie	PRO.Pers.Subst.3.Nom.Pl.*	PPER	sie
 auch	ADV	ADV	auch
-Zahlm	N.Name.Nom.Sg.*	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 Länge	N.Reg.Acc.Sg.Fem	NN	Länge
 herstellen	VINF.Full	VVINF	herstellen
 ?	SYM.Pun.Sent	$.	?
@@ -37037,9 +37048,8 @@ Langhantel	N.Reg.Nom.Sg.Fem	NN	Langhantel
 ?	SYM.Pun.Sent	$.	?
 
 3796	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
-es	PRO.Pers.Subst.3.Acc.Sg.Neut	PPER	sie
+es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 möglich	ADJD.Pos	ADJD	möglich
 hier	ADV	ADV	hier
 ein	ART.Indef.Acc.Sg.Neut	ART	eine
@@ -37246,7 +37256,6 @@ PC	N.Reg.Dat.Sg.Masc	NN	PC
 ?	SYM.Pun.Sent	$.	?
 
 3814	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 die	ART.Def.Acc.Sg.Fem	ART	die
@@ -37316,7 +37325,6 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 ?	SYM.Pun.Sent	$.	?
 
 3821	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Hose	N.Reg.Nom.Sg.Fem	NN	Hose
@@ -37328,7 +37336,6 @@ geschnitten	VPP.Full.Psp	VVPP	schneiden
 ?	SYM.Pun.Sent	$.	?
 
 3822	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 wart	VFIN.Full.2.Pl.Past.Ind	VVFIN	<unknown>
 seit	APPR	APPR	seit
@@ -37403,7 +37410,6 @@ sammelt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	sammeln
 ?	SYM.Pun.Sent	$.	?
 
 3829	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 üblich	ADJD.Pos	ADJD	üblich
@@ -37506,8 +37512,9 @@ so	ADV	ADV	so
 Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 damit	PROADV.Dem	PROP	damit
-einen	ART.Indef.Acc.Sg.Masc	ART	eine
-ZahlTageBart	N.Reg.Acc.Sg.Masc	NN	<unknown>
+einen	CARD	CARD	eins
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+TageBart	N.Reg.Nom.Sg.Masc	NN	<unknown>
 schneiden	VINF.Full	VVINF	schneiden
 ohne	CONJ.SubInf	KOUI	ohne
 ihn	PRO.Pers.Subst.3.Acc.Sg.Masc	PPER	sie
@@ -37890,15 +37897,14 @@ denn	ADV	ADV	denn
 ?	SYM.Pun.Sent	$.	?
 
 3875	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
-wie	CONJ.Coord	KON	wie
+wie	PROADV.Inter	PWAV	wie
 kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 denn	ADV	ADV	denn
 innerhalb	APPR	APPR	innerhalb
 der	ART.Def.*.Sg.Fem	ART	<unknown>
-Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
-Tage	N.Reg.Nom.Pl.Masc	NN	Tag
+Unit	FM	FM	<unknown>
+age	FM	FM	<unknown>
 mein	PRO.Poss.Attr.Acc.Sg.Neut	PPOSAT	meine
 Geld	N.Reg.Acc.Sg.Neut	NN	Geld
 zurückbekommen	VPP.Full.Psp	VVPP	zurückbekommen
@@ -37958,8 +37964,7 @@ hart	ADJD.Pos	ADJD	hart
 ?	SYM.Pun.Sent	$.	?
 
 3881	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
-was	PRO.Inter.Subst.Nom.Sg.Neut	PWS	was
+was	PRO.Indef.Subst.*.*.Neut	PIS	<unknown>
 für	APPR	APPR	für
 Härtegrad	N.Reg.Acc.Sg.Masc	NN	Härtegrad
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
@@ -37989,8 +37994,7 @@ kleinerem	ADJA.Comp.Dat.Sg.Masc	ADJA	klein
 Kopf	N.Reg.Dat.Sg.Masc	NN	Kopf
 für	APPR	APPR	für
 Oral	ADJD.Pos	ADJD	oral
-B	SYM.Other.XY	$(	<unknown>
-Pulsonic	N.Name.Acc.Sg.Neut	NE	<unknown>
+Pulsonic	N.Name.Acc.Sg.*	NE	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 3884	CARD	CARD	<card>
@@ -37998,8 +38002,9 @@ Ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 möchte	VFIN.Mod.1.Sg.Past.Subj	VMFIN	mögen
 den	ART.Def.Acc.Sg.Masc	ART	die
 Strauß	N.Reg.Acc.Sg.Masc	NN	Strauß
-am	APPRART.Dat.Sg.Masc	APPRART	an
-ZahlZahl	N.Reg.Dat.Sg.Masc	NN	<unknown>
+am	APPRART.Dat.Sg.*	APPRART	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 liefern	VINF.Full	VVINF	liefern
 lassen	VINF.Full	VVINF	lassen
 wie	CONJ.Coord	KON	wie
@@ -38008,7 +38013,6 @@ das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 ?	SYM.Pun.Sent	$.	?
 
 3885	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 die	PRO.Dem.Subst.Acc.Pl.*	PDS	die
@@ -38127,8 +38131,9 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
 Liefertag	N.Reg.Nom.Sg.Masc	NN	Liefertag
 erst	ADV	ADV	erst
-am	APPRART.Dat.Sg.Masc	APPRART	an
-ZahlZahl	N.Reg.Dat.Sg.Masc	NN	<unknown>
+am	APPRART.Dat.Sg.*	APPRART	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3896	CARD	CARD	<card>
@@ -38391,7 +38396,7 @@ Uhr	N.Reg.Nom.Sg.Fem	NN	Uhr
 mit	APPR	APPR	mit
 dem	ART.Def.Dat.Sg.*	ART	<unknown>
 Samsung	N.Name.Dat.Sg.*	NE	Samsung
-JZahl	N.Reg.Dat.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 3920	CARD	CARD	<card>
@@ -38474,8 +38479,8 @@ der	ART.Def.Dat.Sg.Fem	ART	die
 Playstation	N.Reg.Dat.Sg.Fem	NN	Playstation
 Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 pro	APPR	APPR	pro
-in	FM	FM	<unknown>
-Zahlk	FM	FM	<unknown>
+in	APPR	APPR	in
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
 spielen	VINF.Full	VVINF	spielen
 können	VINF.Mod	VMINF	können
 ?	SYM.Pun.Sent	$.	?
@@ -38939,7 +38944,6 @@ austauschen	VINF.Full	VVINF	austauschen
 ?	SYM.Pun.Sent	$.	?
 
 3972	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 diese	PRO.Dem.Attr.Nom.Sg.Fem	PDAT	diese
 Lampe	N.Reg.Nom.Sg.Fem	NN	Lampe
@@ -39132,7 +39136,6 @@ wirklich	ADJD.Pos	ADJD	wirklich
 ?	SYM.Pun.Sent	$.	?
 
 3990	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 damit	PROADV.Dem	PROP	damit
@@ -39230,8 +39233,7 @@ bestellen	VINF.Full	VVINF	bestellen
 ?	SYM.Pun.Sent	$.	?
 
 4000	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
-wie	PROADV.Inter	PWAV	wie
+wie	CONJ.Comp	KOUS	wie
 viel	PRO.Indef.Attr.*.*.*	PIAT	viel
 Papier	N.Reg.Acc.Sg.Neut	NN	Papier
 fasst	VFIN.Full.3.Sg.Pres.Ind	VVFIN	fassen
@@ -39351,7 +39353,7 @@ bei	APPR	APPR	bei
 Speicherkarten	N.Reg.Dat.Pl.Fem	NN	Speicherkarte
 die	ART.Def.Nom.Sg.Fem	ART	die
 Bezeichnung	N.Reg.Nom.Sg.Fem	NN	Bezeichnung
-UZahl	N.Name.Nom.Sg.*	NE	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 4010	CARD	CARD	<card>
@@ -39416,10 +39418,8 @@ die	ART.Def.Acc.Sg.Fem	ART	die
 temperatur	N.Reg.Acc.Sg.Fem	NN	<unknown>
 anzeige	VFIN.Full.3.Sg.Pres.Subj	VVFIN	anzeigen
 von	APPR	APPR	von
-f	CARD	CARD	<card>
-Grad	N.Reg.*.*.Neut	NN	<unknown>
+Grad	N.Reg.Dat.Sg.Masc	NN	Grad
 auf	APPR	APPR	auf
-c	FM	FM	<unknown>
 Grad	N.Reg.Acc.Sg.Masc	NN	Grad
 umstellen	VINF.Full	VVINF	umstellen
 ?	SYM.Pun.Sent	$.	?
@@ -39461,7 +39461,6 @@ verbinden	VINF.Full	VVINF	verbinden
 ?	SYM.Pun.Sent	$.	?
 
 4018	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 muss	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	müssen
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 für	APPR	APPR	für
@@ -39542,7 +39541,6 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 ?	SYM.Pun.Sent	$.	?
 
 4026	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 gibt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	geben
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 zu	APPR	APPR	zu
@@ -39670,7 +39668,6 @@ EURichtlininen	N.Reg.Acc.Pl.Fem	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4038	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 für	APPR	APPR	für
 wieviele	PRO.Inter.Attr.Acc.Pl.Masc	PWAT	<unknown>
 Kindergesichster	N.Reg.Acc.Pl.Masc	NN	<unknown>
@@ -39682,7 +39679,6 @@ Vollbemalung	N.Reg.Dat.Sg.Fem	NN	Vollbemalung
 ?	SYM.Pun.Sent	$.	?
 
 4039	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Farbe	N.Reg.Nom.Sg.Fem	NN	Farbe
@@ -39712,10 +39708,9 @@ Gerät	N.Reg.Dat.Sg.Neut	NN	Gerät
 ?	SYM.Pun.Sent	$.	?
 
 4042	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
-das	PRO.Dem.Subst.Acc.Sg.Neut	PDS	die
-sein	VINF.Aux	VAINF	sein
+das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
+sein	PRO.Poss.Attr.Acc.Sg.Neut	PPOSAT	seine
 daß	CONJ.SubFin	KOUS	dass
 die	ART.Def.Nom.Pl.Neut	ART	die
 Maße	N.Reg.Nom.Pl.Neut	NN	Maß
@@ -39915,14 +39910,16 @@ Trick	N.Reg.Acc.Sg.Masc	NN	Trick
 4059	CARD	CARD	<card>
 Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 der	ART.Def.Nom.Sg.Masc	ART	die
-MFCZahlCDN	N.Name.Nom.Sg.Masc	NE	<unknown>
+MFC	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+CDN	N.Name.Nom.Sg.Neut	NE	<unknown>
 auch	ADV	ADV	auch
 über	APPR	APPR	über
 den	ART.Def.Acc.Sg.Masc	ART	die
 automatischen	ADJA.Pos.Acc.Sg.Masc	ADJA	automatisch
 Dokumenteneinzug	N.Reg.Acc.Sg.Masc	NN	Dokumenteneinzug
 zweiseitig	ADJD.Pos	ADJD	zweiseitig
-scannen	VINF.Full	VVINF	scannen
+circannen	VINF.Full	VVINF	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4060	CARD	CARD	<card>
@@ -39947,8 +39944,9 @@ AirPrint	N.Name.Nom.Sg.*	NE	<unknown>
 
 4062	CARD	CARD	<card>
 Passt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	passen
-ein	ART.Indef.Nom.Sg.Neut	ART	eine
-ZahlEuro	N.Reg.Nom.Sg.Neut	NN	<unknown>
+ein	ART.Indef.Nom.Sg.Masc	ART	eine
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Euro	N.Reg.Nom.Sg.Masc	NN	Euro
 Schein	N.Reg.Nom.Sg.Masc	NN	Schein
 gut	ADJD.Pos	ADJD	gut
 rein	PART.Verb	PTKVZ	rein
@@ -40014,10 +40012,9 @@ Uhr	N.Reg.Nom.Sg.Fem	NN	Uhr
 ?	SYM.Pun.Sent	$.	?
 
 4069	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 leuchtet	VFIN.Full.3.Sg.Pres.Ind	VVFIN	leuchten
-die	ART.Def.Acc.Sg.Fem	ART	die
-Uhr	N.Reg.Acc.Sg.Fem	NN	Uhr
+die	ART.Def.Nom.Sg.Fem	ART	die
+Uhr	N.Reg.Nom.Sg.Fem	NN	Uhr
 nachts	ADV	ADV	nachts
 ?	SYM.Pun.Sent	$.	?
 
@@ -40130,12 +40127,11 @@ Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 die	ART.Def.Nom.Sg.Fem	ART	die
 Kamera	N.Reg.Nom.Sg.Fem	NN	Kamera
 einen	ART.Indef.Acc.Sg.Masc	ART	eine
-Camcorder	N.Reg.Acc.Sg.Masc	NN	Camcorder
-ersetzten	ADJA.Pos.Gen.Sg.Fem	ADJA	ersetzt
+circamcorder	ADJD.Comp	ADJD	<unknown>
+ersetzten	ADJA.Pos.Acc.Sg.Masc	ADJA	ersetzt
 ?	SYM.Pun.Sent	$.	?
 
 4081	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 die	ART.Def.Nom.Sg.Fem	ART	die
 Kamera	N.Reg.Nom.Sg.Fem	NN	Kamera
@@ -40532,7 +40528,6 @@ laden	VINF.Full	VVINF	laden
 ?	SYM.Pun.Sent	$.	?
 
 4117	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
 welches	PRO.Inter.Attr.Acc.Sg.Neut	PWAT	<unknown>
 Blinkrelais	N.Reg.Acc.Sg.Neut	NN	Blinkrelais
 kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
@@ -40715,7 +40710,6 @@ auszuwählen	VINF.Full.zu	VVIZU	auswählen
 ?	SYM.Pun.Sent	$.	?
 
 4133	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 wann	PROADV.Inter	PWAV	wann
 wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
 die	ART.Def.Nom.Sg.Fem	ART	die
@@ -40893,7 +40887,6 @@ Desgin	N.Reg.Acc.Sg.Neut	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4150	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
 welchen	PRO.Inter.Attr.Acc.Sg.Masc	PWAT	<unknown>
 Innendurchmesser	N.Reg.Acc.Sg.Masc	NN	Innendurchmesser
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
@@ -40974,7 +40967,6 @@ Lieferzeit	N.Reg.Nom.Sg.Fem	NN	Lieferzeit
 ?	SYM.Pun.Sent	$.	?
 
 4158	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 handelt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	handeln
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
@@ -41158,7 +41150,7 @@ wasserdicht	ADJD.Pos	ADJD	wasserdicht
 4175	CARD	CARD	<card>
 Passt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	passen
 ein	ART.Indef.Nom.Sg.Masc	ART	eine
-SZahl	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 in	APPR	APPR	in
 die	ART.Def.Acc.Sg.Fem	ART	die
 Tasche	N.Reg.Acc.Sg.Fem	NN	Tasche
@@ -41189,7 +41181,8 @@ sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
 die	ART.Def.Nom.Sg.Fem	ART	die
 Flasche	N.Reg.Nom.Sg.Fem	NN	Flasche
 zum	APPRART.Dat.Sg.Neut	APPRART	zu
-Beispieldurch	N.Reg.Dat.Sg.Neut	NN	<unknown>
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+durch	APPR	APPR	durch
 Magnesium	N.Reg.Acc.Sg.Neut	NN	Magnesium
 ?	SYM.Pun.Sent	$.	?
 
@@ -41364,9 +41357,9 @@ Dieselmotoren	N.Reg.Acc.Pl.Masc	NN	Dieselmotor
 mit	APPR	APPR	mit
 Baujahren	N.Reg.Dat.Pl.Neut	NN	Baujahr
 vor	APPR	APPR	vor
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-mit	APPR	APPR	mit
-Dieselpartikelfilter	N.Reg.Dat.Sg.Neut	NN	<unknown>
+Unit	FM	FM	<unknown>
+it	FM	FM	<unknown>
+Dieselpartikelfilter	FM	FM	<unknown>
 geeignet	VPP.Full.Psp	VVPP	eignen
 ?	SYM.Pun.Sent	$.	?
 
@@ -41376,9 +41369,10 @@ es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 mittlerweile	ADV	ADV	mittlerweile
 Erfahrungen	N.Reg.Acc.Pl.Fem	NN	Erfahrung
 zum	APPRART.Dat.Sg.Neut	APPRART	zu
-Beispielmit	N.Reg.Dat.Sg.Neut	NN	<unknown>
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+mit	APPR	APPR	mit
 Digital	N.Name.*.*.*	NE	<unknown>
-Revolution	N.Name.Nom.Sg.*	NE	<unknown>
+Revolution	N.Name.*.*.*	NE	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4197	CARD	CARD	<card>
@@ -41455,8 +41449,7 @@ Leder	N.Reg.Dat.Sg.Neut	NN	Leder
 ?	SYM.Pun.Sent	$.	?
 
 4204	CARD	CARD	<card>
-Wieviel	PRO.Inter.Subst.Nom.Sg.*	PWS	<unknown>
-A	N.Name.Acc.Sg.*	NE	maschinenartig
+Wieviel	PROADV.Inter	PWAV	wieviel
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 dieser	PRO.Dem.Attr.Nom.Sg.Masc	PDAT	diese
 Stecker	N.Reg.Nom.Sg.Masc	NN	Stecker
@@ -41519,7 +41512,7 @@ Regenschutz	N.Reg.Nom.Sg.Masc	NN	Regenschutz
 auch	ADV	ADV	auch
 auf	APPR	APPR	auf
 einen	ART.Indef.Acc.Sg.Masc	ART	eine
-ZahlL	N.Reg.Acc.Sg.*	NN	<unknown>
+Unit	FM	FM	<unknown>
 Rucksack	N.Reg.Acc.Sg.Masc	NN	Rucksack
 ?	SYM.Pun.Sent	$.	?
 
@@ -41741,10 +41734,9 @@ leicht	ADJD.Pos	ADJD	leicht
 ?	SYM.Pun.Sent	$.	?
 
 4228	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 hätte	VFIN.Aux.3.Sg.Past.Subj	VAFIN	haben
 gerne	ADV	ADV	gerne
-gewusst	VPP.Full.Psp	VVPP	wissen
+gewusst	ADJD.Pos	ADJD	gewusst
 ob	CONJ.SubFin	KOUS	ob
 die	ART.Def.Nom.Sg.Fem	ART	die
 Box	N.Reg.Nom.Sg.Fem	NN	Box
@@ -41779,8 +41771,8 @@ Art	N.Reg.Nom.Sg.Fem	NN	Art
 von	APPR	APPR	von
 SimKarte	N.Reg.Dat.Sg.Fem	NN	Karte
 braucht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	brauchen
-das	ART.Def.Acc.Sg.Neut	ART	die
-SZahl	N.Reg.Acc.Sg.Neut	NN	<unknown>
+das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 4232	CARD	CARD	<card>
@@ -41795,7 +41787,7 @@ Gerät	N.Reg.Nom.Sg.Neut	NN	Gerät
 4233	CARD	CARD	<card>
 Hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 das	ART.Def.Nom.Sg.Neut	ART	die
-SZahl	N.Reg.Nom.Sg.Neut	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ein	ART.Indef.Acc.Sg.Neut	ART	eine
 Aux	N.Reg.Acc.Sg.Neut	NN	<unknown>
 Anschluss	N.Reg.Nom.Sg.Masc	NN	Anschluss
@@ -41808,8 +41800,9 @@ Telefon	N.Reg.Nom.Sg.Neut	NN	Telefon
 außerhalb	APPR	APPR	außerhalb
 Deutschlands	N.Name.Gen.Sg.Neut	NE	Deutschland
 verwendbar	ADJD.Pos	ADJD	verwendbar
-das	ART.Def.Acc.Sg.Neut	ART	die
-heißtkompatibel	ADJD.Pos	ADJD	kompatibel
+das	PRO.Dem.Subst.Acc.Sg.Neut	PDS	die
+heißt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	heißen
+kompatibel	ADJD.Pos	ADJD	kompatibel
 mit	APPR	APPR	mit
 einer	ART.Indef.Dat.Sg.Fem	ART	eine
 irischen	ADJA.Pos.Dat.Sg.Fem	ADJA	irisch
@@ -41940,10 +41933,11 @@ befestigen	VINF.Full	VVINF	befestigen
 
 4246	CARD	CARD	<card>
 Hält	VFIN.Full.3.Sg.Pres.Ind	VVFIN	halten
-die	PRO.Dem.Subst.Nom.Sg.Fem	PDS	die
+die	ART.Def.Nom.Sg.Fem	ART	die
 auch	ADV	ADV	auch
-beim	APPRART.Dat.Sg.Masc	APPRART	bei
-ZahlZylinder	N.Reg.Dat.Sg.Masc	NN	Zylinder
+beim	APPRART.Dat.Sg.*	APPRART	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zylinder	N.Reg.Nom.Sg.Masc	NN	Zylinder
 mit	APPR	APPR	mit
 starken	ADJA.Pos.Dat.Pl.Fem	ADJA	stark
 Vibrationen	N.Reg.Dat.Pl.Fem	NN	Vibration
@@ -42186,10 +42180,10 @@ ablesen	VINF.Full	VVINF	ablesen
 ?	SYM.Pun.Sent	$.	?
 
 4269	CARD	CARD	<card>
-Wie	PROADV.Inter	PWAV	wie
+Wie	CONJ.Comp	KOUS	wie
 viel	PRO.Indef.Attr.*.*.*	PIAT	viel
 Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-ZahlV	CARD	CARD	<card>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 Batterien	N.Reg.Nom.Pl.Fem	NN	Batterie
 müssen	VFIN.Mod.3.Pl.Pres.Ind	VMFIN	müssen
 eingelegt	VPP.Full.Psp	VVPP	einlegen
@@ -42340,7 +42334,6 @@ benutzt	VPP.Full.Psp	VVPP	benutzen
 ?	SYM.Pun.Sent	$.	?
 
 4284	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 wo	PROADV.Inter	PWAV	wo
 werden	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	werden
 die	ART.Def.Nom.Pl.Fem	ART	die
@@ -42355,7 +42348,8 @@ das	ART.Def.Nom.Sg.Neut	ART	die
 jemand	PRO.Indef.Subst.Nom.Sg.Masc	PIS	<unknown>
 schon	ADV	ADV	schon
 bei	APPR	APPR	bei
-ZahlGrad	N.Name.Dat.Sg.*	NE	<unknown>
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+rad	PART.Verb	PTKVZ	rad
 gewaschen	VPP.Full.Psp	VVPP	waschen
 ?	SYM.Pun.Sent	$.	?
 
@@ -42490,7 +42484,6 @@ Kunststoff	N.Reg.Dat.Sg.Masc	NN	Kunststoff
 ?	SYM.Pun.Sent	$.	?
 
 4297	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 zwei	CARD	CARD	zwei
@@ -42522,8 +42515,7 @@ Bettzeug	N.Reg.Dat.Sg.Neut	NN	Bettzeug
 ?	SYM.Pun.Sent	$.	?
 
 4299	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
-wie	CONJ.Coord	KON	wie
+wie	PROADV.Inter	PWAV	wie
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Größe	N.Reg.Nom.Sg.Fem	NN	Größe
@@ -42723,8 +42715,7 @@ verwenden	VINF.Full	VVINF	verwenden
 ?	SYM.Pun.Sent	$.	?
 
 4320	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
-was	PRO.Inter.Subst.Nom.Sg.Neut	PWS	was
+was	PRO.Indef.Subst.*.*.Neut	PIS	<unknown>
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
 Unterschied	N.Reg.Nom.Sg.Masc	NN	Unterschied
@@ -42740,7 +42731,8 @@ weißen	ADJA.Pos.Dat.Sg.Masc	ADJA	weiß
 4321	CARD	CARD	<card>
 Können	VFIN.Mod.3.Pl.Pres.Ind	VMFIN	können
 auch	ADV	ADV	auch
-ZahlKSender	N.Reg.Nom.Pl.Masc	NN	Sender
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+KSender	N.Reg.Nom.Sg.Masc	NN	Sender
 empfangen	VPP.Full.Psp	VVPP	empfangen
 werden	VINF.Aux	VAINF	werden
 ?	SYM.Pun.Sent	$.	?
@@ -42887,7 +42879,8 @@ wirklich	ADJD.Pos	ADJD	wirklich
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Leerlaufdrezahl	N.Reg.Acc.Sg.Fem	NN	<unknown>
 von	APPR	APPR	von
-ZahlZahlu	N.Name.Dat.Sg.Neut	NE	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 min	VINF.Full	VVINF	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
@@ -42921,8 +42914,9 @@ spielen	VINF.Full	VVINF	spielen
 Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 mein	PRO.Poss.Attr.Acc.Sg.Neut	PPOSAT	meine
-PsZahl	N.Reg.Acc.Sg.Neut	NN	<unknown>
-Speichstand	N.Reg.Nom.Sg.Masc	NN	Speichstand
+Ps	N.Reg.Acc.Sg.Neut	NN	<unknown>
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
+Speichstand	N.Reg.Acc.Sg.Masc	NN	Speichstand
 mit	APPR	APPR	mit
 auf	APPR	APPR	auf
 die	ART.Def.Acc.Sg.Fem	ART	die
@@ -42984,8 +42978,9 @@ der	ART.Def.Nom.Sg.Masc	ART	die
 Temperaturbereich	N.Reg.Nom.Sg.Masc	NN	Temperaturbereich
 wirklich	ADJD.Pos	ADJD	wirklich
 zwischen	APPR	APPR	zwischen
-ZahlZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
-Grad	N.Reg.*.*.Masc	NN	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+rad	PART.Verb	PTKVZ	rad
 ?	SYM.Pun.Sent	$.	?
 
 4343	CARD	CARD	<card>
@@ -42994,7 +42989,8 @@ Regenhaube	N.Reg.Nom.Sg.Fem	NN	Regenhaube
 passt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	passen
 für	APPR	APPR	für
 den	ART.Def.Acc.Sg.Masc	ART	die
-Skullcap	N.Reg.Acc.Sg.Masc	NN	<unknown>
+Skull	N.Reg.Acc.Sg.Masc	NN	<unknown>
+circap	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4344	CARD	CARD	<card>
@@ -43048,9 +43044,9 @@ Warum	PROADV.Inter	PWAV	warum
 gibt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	geben
 Amazon	N.Name.Nom.Sg.*	NE	Amazon
 nur	ADV	ADV	nur
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Monate	N.Reg.Acc.Pl.Masc	NN	Monat
-Herstellergarantie	N.Reg.Acc.Sg.Fem	NN	Herstellergarantie
+Unit	FM	FM	<unknown>
+onate	FM	FM	<unknown>
+Herstellergarantie	N.Reg.Nom.Sg.Fem	NN	Herstellergarantie
 ?	SYM.Pun.Sent	$.	?
 
 4349	CARD	CARD	<card>
@@ -43060,8 +43056,7 @@ Speicher	N.Reg.Nom.Sg.Masc	NN	Speicher
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 von	APPR	APPR	von
 den	ART.Def.Dat.Pl.Fem	ART	die
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-GB	N.Name.Gen.Pl.Neut	NE	<unknown>
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
 belegt	VPP.Full.Psp	VVPP	belegen
 ?	SYM.Pun.Sent	$.	?
 
@@ -43149,7 +43144,6 @@ Waage	N.Reg.Acc.Sg.Fem	NN	Waage
 ?	SYM.Pun.Sent	$.	?
 
 4356	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 habe	VFIN.Aux.1.Sg.Pres.Ind	VAFIN	haben
 versehentlich	ADJD.Pos	ADJD	versehentlich
@@ -43173,9 +43167,9 @@ möglich	ADJD.Pos	ADJD	möglich
 
 4357	CARD	CARD	<card>
 Funktioniert	VFIN.Full.3.Sg.Pres.Ind	VVFIN	funktionieren
-der	ART.Def.Nom.Sg.Masc	ART	die
-ZahlD	N.Name.*.*.*	NE	<unknown>
-Touch	N.Reg.Nom.Sg.Masc	NN	Touch
+der	ART.Def.Dat.Sg.Fem	ART	die
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Touch	N.Reg.Acc.Sg.Masc	NN	Touch
 noch	ADV	ADV	noch
 wie	CONJ.Coord	KON	wie
 zuvor	ADV	ADV	zuvor
@@ -43310,7 +43304,7 @@ sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
 hier	ADV	ADV	hier
 um	APPR	APPR	um
 den	ART.Def.Acc.Sg.Masc	ART	die
-Zahll	N.Reg.Acc.Sg.Masc	NN	<unknown>
+Unit	FM	FM	<unknown>
 Rucksack	N.Reg.Acc.Sg.Masc	NN	Rucksack
 ?	SYM.Pun.Sent	$.	?
 
@@ -43376,7 +43370,6 @@ Dampfreiniger	N.Reg.Nom.Sg.Masc	NN	Dampfreiniger
 ?	SYM.Pun.Sent	$.	?
 
 4376	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 dieses	PRO.Dem.Attr.Nom.Sg.Neut	PDAT	diese
 Autoladekabel	N.Reg.Nom.Sg.Neut	NN	Autoladekabel
@@ -43490,7 +43483,7 @@ Sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Pl.Masc	ART	die
 Schuhe	N.Reg.Nom.Pl.Masc	NN	Schuh
 für	APPR	APPR	für
-Canyoning	N.Name.Nom.Sg.Neut	NE	<unknown>
+circanyoning	ADJD.Pos	ADJD	<unknown>
 geeignet	VPP.Full.Psp	VVPP	eignen
 ?	SYM.Pun.Sent	$.	?
 
@@ -43567,11 +43560,9 @@ richtig	ADJD.Pos	ADJD	richtig
 ?	SYM.Pun.Sent	$.	?
 
 4393	CARD	CARD	<card>
-Guten	N.Reg.Nom.Pl.*	NN	Gute
-Tag	N.Reg.Nom.Sg.Masc	NN	Tag
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
-der	ART.Def.Dat.Sg.Fem	ART	die
-TV	N.Name.Dat.Sg.*	NE	<unknown>
+der	ART.Def.Nom.Sg.Masc	ART	die
+TV	N.Name.Nom.Sg.*	NE	<unknown>
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Integration	N.Reg.Acc.Sg.Fem	NN	Integration
 von	APPR	APPR	von
@@ -43685,8 +43676,9 @@ ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 das	ART.Def.Acc.Sg.Neut	ART	die
 Mikro	N.Reg.Acc.Sg.Neut	NN	Mikro
 an	APPR	APPR	an
-die	ART.Def.Acc.Sg.Fem	ART	die
-PSZahl	N.Reg.Acc.Sg.Fem	NN	<unknown>
+die	ART.Def.Acc.Pl.Fem	ART	die
+PS	N.Reg.Dat.Pl.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 anschließen	VINF.Full	VVINF	anschließen
 ?	SYM.Pun.Sent	$.	?
 
@@ -43719,7 +43711,6 @@ belastbar	ADJD.Pos	ADJD	belastbar
 ?	SYM.Pun.Sent	$.	?
 
 4406	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 wenn	CONJ.SubFin	KOUS	wenn
 das	ART.Def.Nom.Sg.Neut	ART	die
 mitgelieferte	ADJA.Pos.Nom.Sg.Neut	ADJA	mitgeliefert
@@ -43781,14 +43772,13 @@ geeignet	ADJD.Pos	ADJD	geeignet
 Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
-Akaso	N.Name.Acc.Sg.Neut	NE	<unknown>
-VZahl	N.Name.Nom.Sg.*	NE	<unknown>
+Akaso	N.Name.Acc.Sg.*	NE	<unknown>
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
 Pro	N.Name.*.*.*	NE	<unknown>
 verwenden	VINF.Full	VVINF	verwenden
 ?	SYM.Pun.Sent	$.	?
 
 4412	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 ein	ART.Indef.Nom.Sg.*	ART	<unknown>
 Google	N.Name.Nom.Sg.*	NE	Google
@@ -43952,9 +43942,8 @@ groß	ADJD.Pos	ADJD	groß
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 denn	ADV	ADV	denn
 die	ART.Def.Nom.Sg.Fem	ART	die
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-ml	ADJD.Pos	ADJD	<unknown>
-Flasche	N.Reg.Acc.Sg.Fem	NN	Flasche
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+Flasche	N.Reg.Nom.Sg.Fem	NN	Flasche
 ?	SYM.Pun.Sent	$.	?
 
 4428	CARD	CARD	<card>
@@ -44043,7 +44032,7 @@ Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 jemand	PRO.Indef.Subst.Nom.Sg.Masc	PIS	<unknown>
 der	ART.Def.Gen.Pl.Masc	ART	die
 das	ART.Def.Acc.Sg.Neut	ART	die
-Case	N.Reg.Acc.Sg.Neut	NN	<unknown>
+circase	ADJA.Pos.Acc.Sg.Neut	ADJA	<unknown>
 seit	APPR	APPR	seit
 mehren	VFIN.Full.3.Pl.Pres.Ind	VVFIN	mehren
 Wochen	N.Reg.Dat.Pl.Fem	NN	Woche
@@ -44059,10 +44048,10 @@ berichten	VINF.Full	VVINF	berichten
 4436	CARD	CARD	<card>
 Bedeckt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	bedecken
 das	ART.Def.Nom.Sg.Neut	ART	die
-Case	N.Reg.Nom.Sg.Neut	NN	<unknown>
-die	ART.Def.Acc.Sg.Fem	ART	die
-komplette	ADJA.Pos.Acc.Sg.Fem	ADJA	komplett
-Kamera	N.Reg.Acc.Sg.Fem	NN	Kamera
+circase	ADJA.Pos.Nom.Sg.Neut	ADJA	<unknown>
+die	ART.Def.Nom.Sg.Fem	ART	die
+komplette	ADJA.Pos.Nom.Sg.Fem	ADJA	komplett
+Kamera	N.Reg.Nom.Sg.Fem	NN	Kamera
 ?	SYM.Pun.Sent	$.	?
 
 4437	CARD	CARD	<card>
@@ -44087,10 +44076,10 @@ Sierra	N.Name.*.*.*	NE	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4439	CARD	CARD	<card>
-Welche	PRO.Indef.Subst.Nom.Sg.Fem	PIS	welche
-der	ART.Def.Dat.Sg.Fem	ART	die
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Moeglichkeiten	N.Reg.Acc.Pl.Fem	NN	Möglichkeit
+Welche	PRO.Indef.Subst.Nom.Pl.*	PIS	welche
+der	ART.Def.Gen.Pl.*	ART	<unknown>
+Unit	FM	FM	<unknown>
+oeglichkeiten	VINF.Full	VVINF	<unknown>
 muss	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	müssen
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 waehlen	VINF.Full	VVINF	wählen
@@ -44169,8 +44158,9 @@ Telefon	N.Reg.Nom.Sg.Neut	NN	Telefon
 außerhalb	APPR	APPR	außerhalb
 Deutschlands	N.Name.Gen.Sg.Neut	NE	Deutschland
 verwendbar	ADJD.Pos	ADJD	verwendbar
-das	ART.Def.Acc.Sg.Neut	ART	die
-heißtkompatibel	ADJD.Pos	ADJD	kompatibel
+das	PRO.Dem.Subst.Acc.Sg.Neut	PDS	die
+heißt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	heißen
+kompatibel	ADJD.Pos	ADJD	kompatibel
 mit	APPR	APPR	mit
 einer	ART.Indef.Dat.Sg.Fem	ART	eine
 irischen	ADJA.Pos.Dat.Sg.Fem	ADJA	irisch
@@ -44206,7 +44196,8 @@ Blätter	N.Reg.Nom.Pl.Neut	NN	Blatt
 über	APPR	APPR	über
 den	ART.Def.Acc.Sg.Masc	ART	die
 Einzug	N.Reg.Acc.Sg.Masc	NN	Einzug
-gescannt	VPP.Full.Psp	VVPP	scannen
+ges	ADJA.Pos.Nom.Sg.Neut	ADJA	<unknown>
+circannt	VPP.Full.Psp	VVPP	<unknown>
 werden	VINF.Aux	VAINF	werden
 oder	CONJ.Coord	KON	oder
 muß	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	müssen
@@ -44353,7 +44344,6 @@ aus	PART.Verb	PTKVZ	aus
 ?	SYM.Pun.Sent	$.	?
 
 4461	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Pl.Neut	ART	die
 Kabel	N.Reg.Nom.Pl.Neut	NN	Kabel
@@ -44435,10 +44425,10 @@ hängt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	hängen
 die	ART.Def.Acc.Sg.Fem	ART	die
 wie	CONJ.Comp	KOUS	wie
 alles	PRO.Indef.Subst.Nom.Sg.Neut	PIS	alle
-andere	PRO.Indef.Subst.Nom.Sg.Neut	PIS	andere
+andere	PRO.Indef.Subst.Nom.Pl.*	PIS	andere
 nach	APPR	APPR	nach
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Monaten	N.Reg.Dat.Pl.Masc	NN	Monat
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+onaten	VFIN.Full.3.Pl.Past.Ind	VVFIN	<unknown>
 durch	PART.Verb	PTKVZ	durch
 ?	SYM.Pun.Sent	$.	?
 
@@ -44455,8 +44445,8 @@ Garantie	N.Reg.Acc.Sg.Fem	NN	Garantie
 4469	CARD	CARD	<card>
 Ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 das	ART.Def.Nom.Sg.Neut	ART	die
-PZahl	N.Reg.Nom.Sg.Neut	NN	<unknown>
-Lite	N.Name.Nom.Sg.*	NE	<unknown>
+Unit	FM	FM	<unknown>
+ite	FM	FM	<unknown>
 Staub	N.Reg.Acc.Sg.Masc	NN	Staub
 und	CONJ.Coord	KON	und
 Wasserdicht	ADJD.Pos	ADJD	wasserdicht
@@ -44525,7 +44515,6 @@ Bose	N.Reg.Dat.Sg.Fem	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4476	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 mit	APPR	APPR	mit
@@ -44730,7 +44719,6 @@ fährt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	fahren
 ?	SYM.Pun.Sent	$.	?
 
 4494	CARD	CARD	<card>
-Hi	N.Reg.Acc.Pl.Masc	NN	<unknown>
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 sein	PRO.Poss.Attr.Acc.Sg.Neut	PPOSAT	seine
@@ -44840,10 +44828,11 @@ der	ART.Def.Nom.Sg.Masc	ART	die
 Unterschied	N.Reg.Nom.Sg.Masc	NN	Unterschied
 zwischen	APPR	APPR	zwischen
 der	ART.Def.Dat.Sg.Fem	ART	die
-BZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
 und	CONJ.Coord	KON	und
 der	ART.Def.Dat.Sg.Fem	ART	die
-AloeZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
+Aloe	N.Reg.Dat.Sg.Fem	NN	Aloe
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 4504	CARD	CARD	<card>
@@ -44856,7 +44845,6 @@ Bonus	N.Reg.Acc.Sg.Masc	NN	Bonus
 ?	SYM.Pun.Sent	$.	?
 
 4505	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 in	APPR	APPR	in
 der	ART.Def.Dat.Sg.Fem	ART	die
@@ -45106,8 +45094,9 @@ Wieviel	PRO.Inter.Attr.Nom.Sg.Masc	PWAT	<unknown>
 Videospeicher	N.Reg.Nom.Sg.Masc	NN	Videospeicher
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 diese	PRO.Dem.Attr.Acc.Sg.Fem	PDAT	diese
-Geforce	N.Reg.Acc.Sg.Fem	NN	<unknown>
-mxZahl	ADJD.Pos	ADJD	<unknown>
+Geforce	FM	FM	<unknown>
+mx	FM	FM	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 4529	CARD	CARD	<card>
@@ -45123,8 +45112,8 @@ Glas	N.Reg.Acc.Sg.Neut	NN	Glas
 Passen	VFIN.Full.3.Pl.Pres.Ind	VVFIN	passen
 dort	ADV	ADV	dort
 wirklich	ADJD.Pos	ADJD	wirklich
-Zahlml	ADJD.Pos	ADJD	<unknown>
-rein	PART.Verb	PTKVZ	rein
+Unit	FM	FM	<unknown>
+rein	ADJD.Pos	ADJD	rein
 ?	SYM.Pun.Sent	$.	?
 
 4531	CARD	CARD	<card>
@@ -45163,11 +45152,10 @@ vor	PART.Verb	PTKVZ	vor
 ?	SYM.Pun.Sent	$.	?
 
 4535	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 auch	ADV	ADV	auch
-SaugnapfDarts	N.Name.Gen.Sg.*	NE	<unknown>
+SaugnapfDarts	N.Reg.Acc.Pl.Masc	NN	<unknown>
 benutzen	VINF.Full	VVINF	benutzen
 ?	SYM.Pun.Sent	$.	?
 
@@ -45182,8 +45170,8 @@ groß	ADJD.Pos	ADJD	groß
 Warum	PROADV.Inter	PWAV	warum
 Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 bis	APPR	APPR	bis
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-Monate	N.Reg.Acc.Pl.Masc	NN	Monat
+Unit	FM	FM	<unknown>
+onate	FM	FM	<unknown>
 für	APPR	APPR	für
 Versand	N.Reg.Acc.Sg.Masc	NN	Versand
 ?	SYM.Pun.Sent	$.	?
@@ -45198,7 +45186,6 @@ reinmachen	VINF.Full	VVINF	einmachen
 ?	SYM.Pun.Sent	$.	?
 
 4539	CARD	CARD	<card>
-Hi	N.Reg.Nom.Sg.Masc	NN	<unknown>
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 mir	PRO.Pers.Subst.1.Dat.Sg.*	PPER	sie
 jemand	PRO.Indef.Subst.Nom.Sg.Masc	PIS	<unknown>
@@ -45214,7 +45201,7 @@ riecht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	riechen
 4540	CARD	CARD	<card>
 Ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
-Capo	N.Reg.Nom.Sg.Masc	NN	<unknown>
+circapo	N.Name.Nom.Sg.Masc	NE	<unknown>
 für	APPR	APPR	für
 ein	ART.Indef.Acc.Sg.Neut	ART	eine
 gerades	ADJA.Pos.Acc.Sg.Neut	ADJA	gerade
@@ -45320,7 +45307,8 @@ ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 für	APPR	APPR	für
 mein	PRO.Poss.Attr.Acc.Sg.Neut	PPOSAT	meine
 Bett	N.Reg.Acc.Sg.Neut	NN	Bett
-ZahlxZahl	N.Name.Nom.Sg.*	NE	<unknown>
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 bestellen	VINF.Full	VVINF	bestellen
 ?	SYM.Pun.Sent	$.	?
 
@@ -45330,11 +45318,11 @@ dieses	PRO.Dem.Attr.Nom.Sg.Neut	PDAT	diese
 Bettlaken	N.Reg.Nom.Sg.Neut	NN	Bettlaken
 auch	ADV	ADV	auch
 für	APPR	APPR	für
-ein	CARD	CARD	eins
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-mal	CONJ.Coord	KON	<unknown>
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Meter	N.Reg.*.*.Masc	NN	<unknown>
+ein	ART.Indef.Acc.Sg.Neut	ART	eine
+Unit	FM	FM	<unknown>
+al	FM	FM	<unknown>
+Unit	FM	FM	<unknown>
+eter	FM	FM	<unknown>
 Boxspringbett	N.Reg.Nom.Sg.Neut	NN	<unknown>
 geeignet	VPP.Full.Psp	VVPP	eignen
 ?	SYM.Pun.Sent	$.	?
@@ -45347,8 +45335,8 @@ bestelle	VFIN.Full.1.Sg.Pres.Ind	VVFIN	bestellen
 brauche	VFIN.Full.1.Sg.Pres.Ind	VVFIN	brauchen
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 nur	ADV	ADV	nur
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-mal	ADV	ADV	mal
+Unit	FM	FM	<unknown>
+al	FM	FM	<unknown>
 Versand	N.Reg.Acc.Sg.Masc	NN	Versand
 zahlen	VINF.Full	VVINF	zahlen
 ?	SYM.Pun.Sent	$.	?
@@ -45439,7 +45427,6 @@ Steel	N.Name.Acc.Sg.*	NE	Steel
 ?	SYM.Pun.Sent	$.	?
 
 4560	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
 Lüfter	N.Reg.Nom.Sg.Masc	NN	Lüfter
@@ -45634,7 +45621,7 @@ er	PRO.Pers.Subst.3.Nom.Sg.Masc	PPER	sie
 noch	ADV	ADV	noch
 wenn	CONJ.SubFin	KOUS	wenn
 sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
-ne	PART.Ans	PTKANT	ne
+eine	ART.Indef.Nom.Sg.Fem	ART	eine
 Katze	N.Reg.Nom.Sg.Fem	NN	Katze
 drauf	PROADV.Dem	PROP	drauf
 setzt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	setzen
@@ -45651,7 +45638,6 @@ Kabeln	N.Reg.Dat.Pl.Neut	NN	Kabel
 ?	SYM.Pun.Sent	$.	?
 
 4580	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 eigentlich	ADV	ADV	eigentlich
@@ -45690,7 +45676,8 @@ auch	ADV	ADV	auch
 für	APPR	APPR	für
 die	ART.Def.Acc.Sg.Fem	ART	die
 Größe	N.Reg.Acc.Sg.Fem	NN	Größe
-ZahlxZahl	N.Name.Nom.Sg.*	NE	<unknown>
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 4583	CARD	CARD	<card>
@@ -45701,7 +45688,7 @@ bei	APPR	APPR	bei
 einer	ART.Indef.Dat.Sg.Fem	ART	eine
 Matraze	N.Reg.Dat.Sg.Fem	NN	<unknown>
 mit	APPR	APPR	mit
-Zahlcm	N.Name.Gen.Sg.Neut	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 Steghöhe	N.Reg.Dat.Sg.Fem	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
@@ -45742,14 +45729,16 @@ Alarmsignal	N.Reg.Acc.Sg.Neut	NN	Alarmsignal
 ?	SYM.Pun.Sent	$.	?
 
 4587	CARD	CARD	<card>
-Die	ART.Def.Nom.Pl.Masc	ART	die
-Zahler	N.Reg.Nom.Pl.Masc	NN	Zahler
-Version	N.Reg.Nom.Sg.Fem	NN	Version
+Die	ART.Def.Nom.Sg.Fem	ART	die
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+er	PRO.Pers.Subst.3.Nom.Sg.Masc	PPER	sie
+Version	N.Reg.Acc.Sg.Fem	NN	Version
 soll	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	sollen
 erst	ADV	ADV	erst
 in	APPR	APPR	in
-ZahlZahl	N.Name.Dat.Sg.Neut	NE	<unknown>
-Monaten	N.Reg.Dat.Pl.Masc	NN	Monat
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Unit	FM	FM	<unknown>
+onaten	FM	FM	<unknown>
 versandfertig	ADJD.Pos	ADJD	versandfertig
 sein	VINF.Aux	VAINF	sein
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
@@ -45758,7 +45747,6 @@ richtig	ADJD.Pos	ADJD	richtig
 ?	SYM.Pun.Sent	$.	?
 
 4588	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Matte	N.Reg.Nom.Sg.Fem	NN	Matte
@@ -45888,7 +45876,6 @@ Abbildung	N.Reg.Dat.Sg.Fem	NN	Abbildung
 ?	SYM.Pun.Sent	$.	?
 
 4601	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 den	ART.Def.Acc.Sg.Masc	ART	die
@@ -45914,10 +45901,11 @@ es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 irgendwo	ADV	ADV	irgendwo
 auch	ADV	ADV	auch
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
-ca	ADJA.Pos.Acc.Sg.Fem	ADJA	<unknown>
-ZahlcmVersion	N.Reg.Acc.Sg.Fem	NN	Version
+circa	ADV	ADV	circa
+Unit	FM	FM	<unknown>
+Version	N.Reg.Nom.Sg.Fem	NN	Version
 ohne	APPR	APPR	ohne
-Stöpsel	N.Reg.Acc.Pl.Masc	NN	Stöpsel
+Stöpsel	N.Reg.Acc.Sg.Masc	NN	Stöpsel
 ?	SYM.Pun.Sent	$.	?
 
 4604	CARD	CARD	<card>
@@ -45935,10 +45923,8 @@ die	ART.Def.Nom.Sg.Fem	ART	die
 große	ADJA.Pos.Nom.Sg.Fem	ADJA	groß
 Rolle	N.Reg.Nom.Sg.Fem	NN	Rolle
 mit	APPR	APPR	mit
-Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
-x	FM	FM	<unknown>
 Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-cm	N.Reg.*.*.*	NN	cm
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
 relativ	ADJD.Pos	ADJD	relativ
 kurz	ADJD.Pos	ADJD	kurz
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
@@ -46027,8 +46013,9 @@ verstellbar	ADJD.Pos	ADJD	verstellbar
 Ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Sonnenbrille	N.Reg.Nom.Sg.Fem	NN	Sonnenbrille
-CatZahl	N.Name.Nom.Sg.*	NE	<unknown>
-geschützt	VPP.Full.Psp	VVPP	schützen
+circat	N.Name.*.*.*	NE	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+eschützt	VPP.Full.Psp	VVPP	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4614	CARD	CARD	<card>
@@ -46098,9 +46085,9 @@ der	ART.Def.Nom.Sg.Masc	ART	die
 Riegel	N.Reg.Nom.Sg.Masc	NN	Riegel
 in	APPR	APPR	in
 ein	ART.Indef.Acc.Sg.Neut	ART	eine
-Asus	FM	FM	<unknown>
-gZahls	ADJA.Pos.Acc.Sg.Neut	ADJA	<unknown>
-Notebook	N.Reg.Acc.Sg.Neut	NN	Notebook
+Asus	N.Reg.Acc.Sg.Neut	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Notebook	N.Reg.Nom.Sg.Neut	NN	Notebook
 ?	SYM.Pun.Sent	$.	?
 
 4621	CARD	CARD	<card>
@@ -46131,8 +46118,7 @@ Ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Platte	N.Reg.Nom.Sg.Fem	NN	Platte
 für	APPR	APPR	für
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+immer	ADV	ADV	immer
 geeignet	VPP.Full.Psp	VVPP	eignen
 ?	SYM.Pun.Sent	$.	?
 
@@ -46258,8 +46244,9 @@ ein	ART.Indef.Nom.Sg.Masc	ART	eine
 Türöffner	N.Reg.Nom.Sg.Masc	NN	Türöffner
 bedient	VPP.Full.Psp	VVPP	bedienen
 werden	VINF.Aux	VAINF	werden
-zum	APPRART.Dat.Sg.Masc	APPRART	zu
-Beispielüber	N.Reg.Dat.Sg.Masc	NN	<unknown>
+zum	APPRART.Dat.Sg.Neut	APPRART	zu
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+über	APPR	APPR	über
 die	ART.Def.Acc.Sg.Fem	ART	die
 Fritzbox	N.Reg.Acc.Sg.Fem	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
@@ -46462,10 +46449,9 @@ Wochen	N.Reg.Acc.Pl.Fem	NN	Woche
 ?	SYM.Pun.Sent	$.	?
 
 4653	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 zeigt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	zeigen
-diese	PRO.Dem.Attr.Acc.Sg.Fem	PDAT	diese
-Uhr	N.Reg.Acc.Sg.Fem	NN	Uhr
+diese	PRO.Dem.Attr.Nom.Sg.Fem	PDAT	diese
+Uhr	N.Reg.Nom.Sg.Fem	NN	Uhr
 auch	ADV	ADV	auch
 von	APPR	APPR	von
 alleine	ADV	ADV	alleine
@@ -46486,7 +46472,6 @@ einstellt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	einstellen
 ?	SYM.Pun.Sent	$.	?
 
 4654	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 wie	PROADV.Inter	PWAV	wie
 werden	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	werden
 denn	ADV	ADV	denn
@@ -46544,13 +46529,13 @@ arbeiten	VINF.Full	VVINF	arbeiten
 ?	SYM.Pun.Sent	$.	?
 
 4660	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
-der	ART.Def.Nom.Sg.Masc	ART	die
-etZahl	ADJD.Pos	ADJD	<unknown>
+der	ART.Def.Dat.Sg.Fem	ART	die
+et	N.Name.*.*.*	NE	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 auch	ADV	ADV	auch
-Einzelblattpapier	N.Reg.Acc.Sg.Neut	NN	Einzelblattpapier
-Zufuhr	N.Reg.Acc.Sg.Fem	NN	Zufuhr
+Einzelblattpapier	N.Reg.Dat.Sg.Neut	NN	Einzelblattpapier
+Zufuhr	VFIN.Full.3.Sg.Past.Ind	VVFIN	zufahren
 hinten	ADV	ADV	hinten
 ?	SYM.Pun.Sent	$.	?
 
@@ -46591,7 +46576,6 @@ verfügbar	ADJD.Pos	ADJD	verfügbar
 ?	SYM.Pun.Sent	$.	?
 
 4664	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 der	ART.Def.Nom.Sg.Masc	ART	die
 Laptop	N.Reg.Nom.Sg.Masc	NN	Laptop
@@ -46624,8 +46608,8 @@ Wand	N.Reg.Dat.Sg.Fem	NN	Wand
 
 4667	CARD	CARD	<card>
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
-ein	ART.Indef.Nom.Sg.Neut	ART	eine
-ZahlV	N.Reg.Nom.Sg.Neut	NN	<unknown>
+ein	ART.Indef.Nom.Sg.Masc	ART	eine
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 Betrieb	N.Reg.Nom.Sg.Masc	NN	Betrieb
 möglich	ADJD.Pos	ADJD	möglich
 ohne	APPR	APPR	ohne
@@ -46654,8 +46638,8 @@ Wimpel	N.Reg.Nom.Pl.Masc	NN	Wimpel
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 an	APPR	APPR	an
 der	ART.Def.Dat.Sg.Fem	ART	die
-Zahlcm	N.Name.*.*.*	NE	<unknown>
-Kette	N.Reg.Dat.Sg.Fem	NN	Kette
+Unit	N.Name.Dat.Sg.Fem	NE	<unknown>
+Kette	N.Reg.Acc.Sg.Fem	NN	Kette
 ?	SYM.Pun.Sent	$.	?
 
 4670	CARD	CARD	<card>
@@ -46665,8 +46649,9 @@ das	ART.Def.Acc.Sg.Neut	ART	die
 Etui	N.Reg.Acc.Sg.Neut	NN	Etui
 auch	ADV	ADV	auch
 mit	APPR	APPR	mit
-ZahlZahl	N.Reg.Dat.Sg.Fem	NN	<unknown>
-Karten	N.Reg.Acc.Pl.Fem	NN	Karte
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
+Karten	VINF.Full	VVINF	karten
 nutzen	VINF.Full	VVINF	nutzen
 ohne	CONJ.SubInf	KOUI	ohne
 daß	CONJ.SubFin	KOUS	dass
@@ -46700,7 +46685,6 @@ Unterteilung	N.Reg.Dat.Sg.Fem	NN	Unterteilung
 ?	SYM.Pun.Sent	$.	?
 
 4674	CARD	CARD	<card>
-Hallo	ITJ	ITJ	hallo
 welche	PRO.Inter.Attr.Nom.Sg.Fem	PWAT	<unknown>
 Schriftnummer	N.Reg.Nom.Sg.Fem	NN	Schriftnummer
 aus	APPR	APPR	aus
@@ -46819,7 +46803,8 @@ wieviel	PRO.Inter.Attr.*.*.*	PWAT	<unknown>
 Rechnern	N.Reg.Dat.Pl.Masc	NN	Rechner
 kann	VFIN.Mod.1.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
-pdfZahl	ADJD.Pos	ADJD	<unknown>
+pdf	ADJD.Pos	ADJD	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 pemium	ADJD.Pos	ADJD	<unknown>
 installieren	VINF.Full	VVINF	installieren
 ?	SYM.Pun.Sent	$.	?
@@ -47091,7 +47076,8 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
 Unterschied	N.Reg.Nom.Sg.Masc	NN	Unterschied
 zum	APPRART.Dat.Sg.Masc	APPRART	zu
-cmZahl	ADJD.Pos	ADJD	<unknown>
+cm	N.Reg.*.*.*	NN	cm
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 4711	CARD	CARD	<card>
@@ -47100,7 +47086,8 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 der	ART.Def.Nom.Sg.Masc	ART	die
 Unterschied	N.Reg.Nom.Sg.Masc	NN	Unterschied
 zum	APPRART.Dat.Sg.Masc	APPRART	zu
-cmZahl	ADJD.Pos	ADJD	<unknown>
+cm	N.Reg.*.*.*	NN	cm
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 ?	SYM.Pun.Sent	$.	?
 
 4712	CARD	CARD	<card>
@@ -47152,7 +47139,6 @@ gültig	ADJD.Pos	ADJD	gültig
 Hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 sie	PRO.Pers.Subst.3.Nom.Sg.Fem	PPER	sie
 Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-h	N.Reg.*.*.*	NN	h
 Anzeige	N.Reg.Acc.Sg.Fem	NN	Anzeige
 ?	SYM.Pun.Sent	$.	?
 
@@ -47230,9 +47216,10 @@ die	ART.Def.Nom.Sg.Fem	ART	die
 Decke	N.Reg.Nom.Sg.Fem	NN	Decke
 unten	ADV	ADV	unten
 offen	ADJD.Pos	ADJD	offen
-das	ART.Def.Acc.Sg.Neut	ART	die
-heißtdie	N.Name.*.*.*	NE	<unknown>
-Füße	N.Reg.Acc.Sg.Fem	NN	<unknown>
+das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
+heißt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	heißen
+die	ART.Def.Acc.Pl.Masc	ART	die
+Füße	N.Reg.Acc.Pl.Masc	NN	Fuß
 gucken	VINF.Full	VVINF	gucken
 raus	PART.Verb	PTKVZ	raus
 ?	SYM.Pun.Sent	$.	?
@@ -47400,10 +47387,10 @@ die	ART.Def.Nom.Sg.Fem	ART	die
 Fossil	ADJD.Pos	ADJD	fossil
 Explorist	N.Reg.Nom.Sg.Masc	NN	<unknown>
 mit	APPR	APPR	mit
-dem	ART.Def.Dat.Sg.Neut	ART	die
-Huawei	N.Reg.Dat.Sg.Neut	NN	<unknown>
-pZahl	ADJD.Pos	ADJD	<unknown>
-lite	VFIN.Full.3.Sg.Pres.Subj	VVFIN	<unknown>
+dem	ART.Def.Dat.Sg.Masc	ART	die
+Huawei	N.Reg.Dat.Sg.Masc	NN	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+ite	VFIN.Full.3.Sg.Pres.Subj	VVFIN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4737	CARD	CARD	<card>
@@ -47554,7 +47541,6 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 ?	SYM.Pun.Sent	$.	?
 
 4750	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 die	ART.Def.Nom.Sg.Fem	ART	die
 Oberfläche	N.Reg.Nom.Sg.Fem	NN	Oberfläche
@@ -47611,12 +47597,11 @@ sich	PRO.Refl.Subst.3.Acc.Sg.*	PRF	sie
 diese	PRO.Dem.Attr.Nom.Sg.Fem	PDAT	diese
 Grafikkarte	N.Reg.Nom.Sg.Fem	NN	Grafikkarte
 von	APPR	APPR	von
-anderen	PRO.Indef.Subst.Dat.Pl.*	PIS	andere
-gtx	ADJD.Pos	ADJD	<unknown>
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-ti	PRO.Pers.Subst.2.Acc.Sg.*	PPER	ti
-custom	ADJD.Pos	ADJD	<unknown>
-Designs	N.Reg.Acc.Pl.Neut	NN	Design
+anderen	ADJA.Pos.Dat.Pl.*	ADJA	<unknown>
+gtx	FM	FM	<unknown>
+Unit	FM	FM	<unknown>
+custom	FM	FM	<unknown>
+Designs	N.Reg.Dat.Pl.Neut	NN	Design
 ?	SYM.Pun.Sent	$.	?
 
 4756	CARD	CARD	<card>
@@ -47641,9 +47626,9 @@ Maschine	N.Reg.Acc.Sg.Fem	NN	Maschine
 ?	SYM.Pun.Sent	$.	?
 
 4758	CARD	CARD	<card>
-Alle	PRO.Indef.Subst.Nom.Pl.*	PIS	alle
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-Monate	N.Reg.Acc.Pl.Masc	NN	Monat
+Alle	PRO.Indef.Attr.Nom.Pl.Masc	PIAT	<unknown>
+Unit	FM	FM	<unknown>
+onate	FM	FM	<unknown>
 oder	CONJ.Coord	KON	oder
 öfters	ADV	ADV	öfters
 ?	SYM.Pun.Sent	$.	?
@@ -47661,8 +47646,8 @@ Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 dann	ADV	ADV	dann
 insgesamt	ADV	ADV	insgesamt
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Geräte	N.Reg.Acc.Pl.Neut	NN	Gerät
+Unit	FM	FM	<unknown>
+eräte	FM	FM	<unknown>
 schützen	VINF.Full	VVINF	schützen
 ?	SYM.Pun.Sent	$.	?
 
@@ -47689,9 +47674,8 @@ werden	VINF.Aux	VAINF	werden
 
 4763	CARD	CARD	<card>
 Wie	PROADV.Inter	PWAV	wie
-viele	PRO.Indef.Attr.Nom.Pl.Masc	PIAT	<unknown>
-U	SYM.Other.XY	$(	<unknown>
-Min	N.Name.Nom.Sg.Neut	NE	<unknown>
+viele	PRO.Indef.Attr.Nom.Sg.*	PIAT	<unknown>
+Min	N.Reg.Nom.Sg.Fem	NN	<unknown>
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 diese	PRO.Dem.Attr.Acc.Sg.Fem	PDAT	diese
 Bürste	N.Reg.Acc.Sg.Fem	NN	Bürste
@@ -47738,7 +47722,8 @@ Kochwäsche	N.Reg.Dat.Sg.Fem	NN	Kochwäsche
 mit	APPR	APPR	mit
 Vollwaschmittel	N.Reg.Dat.Sg.Neut	NN	Vollwaschmittel
 alle	PRO.Indef.Attr.Nom.Sg.Fem	PIAT	alle
-ZahlZahl	N.Reg.Nom.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 Wochen	N.Reg.Acc.Pl.Fem	NN	Woche
 außer	APPR	APPR	außer
 dass	CONJ.SubFin	KOUS	dass
@@ -47773,10 +47758,11 @@ deaktivieren	VINF.Full	VVINF	deaktivieren
 ?	SYM.Pun.Sent	$.	?
 
 4771	CARD	CARD	<card>
-Was	PRO.Inter.Subst.Nom.Sg.Neut	PWS	was
+Was	PRO.Inter.Subst.Acc.Sg.Neut	PWS	was
 heißt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	heißen
-ZahlZahl	N.Reg.Nom.Sg.Fem	NN	<unknown>
-Geräte	N.Reg.Acc.Pl.Neut	NN	Gerät
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
+Unit	FM	FM	<unknown>
+eräte	FM	FM	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4772	CARD	CARD	<card>
@@ -47825,9 +47811,8 @@ werden	VINF.Aux	VAINF	werden
 
 4775	CARD	CARD	<card>
 Wie	PROADV.Inter	PWAV	wie
-viele	PRO.Indef.Attr.Nom.Pl.Masc	PIAT	<unknown>
-U	SYM.Other.XY	$(	<unknown>
-Min	N.Name.Nom.Sg.Neut	NE	<unknown>
+viele	PRO.Indef.Attr.Nom.Sg.*	PIAT	<unknown>
+Min	N.Reg.Nom.Sg.Fem	NN	<unknown>
 hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 diese	PRO.Dem.Attr.Acc.Sg.Fem	PDAT	diese
 Bürste	N.Reg.Acc.Sg.Fem	NN	Bürste
@@ -47839,13 +47824,14 @@ Gibt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	geben
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
 innerhalb	APPR	APPR	innerhalb
 der	ART.Def.*.Sg.Fem	ART	<unknown>
-Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
-Minuten	N.Reg.Nom.Pl.Fem	NN	Minute
+Unit	FM	FM	<unknown>
+inuten	FM	FM	<unknown>
 auch	ADV	ADV	auch
 Impulse	N.Reg.Acc.Pl.Masc	NN	Impuls
 nach	APPR	APPR	nach
-allen	PRO.Indef.Subst.Dat.Pl.*	PIS	alle
-Zahlsek	N.Name.Nom.Sg.*	NE	<unknown>
+allen	PRO.Indef.Attr.Dat.Pl.Fem	PIAT	<unknown>
+Zahl	N.Reg.Dat.Sg.Fem	NN	Zahl
+sek	ADJD.Pos	ADJD	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4777	CARD	CARD	<card>
@@ -47864,7 +47850,6 @@ Kosten	N.Reg.Acc.Pl.Fem	NN	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4779	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 die	ART.Def.Nom.Sg.Fem	ART	die
 Klingel	N.Reg.Nom.Sg.Fem	NN	Klingel
@@ -47989,11 +47974,11 @@ Angebot	N.Reg.Acc.Sg.Neut	NN	Angebot
 Ist	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	sein
 diese	PRO.Dem.Attr.Nom.Sg.Fem	PDAT	diese
 Halterung	N.Reg.Nom.Sg.Fem	NN	Halterung
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-Grad	N.Reg.*.*.Masc	NN	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+rad	PART.Verb	PTKVZ	rad
 oder	CONJ.Coord	KON	oder
-Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
-Grad	N.Reg.*.*.Masc	NN	<unknown>
+Unit	FM	FM	<unknown>
+rad	PART.Verb	PTKVZ	rad
 nach	APPR	APPR	nach
 unten	ADV	ADV	unten
 neigbar	ADJD.Pos	ADJD	neigbar
@@ -48075,11 +48060,11 @@ ausprobiert	VPP.Full.Psp	VVPP	ausprobieren
 ob	CONJ.SubFin	KOUS	ob
 das	ART.Def.Nom.Sg.Neut	ART	die
 iPhone	N.Name.Nom.Sg.Neut	NE	iPhone
-Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
-mit	APPR	APPR	mit
-einer	ART.Indef.Dat.Sg.Fem	ART	eine
-dünnen	ADJA.Pos.Dat.Sg.Fem	ADJA	dünn
-Schutzhülle	N.Reg.Dat.Sg.Fem	NN	Schutzhülle
+Unit	FM	FM	<unknown>
+it	FM	FM	<unknown>
+einer	ART.Indef.Gen.Sg.Fem	ART	eine
+dünnen	ADJA.Pos.Gen.Sg.Fem	ADJA	dünn
+Schutzhülle	N.Reg.Gen.Sg.Fem	NN	Schutzhülle
 auch	ADV	ADV	auch
 noch	ADV	ADV	noch
 reinpasst	VPP.Full.Psp	VVPP	<unknown>
@@ -48099,9 +48084,9 @@ Kopfhöreranschluss	N.Reg.Acc.Sg.Masc	NN	Kopfhöreranschluss
 Wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
 der	ART.Def.Nom.Sg.Masc	ART	die
 Kopfhöreranschluss	N.Name.Nom.Sg.Masc	NE	<unknown>
-beim	APPRART.Dat.Sg.Neut	APPRART	bei
+beim	APPRART.Dat.Sg.*	APPRART	<unknown>
 iPhone	N.Name.Dat.Sg.Neut	NE	iPhone
-Zahls	N.Name.Gen.Sg.*	NE	<unknown>
+Zahl	N.Reg.Acc.Sg.Fem	NN	Zahl
 bedeckt	VPP.Full.Psp	VVPP	bedecken
 ?	SYM.Pun.Sent	$.	?
 
@@ -48761,8 +48746,7 @@ auf	APPR	APPR	auf
 eine	ART.Indef.Acc.Sg.Fem	ART	eine
 Matratze	N.Reg.Acc.Sg.Fem	NN	Matratze
 mit	APPR	APPR	mit
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-cm	N.Reg.*.*.*	NN	cm
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 Höhe	N.Reg.Dat.Sg.Fem	NN	Höhe
 ?	SYM.Pun.Sent	$.	?
 
@@ -48774,8 +48758,7 @@ und	CONJ.Coord	KON	und
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
 denselben	PRO.Dem.Attr.Acc.Sg.Masc	PDAT	dieselbe
 Ledger	N.Reg.Acc.Sg.Masc	NN	<unknown>
-nano	FM	FM	<unknown>
-s	FM	FM	<unknown>
+nano	ADJD.Pos	ADJD	<unknown>
 nutzen	VINF.Full	VVINF	nutzen
 ?	SYM.Pun.Sent	$.	?
 
@@ -48913,7 +48896,7 @@ plus	APPR	APPR	plus
 4870	CARD	CARD	<card>
 Passen	VFIN.Full.3.Pl.Pres.Ind	VVFIN	passen
 auch	ADV	ADV	auch
-Zahlm	N.Reg.Nom.Sg.Masc	NN	<unknown>
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
 Kabel	N.Reg.Nom.Sg.*	NN	<unknown>
 drauf	PART.Verb	PTKVZ	drauf
 ?	SYM.Pun.Sent	$.	?
@@ -48984,7 +48967,8 @@ Ladekabel	N.Reg.Nom.Sg.Neut	NN	Ladekabel
 4877	CARD	CARD	<card>
 Hat	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	haben
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
-Webcam	N.Reg.Acc.Sg.Fem	NN	Webcam
+Web	FM	FM	<unknown>
+circam	FM	FM	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4878	CARD	CARD	<card>
@@ -49118,7 +49102,6 @@ TV	N.Name.*.*.*	NE	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4892	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 wie	PROADV.Inter	PWAV	wie
 breit	ADJD.Pos	ADJD	breit
 und	CONJ.Coord	KON	und
@@ -49257,9 +49240,10 @@ werden	VINF.Aux	VAINF	werden
 Kann	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	können
 man	PRO.Indef.Subst.Nom.Sg.*	PIS	man
 an	APPR	APPR	an
-den	ART.Def.Acc.Sg.Masc	ART	die
-Bosch	N.Name.Nom.Sg.Masc	NE	<unknown>
-ZahlZahl	N.Name.Acc.Sg.Masc	NE	<unknown>
+den	ART.Def.Dat.Pl.Fem	ART	die
+Bosch	N.Name.Dat.Sg.*	NE	Bosch
+Zahl	N.Reg.*.Sg.Fem	NN	<unknown>
+Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
 statt	APPR	APPR	statt
 der	ART.Def.Gen.Pl.Neut	ART	die
 Messer	N.Reg.Gen.Pl.Neut	NN	Messer
@@ -49302,7 +49286,6 @@ vernetzen	VINF.Full	VVINF	vernetzen
 ?	SYM.Pun.Sent	$.	?
 
 4910	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 warum	PROADV.Inter	PWAV	warum
 sind	VFIN.Aux.3.Pl.Pres.Ind	VAFIN	sein
 Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
@@ -49434,9 +49417,10 @@ werden	VINF.Aux	VAINF	werden
 Wo	PROADV.Inter	PWAV	wo
 finde	VFIN.Full.1.Sg.Pres.Ind	VVFIN	finden
 ich	PRO.Pers.Subst.1.Nom.Sg.*	PPER	sie
-die	ART.Def.Acc.Pl.Neut	ART	die
-vorinstallierten	ADJA.Pos.Acc.Pl.Neut	ADJA	installiert
-Geocaches	N.Reg.Acc.Sg.Neut	NN	<unknown>
+die	ART.Def.Acc.Sg.Fem	ART	die
+vorinstallierten	ADJA.Pos.Dat.Sg.Fem	ADJA	installiert
+Geo	N.Name.Dat.Sg.*	NE	<unknown>
+circaches	ADJA.Pos.Acc.Sg.Neut	ADJA	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4922	CARD	CARD	<card>
@@ -49695,8 +49679,9 @@ sie	PRO.Pers.Subst.3.Nom.Pl.*	PPER	sie
 auch	ADV	ADV	auch
 wenn	CONJ.SubFin	KOUS	wenn
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	PPER	sie
-zum	APPRART.Dat.Sg.Masc	APPRART	zu
-Beispielregnet	N.Name.Dat.Sg.Masc	NE	<unknown>
+zum	APPRART.Dat.Sg.Neut	APPRART	zu
+Beispiel	N.Reg.Dat.Sg.Neut	NN	Beispiel
+regnet	VFIN.Full.3.Sg.Pres.Ind	VVFIN	regnen
 ?	SYM.Pun.Sent	$.	?
 
 4944	CARD	CARD	<card>
@@ -49860,7 +49845,7 @@ lange	ADV	ADV	lange
 reicht	VFIN.Full.3.Sg.Pres.Ind	VVFIN	reichen
 dieser	PRO.Dem.Attr.Nom.Sg.Masc	PDAT	diese
 Vorteilspack	N.Reg.Nom.Sg.Masc	NN	<unknown>
-ca	ADJD.Pos	ADJD	<unknown>
+circa	ADV	ADV	circa
 aus	PART.Verb	PTKVZ	aus
 ?	SYM.Pun.Sent	$.	?
 
@@ -49872,12 +49857,10 @@ bitte	ADV	ADV	bitte
 sagen	VINF.Full	VVINF	sagen
 was	FM	FM	<unknown>
 Warnhinweis	N.Reg.Acc.Sg.Masc	NN	Warnhinweis
-N	SYM.Other.XY	$(	<unknown>
 heißt	VFIN.Full.3.Sg.Pres.Ind	VVFIN	heißen
 ?	SYM.Pun.Sent	$.	?
 
 4962	CARD	CARD	<card>
-Hallo	N.Reg.Acc.Sg.Neut	NN	Hallo
 bleiben	VFIN.Full.3.Pl.Pres.Ind	VVFIN	bleiben
 die	ART.Def.Nom.Pl.Neut	ART	die
 Tücher	N.Reg.Nom.Pl.Neut	NN	Tuch
@@ -49914,10 +49897,9 @@ streamen	VINF.Full.zu	VVIZU	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4965	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
 wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
-die	ART.Def.Acc.Sg.Fem	ART	die
-Uhr	N.Reg.Acc.Sg.Fem	NN	Uhr
+die	ART.Def.Nom.Sg.Fem	ART	die
+Uhr	N.Reg.Nom.Sg.Fem	NN	Uhr
 in	APPR	APPR	in
 der	ART.Def.Dat.Sg.Fem	ART	die
 Fossiltypischen	ADJA.Pos.Dat.Sg.Fem	ADJA	typisch
@@ -50085,8 +50067,8 @@ diese	PRO.Dem.Attr.Nom.Pl.Masc	PDAT	<unknown>
 Handschuhe	N.Reg.Nom.Pl.Masc	NN	Handschuh
 der	ART.Def.Gen.Sg.Fem	ART	die
 Größe	N.Reg.Gen.Sg.Fem	NN	Größe
-Zahl	N.Reg.Nom.Sg.Fem	NN	Zahl
-geeignet	VPP.Full.Psp	VVPP	eignen
+Unit	N.Name.Nom.Sg.*	NE	<unknown>
+eeignet	VPP.Full.Psp	VVPP	<unknown>
 ?	SYM.Pun.Sent	$.	?
 
 4981	CARD	CARD	<card>
@@ -50298,8 +50280,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	VAFIN	werden
 ?	SYM.Pun.Sent	$.	?
 
 4999	CARD	CARD	<card>
-Hallo	N.Reg.Nom.Sg.Neut	NN	Hallo
-wie	CONJ.Coord	KON	wie
+wie	PROADV.Inter	PWAV	wie
 soll	VFIN.Mod.3.Sg.Pres.Ind	VMFIN	sollen
 das	PRO.Dem.Subst.Nom.Sg.Neut	PDS	die
 mit	APPR	APPR	mit

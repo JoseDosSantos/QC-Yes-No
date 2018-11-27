@@ -10,9 +10,9 @@ def clean(line):
     clean_string = re.sub(r'ß', 'ss', clean_string)
     return clean_string
 
-def main():
-    with open('data/' + 'pos_tagged_encoded.csv', 'w', newline='', encoding='UTF-8') as a:
-        reader = open('data/' + 'pos_tagged_raw.txt', 'r')
+def main(path='data/'):
+    with open(path + 'pos_tagged_encoded.csv', 'w', newline='', encoding='UTF-8') as a:
+        reader = open(path + 'pos_tagged_raw.txt', 'r')
         for line in reader:
             a.write(clean(line))
         a.flush()

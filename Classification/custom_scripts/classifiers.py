@@ -6,7 +6,7 @@ from sklearn.svm import SVC
 from xgboost import XGBClassifier
 
 
-def k_nearest(X_train, X_test, y_train, y_test, parameters = {}):
+def k_nearest(X_train, X_test, y_train, y_test, parameters={}):
     kn_clf = KNeighborsClassifier(**parameters)
     kn_clf.fit(X_train, y_train)
     kn_accuracy = kn_clf.score(X_test, y_test)

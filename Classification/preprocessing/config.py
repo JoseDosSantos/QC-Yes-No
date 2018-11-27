@@ -11,7 +11,6 @@ T10 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Tweets\\questions\\
 T11 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Tweets\\questions\\output_1000_tweets_2018-09-18_01-29-15\\classified.csv'
 T12 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Tweets\\questions\\output_1000_tweets_2018-09-20_12-36-47\\classified.csv'
 T13 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Tweets\\questions\\output_1000_tweets_2018-09-22_17-18-48\\classified.csv'
-
 TWEETS = [T1, T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13]
 
 A1 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Amazon\\questions\\output_products_part_0\\classified.csv'
@@ -36,3 +35,8 @@ A18 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Amazon\\questions\\
 AMAZON = [A1, A2, A3, A4, A5, A6, A7, A8, A9, A10, A11, A12, A13, A14, A15, A16, A17]
 
 ALL_FILES = AMAZON + TWEETS
+
+E1 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Evaluation\\output_1000_tweets_2018-11-26_15-32-49\\classified.csv'
+E2 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Evaluation\\output_products_part_18\\classified.csv'
+E3 = 'C:\\Users\\Josef\\PycharmProjects\\QC-Yes-No\\Corpus\\Evaluation\\output_products_part_19\\classified.csv'
+EVAL = [E1, E2, E3]

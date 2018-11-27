@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import pickle
+from pickles import create_pickle, load_pickle
 from time import time
 from copy import deepcopy
 from sklearn.model_selection import train_test_split, GridSearchCV
@@ -12,15 +12,6 @@ def get_train_test(feature_set, test_size=0.2, f_col='Feature', l_col='Label', r
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size, random_state=random_state)
     return X_train, X_test, y_train, y_test
 
-
-def create_pickle(data, name):
-    with open('pickles/' + name + '.pickle', 'wb') as f:
-        pickle.dump(data, f, protocol=2)
-
-
-def load_pickle(name):
-    with open('pickles/' + name + '.pickle', 'rb') as f:
-        return pickle.load(f)
 
 
 def test_all(featureset, runs=5, test_size=0.2, f_col='Feature'):

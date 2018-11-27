@@ -2,46 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f075749e-cf9b-488d-ab6b-1fbfce09b6a4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Classification/custom_scripts/import_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/clean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/combine_sources.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/all.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/all_cleaned.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/all_pre_pos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/amazon.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/data_ready.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/labels.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/pos_tagged_encoded.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/pos_tagged_raw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/data/twitter.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/pos_prep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/preprocessing/reclean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classification/statistic analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/custom_scripts/classifiers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/custom_scripts/classifiers/kNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/custom_scripts/evaluate_classifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/custom_scripts/load_test_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classification/custom_scripts/test_fs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification/import and prep/clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/asd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification/import and prep/combine_sources.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/classifiers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification/import and prep/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification/import and prep/extract_info_from_tag.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification/import and prep/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/pickles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification/import and prep/pos_prep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classification/import and prep/reclean.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/nn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/.ipynb_checkpoints/XGBOOST-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/.ipynb_checkpoints/XGBOOST-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/XGBOOST.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Notebooks/XGBOOST.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/checked_list.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/all.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/all_cleaned.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/all_pre_pos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/amazon.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/data_ready.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/labels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/pos_tagged_encoded.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/pos_tagged_raw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/import and prep/data/twitter.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classification/word2vec.py" beforeDir="false" afterPath="$PROJECT_DIR$/classification/word2vec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/custom_scripts/asd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/export_data_sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/custom_scripts/classifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/classifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/custom_scripts/pickles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/pickles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/custom_scripts/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/custom_scripts/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/clean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/combine_sources.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/combine_sources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/data/all_cleaned.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/data/all_cleaned.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/data/all_pre_pos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/data/all_pre_pos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/data/data_ready.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/data/data_ready.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/data/pos_tagged_encoded.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/data/pos_tagged_encoded.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/data/pos_tagged_raw.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/data/pos_tagged_raw.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/pos_prep.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/pos_prep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/preprocessing/reclean.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/preprocessing/reclean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classification/statistic analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classification/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_18.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Amazon/questions/products_part_19.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Corpus/Evaluation/1000_tweets_2018-11-26_15-32-49completed.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,45 +54,57 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="12" />
+          <entry key="csv" value="14" />
           <entry key="ipynb" value="3" />
-          <entry key="py" value="64" />
+          <entry key="py" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="11" />
+          <entry key="CSV" value="13" />
           <entry key="IPNB" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="64" />
+          <entry key="Python" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="924" />
+          <entry key="Python Console" value="976" />
           <entry key="csv" value="2" />
-          <entry key="dummy" value="126" />
-          <entry key="py" value="16767" />
+          <entry key="dummy" value="170" />
+          <entry key="py" value="24431" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSV" value="2" />
-          <entry key="PLAIN_TEXT" value="126" />
-          <entry key="Python" value="17691" />
+          <entry key="PLAIN_TEXT" value="170" />
+          <entry key="Python" value="25407" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/a.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/export_data_sets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="204">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/load_test_features.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+              <folding>
+                <marker date="1543291157073" expanded="true" signature="716:717" ph="..." />
               </folding>
             </state>
           </provider>
@@ -114,8 +113,80 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classification/preprocessing/clean.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="306">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/preprocessing/reclean.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <marker date="1543272386467" expanded="true" signature="27:28" ph="..." />
+                <marker date="1543272386467" expanded="true" signature="27:32" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1543291255020" expanded="true" signature="180:181" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="1579:1645" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="2185:2259" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="2784:2788" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="2784:2986" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="3011:3757" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="5044:5626" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="6132:6325" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="7764:8888" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="10749:12167" ph="..." />
+                <marker date="1543291255020" expanded="true" signature="13491:13682" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/classifiers/kNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+                <marker date="1543290880508" expanded="true" signature="284:406" ph="..." />
+                <marker date="1543290880508" expanded="true" signature="506:514" ph="..." />
+                <marker date="1543290880508" expanded="true" signature="780:1440" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/test_fs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -133,85 +204,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/nn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="222" column="39" selection-start-line="222" selection-start-column="39" selection-end-line="222" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1543248433836" expanded="true" signature="180:181" ph="..." />
-                <marker date="1543248433836" expanded="true" signature="2263:2337" ph="..." />
-                <marker date="1543248433836" expanded="true" signature="2845:3343" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/asd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-              <folding>
-                <element signature="e#0#53#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Corpus/Tweets/get_tweets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification Tool/classification_tool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="149" column="75" selection-start-line="149" selection-start-column="75" selection-end-line="149" selection-end-column="75" />
-              <folding>
-                <element signature="e#0#137#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/pickles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/import_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -232,6 +228,9 @@
       <find>simple</find>
       <find>#</find>
       <find>assert</find>
+      <find>set(</find>
+      <find>bag_words</find>
+      <find>sorted</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -240,18 +239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/classification_tool.py" />
-        <option value="$PROJECT_DIR$/amazon_extraction.py" />
-        <option value="$PROJECT_DIR$/ClassifierBasedGermanTagger.py" />
-        <option value="$PROJECT_DIR$/pos_tagging.py" />
-        <option value="$PROJECT_DIR$/tag_test.py" />
-        <option value="$PROJECT_DIR$/word2vec.py" />
-        <option value="$PROJECT_DIR$/dependency parsing.py" />
-        <option value="$PROJECT_DIR$/naive_bayes.py" />
-        <option value="$PROJECT_DIR$/tweets/config.py" />
-        <option value="$PROJECT_DIR$/bag_of_words.py" />
-        <option value="$PROJECT_DIR$/config.py" />
-        <option value="$PROJECT_DIR$/bag_of_ngrams.py" />
         <option value="$PROJECT_DIR$/nltk_data/amazon.py" />
         <option value="$PROJECT_DIR$/amazon.py" />
         <option value="$PROJECT_DIR$/tweets/tweet_extraction.py" />
@@ -275,22 +262,34 @@
         <option value="$PROJECT_DIR$/Classification/import and prep/reclean.py" />
         <option value="$PROJECT_DIR$/Classification/import and prep/extract_info_from_tag.py" />
         <option value="$PROJECT_DIR$/Classification/import and prep/pipeline.py" />
-        <option value="$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py" />
-        <option value="$PROJECT_DIR$/Classification/preprocessing/pipeline.py" />
         <option value="$PROJECT_DIR$/Classification/statistic analysis.py" />
         <option value="$PROJECT_DIR$/Classification/scripts/import.py" />
         <option value="$PROJECT_DIR$/Classification/scripts/import_data.py" />
         <option value="$PROJECT_DIR$/Classification/custom_scripts/import_data.py" />
-        <option value="$PROJECT_DIR$/Classification/custom_scripts/classifiers.py" />
         <option value="$PROJECT_DIR$/Classification/config.py" />
-        <option value="$PROJECT_DIR$/Classification/custom_scripts/util.py" />
         <option value="$PROJECT_DIR$/Classification/a.py" />
-        <option value="$PROJECT_DIR$/Classification/custom_scripts/pickles.py" />
         <option value="$PROJECT_DIR$/Classification/nn.py" />
-        <option value="$PROJECT_DIR$/Classification/preprocessing/clean.py" />
         <option value="$PROJECT_DIR$/Classification Tool/classification_tool.py" />
-        <option value="$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py" />
         <option value="$PROJECT_DIR$/Classification/custom_scripts/asd.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/statistic analysis.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/util.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/config.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/combine_sources.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/pos_prep.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/reclean.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/pipeline.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/clean.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/statistic analysis.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/evaluate_classifiers.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/classifiers.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/pickles.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/classifiers/test_fs.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/test_fs.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/classifiers/kNN.py" />
+        <option value="$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/load_test_features.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/export_data_sets.py" />
+        <option value="$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py" />
       </list>
     </option>
   </component>
@@ -328,6 +327,26 @@
               <item name="QC-Yes-No" type="b2602c69:ProjectViewProjectNode" />
               <item name="QC-Yes-No" type="462c0819:PsiDirectoryNode" />
               <item name="Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QC-Yes-No" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QC-Yes-No" type="462c0819:PsiDirectoryNode" />
+              <item name="Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="pickles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QC-Yes-No" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QC-Yes-No" type="462c0819:PsiDirectoryNode" />
+              <item name="Classification" type="462c0819:PsiDirectoryNode" />
+              <item name="pickles" type="462c0819:PsiDirectoryNode" />
+              <item name="test_features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QC-Yes-No" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QC-Yes-No" type="462c0819:PsiDirectoryNode" />
+              <item name="Classification" type="462c0819:PsiDirectoryNode" />
               <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -339,6 +358,12 @@
               <item name="QC-Yes-No" type="b2602c69:ProjectViewProjectNode" />
               <item name="QC-Yes-No" type="462c0819:PsiDirectoryNode" />
               <item name="Corpus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QC-Yes-No" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QC-Yes-No" type="462c0819:PsiDirectoryNode" />
+              <item name="Corpus" type="462c0819:PsiDirectoryNode" />
+              <item name="Evaluation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="QC-Yes-No" type="b2602c69:ProjectViewProjectNode" />
@@ -358,12 +383,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Josef\PycharmProjects\QC-Yes-No\Classification\import and prep" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Josef\PycharmProjects\QC-Yes-No\Classification\custom_scripts" />
+      <recent name="C:\Users\Josef\PycharmProjects\QC-Yes-No\Classification\preprocessing" />
       <recent name="C:\Users\Josef\PycharmProjects\QC-Yes-No" />
       <recent name="C:\Users\Josef\PycharmProjects\QC-Yes-No\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Josef\PycharmProjects\QC-Yes-No\Classification\preprocessing" />
+      <recent name="C:\Users\Josef\PycharmProjects\QC-Yes-No\Classification\import and prep" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -378,29 +406,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.asd">
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="QC" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classification" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="asd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.export_data_sets">
+    <configuration name="export_data_sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -412,7 +419,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/custom_scripts/asd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/custom_scripts/export_data_sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -421,7 +428,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classification_tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -429,11 +436,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classification Tool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classification/custom_scripts/classifiers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification Tool/classification_tool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/custom_scripts/classifiers/kNN.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -442,7 +449,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="feature_set_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="load_test_features" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -454,7 +461,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/custom_scripts/load_test_features.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -463,7 +470,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_tweets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pipeline" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="QC" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -471,11 +478,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Corpus/Tweets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classification/preprocessing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Corpus/Tweets/get_tweets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification/preprocessing/pipeline.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="statistic analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="QC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classification/custom_scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Josef\PycharmProjects\QC-Yes-No\Classification\custom_scripts\load_test_features.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -485,19 +513,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.a" />
-      <item itemvalue="Python.asd" />
-      <item itemvalue="Python.feature_set_generator" />
-      <item itemvalue="Python.get_tweets" />
-      <item itemvalue="Python.classification_tool" />
+      <item itemvalue="Python.statistic analysis" />
+      <item itemvalue="Python.export_data_sets" />
+      <item itemvalue="Python.load_test_features" />
+      <item itemvalue="Python.kNN" />
+      <item itemvalue="Python.pipeline" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.asd" />
-        <item itemvalue="Python.classification_tool" />
-        <item itemvalue="Python.get_tweets" />
-        <item itemvalue="Python.feature_set_generator" />
-        <item itemvalue="Python.a" />
+        <item itemvalue="Python.export_data_sets" />
+        <item itemvalue="Python.pipeline" />
+        <item itemvalue="Python.kNN" />
+        <item itemvalue="Python.load_test_features" />
+        <item itemvalue="Python.statistic analysis" />
       </list>
     </recent_temporary>
   </component>
@@ -532,12 +560,12 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49789253" visible="true" weight="0.6475054" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49679488" weight="0.32212582" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49736565" visible="true" weight="0.29718006" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49578503" weight="0.49566162" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5032051" side_tool="true" weight="0.35596934" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50421494" side_tool="true" weight="0.36442515" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.35357916" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286334" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -572,21 +600,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Classification/tag_test.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Classification/tag_test.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Classification/word2vec.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py</url>
           <line>38</line>
           <option name="timeStamp" value="34" />
@@ -602,14 +615,34 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Classification/preprocessing/combine_sources.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Classification/a.py</url>
           <line>19</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification/preprocessing/combine_sources.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification/preprocessing/pipeline.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification/preprocessing/combine_sources.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification/custom_scripts/classifiers/kNN.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification/custom_scripts/classifiers/kNN.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -622,119 +655,93 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="from custom_scripts import import_data" language="Python" />
-        <watch expression="import_data.load_data" language="Python" />
-        <watch expression="np.array(y_train)" language="Python" />
-        <watch expression="data[0]" language="Python" />
-        <watch expression="data_set['Feature'][0][:-1]" language="Python" />
-        <watch expression="Counter([len(row[:-1]) for row in data_set['Feature']])" language="Python" />
-        <watch expression="[ngram for ]" language="Python" />
-        <watch expression="from collections import Counter" language="Python" />
-        <watch expression="35405 / 5717" language="Python" />
-        <watch expression="len([x[y] for y in x if x[y] &gt;10])" language="Python" />
-        <watch expression="len(set(tag for row in data_set['PosTags'] for tag in row))" language="Python" />
-        <watch expression="len(data_set.sample(frac=.2))" language="Python" />
+        <watch expression="fs" language="Python" />
+        <watch expression="x = list(fs['Feature'])[0]" language="Python" />
+        <watch expression="y = list(test['Feature'])[0]" language="Python" />
+        <watch expression="' '.join(y) == ' '.join(y)" language="Python" />
+        <watch expression="test" language="Python" />
+        <watch expression="Counter(fs.loc[[1910]]['Feature'][1910])" language="Python" />
+        <watch expression="x" language="Python" />
+        <watch expression="y" language="Python" />
+        <watch expression="''.join([str(i) for i in x])" language="Python" />
+        <watch expression="bag_words = list(sorted(set(word for row in fs.data_set['Feature'] for word in row)))" language="Python" />
+        <watch expression="bag_words" language="Python" />
+        <watch expression="''.join([str(i) for i in x])==''.join([str(i) for i in y])" language="Python" />
+        <watch expression="''.join([str(i) for i in y])" language="Python" />
+        <watch expression="f = pd.DataFrame(bag_words)" language="Python" />
+        <watch expression="f" language="Python" />
+        <watch expression="f['fs'] = x" language="Python" />
+        <watch expression="test.data_set" language="Python" />
+        <watch expression="y = test.fs_words.loc[[294]]['Feature'][294]" language="Python" />
+        <watch expression="x = fs.fs_words.loc[[235]]['Feature'][235]" language="Python" />
+        <watch expression="fs.data_set.reset_index()" language="Python" />
+        <watch expression="list(fs.data_set['Feature'])" language="Python" />
+        <watch expression="Counter(y['Feature'][353])" language="Python" />
+        <watch expression="y = test.loc[[353]]['Feature'][353]" language="Python" />
+        <watch expression="test" />
+        <watch expression="__py_debug_temp_var_817487278[4]" language="Python" />
+        <watch expression="np.array(list(fs.fs_words['Feature']))" language="Python" />
+        <watch expression="np.array(fs.fs_words['Label'])" language="Python" />
+        <watch expression="np.array(fs.fs_pos['Label'])" language="Python" />
+        <watch expression="np.array(list(fs.fs_pos['Feature']))" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>len(data_set.sample(frac=.2))</expression-string>
+        <expression-string>np.array(list(fs.fs_pos['Feature']))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>data_set.sample(frac=.2)</expression-string>
+        <expression-string>np.array(list(fs.fs_words['Feature']))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(set(tag for row in data_set['PosTags'] for tag in row))</expression-string>
+        <expression-string>np.array(fs.fs_pos['Label'])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>set(tag for row in data_set['PosTags'] for tag in row)</expression-string>
+        <expression-string>np.array(fs.fs_words['Label'])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len([x[y] for y in x if x[y] &gt;10])</expression-string>
+        <expression-string>__py_debug_temp_var_817487278[4]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len([x[y] for y in x if x[y] &gt;2])</expression-string>
+        <expression-string>''.join([str(i) for i in x])==''.join([str(i) for i in y])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>[x[y] for y in x if x[y] &gt;10]</expression-string>
+        <expression-string>test</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>[ngram for ]</expression-string>
+        <expression-string>' '.join(y) == ' '.join(y)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Counter([len(row[:-1]) for row in data_set['Feature']])</expression-string>
+        <expression-string>f</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>from collections import Counter</expression-string>
+        <expression-string>f['fs'] = x</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.py" />
-    <entry file="file://$PROJECT_DIR$/Corpus/Amazon/amazon_extraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="76" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/read_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/Question_Classification/Lib/site-packages/nltk/tag/sequential.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2488">
-          <caret line="560" column="6" selection-start-line="560" selection-start-column="6" selection-end-line="560" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassifierBasedGermanTagger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classification/ClassifierBasedGermanTagger.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -761,9 +768,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/tokenize_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/config.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/bag_of_ngrams.py">
@@ -824,39 +828,12 @@
     <entry file="file://$PROJECT_DIR$/Notebooks/raw.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classification/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/classifiers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/statistic analysis.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/preprocessing/data/twitter.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
@@ -875,64 +852,23 @@
         <state relative-caret-position="-33269" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/pos_prep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/reclean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <marker date="1542760198177" expanded="true" signature="27:28" ph="..." />
-            <marker date="1542760198177" expanded="true" signature="27:32" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/combine_sources.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classification/preprocessing/data/data_ready.csv">
       <provider editor-type-id="csv-text-editor" />
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/pipeline.py">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Question_Classification/Lib/site-packages/gensim/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1067">
+          <caret line="1209" lean-forward="true" selection-start-line="1209" selection-end-line="1209" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/a.py">
+    <entry file="file://$PROJECT_DIR$/Classification Tool/classification_tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="139" column="50" selection-start-line="139" selection-start-column="50" selection-end-line="139" selection-end-column="50" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/nn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -947,57 +883,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/clean.py">
+    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Corpus/Evaluation/eval.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="40" column="95" selection-start-line="40" selection-start-column="95" selection-end-line="40" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/pos_prep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/combine_sources.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Corpus/Evaluation/data_ready.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-9163">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="16" selection-start-line="16" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/pickles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification Tool/classification_tool.py">
+    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/evaluate_classifiers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="149" column="75" selection-start-line="149" selection-start-column="75" selection-end-line="149" selection-end-column="75" />
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
-            <element signature="e#0#137#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/classifiers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/import_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/test_fs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/classifiers/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <marker date="1543290880508" expanded="true" signature="284:406" ph="..." />
+            <marker date="1543290880508" expanded="true" signature="506:514" ph="..." />
+            <marker date="1543290880508" expanded="true" signature="780:1440" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/reclean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1543272386467" expanded="true" signature="27:28" ph="..." />
+            <marker date="1543272386467" expanded="true" signature="27:32" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/extract_info_from_tag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/preprocessing/clean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/feature_set_generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="222" column="39" selection-start-line="222" selection-start-column="39" selection-end-line="222" selection-end-column="39" />
+        <state relative-caret-position="204">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1543248433836" expanded="true" signature="180:181" ph="..." />
-            <marker date="1543248433836" expanded="true" signature="2263:2337" ph="..." />
-            <marker date="1543248433836" expanded="true" signature="2845:3343" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="180:181" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="1579:1645" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="2185:2259" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="2784:2788" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="2784:2986" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="3011:3757" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="5044:5626" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="6132:6325" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="7764:8888" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="10749:12167" ph="..." />
+            <marker date="1543291255020" expanded="true" signature="13491:13682" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/asd.py">
+    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/load_test_features.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        <state relative-caret-position="408">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <marker date="1543291157073" expanded="true" signature="716:717" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classification/custom_scripts/export_data_sets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>

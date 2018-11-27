@@ -1,10 +1,10 @@
 import pandas as pd
 import csv
 
-def main():
+def main(path='data/'):
 
-    tags = pd.read_csv('data/' + 'pos_tagged_encoded.csv', sep='\t', header=None, names=['Word', 'Comp Tag', 'Tag', 'Lemma'])
-    labels = pd.read_csv('data/' + 'labels.csv', sep=';', header=None, index_col=[0], names=['Label'])
+    tags = pd.read_csv(path + 'pos_tagged_encoded.csv', sep='\t', header=None, names=['Word', 'Comp Tag', 'Tag', 'Lemma'])
+    labels = pd.read_csv(path + 'labels.csv', sep=';', header=None, index_col=[0], names=['Label'])
 
     total_labels = len(labels)
     total_rows = len(tags)
@@ -23,10 +23,10 @@ def main():
                     if int(tags.loc[current_row, 'Word']) == idx + 1:
                         break
                 except:
-                    if tags.loc[current_row, 'Lemma'] != '<unknown>' and tags.loc[current_row, 'Lemma'] != '<card>':
-                        current_sent.append(tags.loc[current_row, 'Lemma'])
-                    elif '|' in tags.loc[current_row, 'Lemma']:
+                    if '|' in tags.loc[current_row, 'Lemma']:
                         current_sent.append(tags.loc[current_row, 'Lemma'].split('|')[0])
+                    elif tags.loc[current_row, 'Lemma'] != '<unknown>' and tags.loc[current_row, 'Lemma'] != '<card>':
+                        current_sent.append(tags.loc[current_row, 'Lemma'])
                     else:
                         current_sent.append(tags.loc[current_row, 'Word'])
                     pos.append(tags.loc[current_row, 'Tag'])
@@ -40,7 +40,7 @@ def main():
 
     condensed['Label'] = labels['Label']
 
-    condensed.to_csv('data/' + 'data_ready.csv', sep=';')
+    condensed.to_csv(path + 'data_ready.csv', sep=';')
 
 if __name__ == '__main__':
     main()

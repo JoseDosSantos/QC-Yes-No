@@ -1,8 +1,8 @@
 import csv
 import sys
 
-def append_files(files, name):
-    with open('data/' + name + '.csv', 'w', newline='') as a:
+def append_files(files, name, path='data/'):
+    with open(path + name + '.csv', 'w', newline='') as a:
         writer = csv.writer(a, delimiter=';')
         for file in files:
             reader = csv.reader(open(file, 'r'), delimiter=';')
@@ -11,9 +11,13 @@ def append_files(files, name):
         a.flush()
         a.close()
 
-def main(sets):
+
+def main(sets, path='data/'):
+    files = []
     for i in sets:
-        append_files(sets[i], i)
+        append_files(sets[i], i, path)
+        files.append(path + i + '.csv')
+    return files
 
 if __name__ == '__main__':
     main(sys.argv[1:])
