@@ -145,19 +145,19 @@ class FeatureSetGenerator:
         def tfidf(word, blob, bloblist):
             return tf(word, blob) * idf(word, bloblist)
 
-        tfidf_frame = pd.DataFrame(index=range(len(self.data_set)), columns=self.bag_words).fillna(0.0)
+        self.tfidf_frame = pd.DataFrame(index=range(len(self.data_set)), columns=self.bag_words).fillna(0.0)
         data_set_sent = [' '.join(data['Feature']) for _, data in self.data_set.iterrows()]
 
-        bloblist = [tb(i) for i in data_set_sent]
+        self.bloblist = [tb(i) for i in data_set_sent]
         tfidf_list = []
-        for i, blob in enumerate(bloblist):
-            scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
+        for i, blob in enumerate(self.bloblist):
+            scores = {word: tfidf(word, blob, self.bloblist) for word in blob.words}
             for word in scores:
-                tfidf_frame.at[i, word] = round(scores[word], 5)
+                self.tfidf_frame.at[i, word] = round(scores[word], 5)
             tfidf_list.append(scores)
 
         self.fs_tfidf = deepcopy(self.fs_words)
-        self.fs_tfidf['Feature'] = tfidf_frame.values.tolist()
+        self.fs_tfidf['Feature'] = self.tfidf_frame.values.tolist()
         self.data_set['TfIdf'] = tfidf_list
         print('Created Featureset "{0}" for {1} documents.'.format('tfidf', len(self.fs_tfidf)))
 
@@ -183,9 +183,12 @@ class FeatureSetGenerator:
         tfidf_list = []
 
         for i, blob in enumerate(bloblist):
-            scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
+            scores = {word: tfidf(word, blob, self.bloblist) for word in blob.words}
             for word in scores:
-                tfidf_frame.at[i, word] = round(scores[word], 5)
+                try:
+                    tfidf_frame.at[i, word] = round(scores[word], 5)
+                except:
+                    tfidf_frame.at[i, word] = 0
             tfidf_list.append(scores)
 
         fs_tfidf = deepcopy(ds)
