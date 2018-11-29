@@ -25,26 +25,35 @@ def grid_search(X_train, y_train, clf, params):
               'time': 0}
     for p in grid:
         s = time()
-        clf.fit(X_train, y_train, p)
-        e = clf.evaluate()
-        if clf == 'nn':
-            p['layers'] = [l.get_config() for l in p['layers']]
+        try:
+            clf.fit(X_train, y_train, p)
+            e = clf.evaluate()
+            if clf == 'nn':
+                p['layers'] = [l.get_config() for l in p['layers']]
 
-        if e['accuracy'] > scores['accuracy']:
-            t = time() - s
-            scores['accuracy'] = e['accuracy']
-            scores['precision'] = e['precision']
-            scores['recall'] = e['recall']
-            scores['best'] = p
-            scores['time'] = t
+            if e['accuracy'] > scores['accuracy']:
+                t = time() - s
+                scores['accuracy'] = e['accuracy']
+                scores['precision'] = e['precision']
+                scores['recall'] = e['recall']
+                scores['best'] = p
+                scores['time'] = t
+        except Exception as e:
+            print('An error occured.')
+            print(e)
+            continue
 
 
-
-        print(e, p)
+    print(scores, p)
     return scores
 
-def eval_classifier(fsplit, featureset, X_train, y_train, X_test, y_test):
+def eval_classifier(data_set, fsplit, featureset, X_train, y_train, X_test, y_test):
     feat_size = len(X_train[0])
+    print(fsplit, featureset)
+    #clf = classifiers.MC(X_test=data_set, y_test=y_test)
+    #clf.fit()
+    #print(clf.evaluate())
+
     params = {'knn': {'classifier': classifiers.KNN,
                       'params': {'n_neighbors': [5, 15, 55],
                                  'leaf_size': [10, 30, 100],
@@ -68,10 +77,6 @@ def eval_classifier(fsplit, featureset, X_train, y_train, X_test, y_test):
                                  'learning_rate': [0.075, 0.1, 0.125]}},
               'nn': {'classifier': classifiers.NN,
                      'params': {'layers': [[Dropout(0.5, input_shape=(feat_size,)),
-                                             Dense(5000, kernel_initializer='normal', activation='relu', kernel_constraint=maxnorm(3)),
-                                             Dropout(0.5),
-                                             Dense(1, kernel_initializer='normal', activation='sigmoid')],
-                                           [Dropout(0.5, input_shape=(feat_size,)),
                                             Dense(500, kernel_initializer='normal', activation='relu', kernel_constraint=maxnorm(3)),
                                             Dropout(0.5),
                                             Dense(1, kernel_initializer='normal', activation='sigmoid')],
@@ -80,44 +85,52 @@ def eval_classifier(fsplit, featureset, X_train, y_train, X_test, y_test):
                                             Dropout(0.5),
                                             Dense(1, kernel_initializer='normal', activation='sigmoid')],
                                            [Dropout(0.5, input_shape=(feat_size,)),
-                                            Dense(500, kernel_initializer='normal', activation='relu', kernel_constraint=maxnorm(3)),
-                                            Dropout(0.4),
-                                            Dense(500, kernel_initializer='normal', activation='sigmoid'),
+                                            Dense(50, kernel_initializer='normal', activation='relu', kernel_constraint=maxnorm(3)),
+                                            Dropout(0.5),
+                                            Dense(50, kernel_initializer='normal', activation='sigmoid'),
                                             Dropout(0.25),
                                             Dense(1, kernel_initializer='normal', activation='sigmoid')]],
-                                'epochs': [5, 10]}}
+                                'epochs': [10]}}
               }
+
 
     scores = {}
 
     for c in params:
         print(c)
+        if c == 'nb' and (featureset == 'fs_w2v' or featureset == 'fs_d2v'):
+            print('Skipped due to negative values')
+            continue
         clf = params[c]['classifier'](X_test=X_test, y_test=y_test, train=False)
         scores[c] = grid_search(X_train, y_train, clf, params=params[c]['params'])
 
     out = pd.DataFrame(scores)
-    out.to_csv('\\stats\\' + fsplit + '\\' + featureset, sep=';')
+    out.to_csv('stats\\' + fsplit + '\\' + featureset + '.csv', sep=';')
 
 
-test_set = util.load_pickle(name='fs_test_0.1', path='..\\pickles\\test_features\\').fs_words
-X_test, y_test = np.array(list(test_set['Feature'])), np.array(test_set['Label'])
+def run():
+    feature_splits = [1]#, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    sets = ['fs_words', 'fs_words_min', 'fs_bigrams', 'fs_pos', 'fs_words_pos', 'fs_words_min_pos', 'fs_bigrams_pos',
+            'fs_words_bigrams', 'fs_words_bigrams_pos', 'fs_words_min_bigrams_pos', 'fs_w2v', 'fs_d2v']  # , 'fs_tfidf']
 
-feature_splits = [0.1]#, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
-for fsplit in feature_splits:
-    trained_set = util.load_pickle(name='fs_' + str(fsplit), path='..\\pickles\\feature_sets\\').fs_words
-    print('Loaded:', str(fsplit), 'with feature fs_words')
-    X_train, y_train = np.array(list(trained_set['Feature'])), np.array(trained_set['Label'])
-    eval_classifier(fsplit=str(fsplit), featureset='fs_words', X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test)
+    for fsplit in feature_splits:
+        test = util.load_pickle(name='fs_test_' + str(fsplit), path='..\\pickles\\test_features\\')
+        trained = util.load_pickle(name='fs_' + str(fsplit), path='..\\pickles\\feature_sets\\')
+        print('Loaded:', str(fsplit), 'with feature fs_words')
+
+        for s in sets:
+            featureset = s
+            test_set = test[featureset]
+            trained_set = trained[featureset]
+            X_train, y_train = np.array(list(trained_set['Feature'])), np.array(trained_set['Label'])
+            X_test, y_test = np.array(list(test_set['Feature'])), np.array(test_set['Label'])
+
+            eval_classifier(data_set=test['data_set'], fsplit=str(fsplit), featureset=featureset, X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test)
 
 
-#eval = clf.evaluate()
-#for e in eval:
-#    print(e, eval[e])
-
-
-
-
-
+if __name__ == '__main__':
+    print(1)
+    run()
 
 
 

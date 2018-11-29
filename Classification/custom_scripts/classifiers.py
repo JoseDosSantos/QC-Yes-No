@@ -9,7 +9,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from xgboost import XGBClassifier
 from keras.models import Sequential
-from keras.wrappers.scikit_learn import KerasClassifier
+
+import numpy as np
+import pandas as pd
 import tensorflow as tf
 from scipy.sparse import csc_matrix, csr_matrix
 
@@ -17,7 +19,7 @@ from scipy.sparse import csc_matrix, csr_matrix
 
 
 class Classifier:
-    def __init__(self, X_train=None, y_train=None, X_test=None, y_test=None, train=True, params={}):
+    def __init__(self, X_train=None, y_train=None, X_test=None, y_test=None, train=False, params={}):
         if X_test is not None and y_test is not None:
             self.set_test(X_test, y_test)
         if train:
@@ -147,3 +149,62 @@ class NN(Classifier):
         e['precision'] = sm.precision_score(self.y_test, pred)
         e['recall'] = sm.recall_score(self.y_test, pred)
         return e
+
+class RuleClassifier():
+    def get_label(self, row):
+        score = 0
+        if (row.loc[row.index[0], 'PosTags'][0].startswith('V') or 'oder' in row.loc[row.index[0], 'Feature'][-2:]) \
+                and not 'oder' in row.loc[row.index[0], 'Feature'][:-2] \
+                and not 'jemand' in row.loc[row.index[0], 'Feature'][:-2] \
+                and not 'wer' in row.loc[row.index[0], 'Feature'] \
+                and not 'was' in row.loc[row.index[0], 'Feature'] \
+                and not 'welche' in row.loc[row.index[0], 'Feature'] \
+                and not 'welchem' in row.loc[row.index[0], 'Feature'] \
+                and not 'wieso' in row.loc[row.index[0], 'Feature'] \
+                and not 'wo' in row.loc[row.index[0], 'Feature'] \
+                and not 'warum' in row.loc[row.index[0], 'Feature'] \
+                and not 'wie' in row.loc[row.index[0], 'Feature'] \
+                and not 'denn' in row.loc[row.index[0], 'Feature'] \
+                and not 'wann' in row.loc[row.index[0], 'Feature']:
+            return 1
+        else:
+            return 0
+
+    def predict(self, data):
+        label = []
+        for i in data.index.values.tolist():
+            label.append(self.get_label(data.loc[[i]]))
+        return (np.array(label))
+
+
+    def accuracy(self, data):
+        labels = self.predict(data)
+        false_positive = 0
+        false_negative = 0
+        total_pos = data['Label'].values.tolist().count(1)
+        found_pos = labels.count(1)
+        for index, value in enumerate(labels):
+            if value != data.loc[index, 'Label']:
+                if value == 1:
+                    false_positive += 1
+                else:
+                    false_negative += 1
+                    print(index, data.loc[index, 'Feature'], value, data.loc[index, 'Label'])
+
+        print('Accuracy:', (len(labels) - (false_positive + false_negative)) / len(labels))
+        print('False Positive: ', false_positive / len(labels))
+        print('False Negative: ', false_negative / len(labels))
+        print('Precision: ', (found_pos - false_positive) / found_pos)
+        print('Recall: ', (found_pos - false_positive) / total_pos)
+        return ((len(labels) - (false_positive + false_negative)) / len(labels))
+
+class MC(Classifier):
+    def __eq__(self, other):
+        return (other == 'mc')
+
+    def fit(self, X_train=None, y_train=None, params={}):
+        self.clf = RuleClassifier()
+
+    def set_test(self, X_test, y_test):
+        self.X_test = X_test
+        self.y_test = y_test

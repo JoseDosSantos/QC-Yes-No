@@ -7,4 +7,5 @@ def create_pickle(data, name, path=DEFAULT_PICKLE_LOCATION ):
 
 def load_pickle(name, path=DEFAULT_PICKLE_LOCATION):
     with open(path + name + '.pickle', 'rb') as f:
-        return pickle.load(f)
+        data = pickle.load(f)
+        return data

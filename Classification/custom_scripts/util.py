@@ -15,7 +15,7 @@ def get_train_test(feature_set, test_size=0.2, f_col='Feature', l_col='Label', r
 
 
 def test_all(featureset, runs=5, test_size=0.2, f_col='Feature'):
-    algs =  {'k_nearest' : {'n_jobs' : -1},
+    algs = {'k_nearest' : {'n_jobs' : -1},
              'naive_bayes': {},
              'random_forest': {'n_estimators': 100, 'n_jobs': -1, 'min_samples_split': 10},
              'decision_tree': {},
