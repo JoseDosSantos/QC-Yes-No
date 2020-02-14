@@ -9,10 +9,10 @@ from _datetime import datetime
 print(os.path.dirname(os.path.realpath(__file__)))
 nltk.data.path.append('C:\\Users\\jcersovsky\\Documents\\Projects\\Bachelorarbeit\\nltk_data')
 
-consumer_key = "363klSkj4Eb6cy36ZFwc1zLwN"
-consumer_secret = "xSnNdpeicNyGmK7mredAK0pCKhoTUOX135bcv1ksxgKAtg5n7h"
-access_token = "1594193462-keWE3IhUAejzwlJSQgJv8oEmjAzmVXEgk0lP9Xa"
-access_token_secret = "NE6pm63qZDkYI6xfTpXR9kITWXfyefgNNvUHlmk5f3Dyy"
+consumer_key = 
+consumer_secret = 
+access_token = 
+access_token_secret = 
 
 # Creating the authentication object
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
